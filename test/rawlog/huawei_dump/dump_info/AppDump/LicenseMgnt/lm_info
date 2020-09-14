@@ -1,0 +1,24 @@
+
+----- ALM Info -----
+ALM Version : AdaptiveLMV100R005C01SPC040
+
+----- Device Info -----
+Product ESN : DD41B9C1332C47ECB1447EF7494A85D6C653214C
+
+----- License Info -----
+License Status : Undefined
+License Revoke Ticket : 
+
+----- License FeatureKey Info -----
+Smart Provisioning, Data Accquisition :
+    CurrentState : Unknown
+    ControlValue : 0
+    RemoteControlValue : 0
+
+----- License Alarm Info -----
+RemainGraceDays : 0
+RemainCommissioningDays : 0
+ProductESNInvalid : 0
+FileError : 255
+ProductESNNotMatch : 255
+ProductVerNotMatch : 255

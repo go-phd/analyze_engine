@@ -1,0 +1,49 @@
+           CPU0       
+ 32: 1349663237       GIC  timer
+ 36:          0       GIC  c51
+ 41:          0       GIC  cpld
+ 46:   22881021       GIC  hi_mci
+ 50:          0       GIC  IRQ_GPIO0TO31
+ 51:          0       GIC  IRQ_GPIO32TO63
+ 52:          0       GIC  gmac_net
+ 53:          0       GIC  gmac_net
+ 54:   69424350       GIC  gmac_net
+ 55:          0       GIC  gmac_net
+ 59:          0       GIC  IRQ_GPIO64TO95
+ 60:          0       GIC  IRQ_GPIO96TO127
+ 61:          0       GIC  IRQ_GPIO128TO148
+ 64:        709       GIC  serial
+ 65:    9928906       GIC  Hi1710_uart
+ 66:         57       GIC  Hi1710_uart
+ 67:          0       GIC  ehci_hcd:usb1
+ 68:          1       GIC  ohci_hcd:usb2
+ 69:          0       GIC  spi
+ 70:          0       GIC  pwm
+ 71:          0       GIC  dmac
+ 74: 1670079888       GIC  i2c
+ 75:   17868791       GIC  i2c
+ 76:      52288       GIC  i2c
+ 77: 1268839787       GIC  i2c
+ 78: 1232703609       GIC  i2c
+ 79:  240557445       GIC  i2c
+ 88:    3630845       GIC  mctp
+ 96:  308225903       GIC  i2c
+ 98:       1334       GIC  dwc_otg, dwc_otg_pcd
+ 99:          0       GIC  dwc_otg, dwc_otg_pcd
+100:          0       GIC  dwc_otg, dwc_otg_pcd
+105:      10230       GIC  bt
+107:          0       GIC  peci
+108:          0       GIC  adc
+110:          0       GIC  sol
+113:          0       GIC  EDMA_IRQ
+121:  106668660       GIC  ipmb
+145:         11       GIC  comm_dev
+146:         10       GIC  comm_dev
+FIQ:              fiq_glue
+IPI1:          0  CPU wakeup interrupts
+IPI2:          0  Timer broadcast interrupts
+IPI3:          0  Rescheduling interrupts
+IPI4:          0  Function call interrupts
+IPI5:          0  Single function call interrupts
+IPI6:          0  CPU stop interrupts
+Err:          0

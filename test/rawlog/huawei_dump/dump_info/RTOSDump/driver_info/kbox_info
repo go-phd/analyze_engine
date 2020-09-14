@@ -1,0 +1,1080 @@
+cat /proc/ekbox
+
+EKbox head info:phyaddr=0x84be0000, physize=0x1f000, msgno=0
+EKbox show message[0, 0x6318]:
+                                                               
+EKbox: kernel init success!
+EKbox: memory init success!
+EKbox: irq init success!
+EKbox: console init success!
+EKbox: SVN Last Changed Rev: 236824
+EKbox: mastercore load success!
+[    0.000000] Booting Linux on physical CPU 0x0
+[    0.000000] Initializing cgroup subsys cpuset
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Initializing cgroup subsys cpuacct
+[    0.000000] Linux version 3.10.53-HULK2 (ci@SZX1000044417) (gcc version 4.7.1 (SDK V100R005C00SPC030B050) ) #1 SMP Tue Feb 6 01:11:47 CST 2018
+[    0.000000] CPU: ARMv7 Processor [414fc091] revision 1 (ARMv7), cr=18c53c7d
+[    0.000000] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+[    0.000000] Machine: Hisilicon A9, model: V2P-CA9
+[    0.000000] Ignoring memory below PHYS_OFFSET: 0x80000000-0x86000000
+[    0.000000] Memory policy: ECC disabled, Data cache writealloc
+[    0.000000] On node 0 totalpages: 106496
+[    0.000000]   Normal zone: 1040 pages used for memmap
+[    0.000000]   Normal zone: 0 pages reserved
+[    0.000000]   Normal zone: 106496 pages, LIFO batch:31
+[    0.000000] dynamic memory enable.
+[    0.000000] [dts]:cpu type is 1710
+[    0.000000] PERCPU: Embedded 13 pages/cpu @c059b000 s29184 r8192 d15872 u53248
+[    0.000000] pcpu-alloc: s29184 r8192 d15872 u53248 alloc=13*4096
+[    0.000000] pcpu-alloc: [0] 0 
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 105456
+[    0.000000] Kernel command line: mem=416M console=ttyAMA0,115200n8N root=/dev/ram0 rdinit=/sbin/init extinit=/sbin/init extroot=/dev/mmcblk0p5 mtdparts=hi_sfc.0:512k(u-boot),256k(reserved),256k(cfg_info),512k(u-boot_bak),384k(reserved_bak),128k(env) rw rootfstype=ext4 highres=off ekbox=0x1f000$0x84be0000 kbox_mem=2944k@0x84900000
+[    0.000000] PID hash table entries: 2048 (order: 1, 8192 bytes)
+[    0.000000] Dentry cache hash table entries: 65536 (order: 6, 262144 bytes)
+[    0.000000] Inode-cache hash table entries: 32768 (order: 5, 131072 bytes)
+[    0.000000] Memory: 416MB = 416MB total
+[    0.000000] Memory: 413824k/413824k available, 12160k reserved, 0K highmem
+[    0.000000] Virtual kernel memory layout:
+[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+[    0.000000]     fixmap  : 0xffe00000 - 0xfffe0000   (1920 kB)
+[    0.000000]     vmalloc : 0xda800000 - 0xff000000   ( 584 MB)
+[    0.000000]     lowmem  : 0xc0000000 - 0xda000000   ( 416 MB)
+[    0.000000]     pkmap   : 0xbfe00000 - 0xc0000000   (   2 MB)
+[    0.000000]     modules : 0xbf000000 - 0xbfe00000   (  14 MB)
+[    0.000000]       .text : 0xc0008000 - 0xc044dfc4   (4376 kB)
+[    0.000000]       .init : 0xc044e000 - 0xc04b0200   ( 393 kB)
+[    0.000000]       .data : 0xc04b2000 - 0xc04fb8b8   ( 295 kB)
+[    0.000000]        .bss : 0xc04fb8b8 - 0xc05829bc   ( 541 kB)
+[    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU restricting CPUs from NR_CPUS=4 to nr_cpu_ids=1.
+[    0.000000] NR_IRQS:512
+[    0.000000] Can't find irq_group in dtb.
+[    0.000000] sched_clock: 32 bits at 100MHz, resolution 10ns, wraps every 42949ms
+[    0.000000] [DTS][WDT]-->WARN:Cannot find watchdog info in dtb, make sure there is not watchdog on board.
+[    0.000000] [DTS][WDT]-->WARN:No watchdog info in dtb, make sure there is no watchdog on board.
+[    0.000000] [DTS][LED]-->WARN:Cannot find led info in dtb,make sure there is no led on board
+[    0.000000] Console: colour dummy device 80x30
+[    0.000000] ODEBUG: 0 of 0 active objects replaced
+[    0.000000] kmemleak: Kernel memory leak detector disabled
+[    0.004259] Calibrating delay loop... 1594.16 BogoMIPS (lpj=7970816)
+[    0.089975] pid_max: default: 32768 minimum: 301
+[    0.090273] Mount-cache hash table entries: 512
+[    0.091471] Initializing cgroup subsys debug
+[    0.091495] Initializing cgroup subsys devices
+[    0.091509] Initializing cgroup subsys freezer
+[    0.091565] CPU: Testing write buffer coherency: ok
+[    0.091976] Setting up static identity map for 0xc0301b90 - 0xc0301be8
+[    0.094333] Brought up 1 CPUs
+[    0.094356] SMP: Total of 1 processors activated (1594.16 BogoMIPS).
+[    0.094366] CPU: All CPU(s) started in SVC mode.
+[    0.095491] devtmpfs: initialized
+[    0.100754] [DTS][WDT]-->WARN:No watchdog registered and swdt would not be started.
+[    0.102285] NET: Registered protocol family 16
+[    0.102864] DMA: preallocated 256 KiB pool for atomic coherent allocations
+[    0.109696] No ATAGs?
+[    0.109729] hw-breakpoint: found 5 (+1 reserved) breakpoint and 1 watchpoint registers.
+[    0.109745] hw-breakpoint: maximum watchpoint size is 4 bytes.
+[    0.109773] The node of l2 cache is null, maybe the soc haven't l2 cache
+[    0.139247] bio: create slab <bio-0> at 0
+[    0.142500] SCSI subsystem initialized
+[    0.144199] usbcore: registered new interface driver usbfs
+[    0.144590] usbcore: registered new interface driver hub
+[    0.145074] usbcore: registered new device driver usb
+[    0.147520] Switching to clocksource arm,hisi_timer
+[    0.200359] NET: Registered protocol family 2
+[    0.201368] TCP established hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.201460] TCP bind hash table entries: 4096 (order: 4, 65536 bytes)
+[    0.201550] TCP: Hash tables configured (established 4096 bind 4096)
+[    0.201629] TCP: reno registered
+[    0.201657] UDP hash table entries: 256 (order: 1, 12288 bytes)
+[    0.201711] UDP-Lite hash table entries: 256 (order: 1, 12288 bytes)
+[    0.202101] NET: Registered protocol family 1
+[    0.202162] PCI: CLS 0 bytes, default 64
+[    0.202468] Trying to unpack rootfs image as initramfs...
+[    1.184050] Freeing initrd memory: 1448K (c5001000 - c516b000)
+[    1.184310] hw perfevents: enabled with ARMv7 Cortex-A9 PMU driver, 7 counters available
+[    1.186764] audit: initializing netlink socket (disabled)
+[    1.186833] type=2000 audit(1.170:1): initialized
+[    1.287285] bounce pool size: 64 pages
+[    1.287313] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    1.309046] CetaIDTLB: CetaIDTLB init,set working mode as ENABLE and disenable the ceta_printk.
+[    1.311798] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+[    1.312565] msgmni has been set to 811
+[    1.316154] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 254)
+[    1.316178] io scheduler noop registered
+[    1.316190] io scheduler deadline registered (default)
+[    1.587297] Serial: 8250/16550 driver, 4 ports, IRQ sharing disabled
+[    1.591972] 20007000.uart: ttyAMA0 at MMIO 0x20007000 (irq = 64) is a 16550A
+[    2.122343] console [ttyAMA0] enabled
+[    2.147851] brd: module loaded
+[    2.161721] loop: module loaded
+[    2.169228] tun: Universal TUN/TAP device driver, 1.6
+[    2.174336] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    2.181485] usbcore: registered new interface driver usb-storage
+[    2.188373] TCP: cubic registered
+[    2.191759] NET: Registered protocol family 17
+[    2.196267] Key type dns_resolver registered
+[    2.200697] VFP support v0.3: implementor 41 architecture 3 part 30 variant 9 rev 4
+[    2.210364] kbox: ddrram: verify fs magic fail. It's ok if first time using this device
+[    2.218348] kbox_exception_dump abort for NULL dump_path!
+[    2.224155] kbox:create region panic, size=65536
+[    2.230162] kbox: load OK
+[    2.232828] lock-task: major[251] minor[0]
+[    2.237788] lock-task: sched_ctrl created.
+[    2.243364] Freeing unused kernel memory: 392K (c044e000 - c04b0000)
+[    2.249712] ******** Total Boot time: 2245 ms, uncompress initrd cost 981 ms ********
+[    2.443338] jffs2: version 2.2. (NAND) (SUMMARY)  © 2001-2006 Red Hat, Inc.
+[    2.590976] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.599789] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.625360] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.650170] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.658559] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.670039] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.690074] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.700132] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.720050] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.730120] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.750185] hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+[    2.823594] mmc0: BKOPS_EN bit is not set
+[    2.832860] mmc0: new high speed MMC card at address 0001
+[    2.850822] mmcblk0: mmc0:0001 008G30 7.28 GiB 
+[    2.860149] mmcblk0boot0: mmc0:0001 008G30 partition 1 4.00 MiB
+[    2.870256] mmcblk0boot1: mmc0:0001 008G30 partition 2 4.00 MiB
+[    2.884232]  mmcblk0: p1 < p5 p6 p7 > p2 p4
+[    2.922680]  mmcblk0boot1: unknown partition table
+[    2.942623]  mmcblk0boot0: unknown partition table
+[    3.518233] EXT4-fs (mmcblk0p5): mounted filesystem with ordered data mode. Opts: (null)
+[    4.960442] NET: Registered protocol family 10
+[    5.012333] 8021q: 802.1Q VLAN Support v1.8
+[    5.070495] 1,1970-01-01 00:00:05,1043,sys_save_reset_type,717,reset:power_up
+[    5.077630] 2,1970-01-01 00:00:05,1043,sys_info_probe,2032,SDK version: 3.31
+[    5.084737] 3,1970-01-01 00:00:05,1043,sys_info_probe,2033,SDK build_time 12:47:16 Jun 19 2019
+[    5.250719] Hisilicon GMAC net controler.
+[    5.909997] RTL8211 read phy led value = 0xc00b!
+[    5.914627] 4,1970-01-01 00:00:05,1055,GMAC_Hi1710Probe,6667,eth2 find RTL8211 phy!
+[    6.130024] 5,1970-01-01 00:00:06,1055,GMAC_Hi1710Probe,6683,eth3 no find match phy id 0xffffffff!
+[    6.279983] 6,1970-01-01 00:00:06,1055,GMAC_Hi1710InitChip,4387,check gmac autoneg state fail(eth3)
+[    7.320218] Init ok.
+[    7.470568] 7,1970-01-01 00:00:07,1072,wdt_probe,531,wdt_probe ok, feed dog by usr!
+[    7.530502] [damc_init][807]:dmac_init ok!
+[    7.690499] Init ok.
+[    7.754083] Init ok.
+[    7.860434] 8,1970-01-01 00:00:07,1097,sol_init,925,sol init ok!
+[    8.030676] 9,1970-01-01 00:00:08,1109,hisfc350_spi_probe,721,Spi(cs1) ID: 0x00 0x00 0x00 0x00 0x00 0x00
+[    8.040252] 10,1970-01-01 00:00:08,1109,hisfc350_spi_probe,721,Spi(cs0) ID: 0xC2 0x20 0x18 0xC2 0x20 0x18
+[    8.049819] 11,1970-01-01 00:00:08,1109,hisfc350_show_spi,676,Spi(cs0): 
+[    8.056608] 12,1970-01-01 00:00:08,1109,hisfc350_show_spi,678,Name:"MX25L128"
+[    8.063802] 6 cmdlinepart partitions found on MTD device hi_sfc.0
+[    8.069884] Creating 6 MTD partitions on "hi_sfc.0":
+[    8.074907] 0x000000000000-0x000000080000 : "u-boot"
+[    8.130547] 0x000000080000-0x0000000c0000 : "reserved"
+[    8.197043] 0x0000000c0000-0x000000100000 : "cfg_info"
+[    8.247037] 0x000000100000-0x000000180000 : "u-boot_bak"
+[    8.327540] 0x000000180000-0x0000001e0000 : "reserved_bak"
+[    8.390601] 0x0000001e0000-0x000000200000 : "env"
+[    8.570547] 13,1970-01-01 00:00:08,1137,dboot_probe,668,boot from uboot 0
+[    8.786503] 14,1970-01-01 00:00:08,1137,get_flash_uboot_ver,391,U-Boot0 Version: 2.1.13 Built: Dec 24 2018 - 20:23:20
+[    8.797157] 15,1970-01-01 00:00:08,1137,get_flash_uboot_ver,392,U-Boot1 Version: 2.1.13 Built: Dec 24 2018 - 20:23:20
+[    8.807954] 16,1970-01-01 00:00:08,1137,dboot_probe,672,BMC reset count: 0
+[    8.814872] 17,1970-01-01 00:00:08,1137,dboot_probe,673,HOST reset count: 0
+[    8.821871] 18,1970-01-01 00:00:08,1137,dboot_probe,674,CHIP reset count: 0
+[    8.890504] 19,1970-01-01 00:00:08,1141,pwm_init,1353,pwm_init ok!
+[    9.170812] Hi1710_uart.0: ttySS0 at MMIO 0x20008000 (irq = 65) is a AMBA/ttySS
+[    9.180728] Hi1710_uart.1: ttySS1 at MMIO 0x20009000 (irq = 66) is a AMBA/ttySS
+[    9.500668] register fiq0 callback
+[    9.500712] addr0, 0xd90e6000
+[    9.503679] fiq_stack init ok
+
+[    9.506651] fiq_glue_register_handler, ok[    9.510595] fiq source is 0!
+[    9.510615] fiq type is 1!
+[    9.510630] fiq clean source is 0!
+[    9.510642] fiq dead loop is 1!
+[    9.510668] [request_fiq]fiq first register succeed!
+[    9.510686] kbox:create region dying, size=16384
+[    9.640115] 20,1970-01-01 00:00:09,4,gmac_adjustlink,866,eth2,link = 1,speed = 0x7,duplex = 0x1
+[    9.697906] 21,1970-01-01 00:00:09,4,timer_gmac,1355,linkstatus is up !!! oldlink = 0,nowlink = 1
+[    9.744797] dwc_otg_fp_sto: version 2.93a 15-MAY-2011
+[    9.976786] Core Release: 2.94a
+[    9.979939] Setting default values for core params
+[   10.184777] Shared Tx FIFO mode
+[   10.187941] DWC ALLOC  1164.
+[   10.190904] DWC ALLOC  1170.
+[   10.193784] DWC ALLOC  1178.
+[   10.196677] DWC ALLOC  1182.
+[   10.199666] ===global_regs->gusbcfg = 0x1400 ===
+[   10.226629] virtual_fp: module license 'unspecified' taints kernel.
+[   10.232950] Disabling lock debugging due to kernel taint
+[   10.310092] dwc_otg_keyboard: version 2.93a 15-MAY-2011
+[   10.551127] Core Release: 2.94a
+[   10.554281] Setting default values for core params
+[   10.759067] Shared Tx FIFO mode
+[   10.762266] DWC ALLOC  1166.
+[   10.765195] DWC ALLOC  1172.
+[   10.768073] DWC ALLOC  1180.
+[   10.771019] DWC ALLOC  1184.
+[   10.774018] ===global_regs->gusbcfg = 0x1400 ===
+[   10.872154] dwc_otg_cd: version 2.93a 15-MAY-2011
+[   11.100124] Core Release: 2.94a
+[   11.103278] Setting default values for core params
+[   11.208224] ==speed = 0 phy_type=1==
+[   11.311678] Using Buffer DMA mode
+[   11.314996] Periodic Transfer Interrupt Enhancement - disabled
+[   11.320842] Multiprocessor Interrupt Enhancement - disabled
+[   11.326402] OTG VER PARAM: 1, OTG VER FLAG: 1
+[   11.330788] Initializing DCFG.DevSpd to 0x0
+[   11.334987] Shared Tx FIFO mode
+[   11.338130] Initializing DCFG.DevSpd to 0x0
+[   11.342353] DWC ALLOC  1164.
+[   11.345284] DWC ALLOC  1170.
+[   11.348160] DWC ALLOC  1178.
+[   11.351097] DWC ALLOC  1182.
+[   11.354108] ===global_regs->gusbcfg = 0x1400 ===
+[   12.230864] EXT4-fs (mmcblk0p7): recovery complete
+[   12.231774] EXT4-fs (mmcblk0p7): mounted filesystem with ordered data mode. Opts: (null)
+[   12.723358] pramdisk: registered block device major 254
+[   12.723566] starting add gendisk!
+[   12.740574] add gendisk done!
+[   12.740598] pramdisk: module loaded
+[   14.030528] 22,1970-01-01 00:00:14,1304,c51_Init,893,g_vir_addr_prt 0xdc820000! 
+[   14.030528] 
+[   14.039427] 23,1970-01-01 00:00:14,1304,c51_Init,910,OK!
+[   14.039427] 
+[   14.156127] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[   14.200485] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[   14.290559] hi1710-ehci hi1710-ehci.0: hi1710-ehci
+[   14.290622] hi1710-ehci hi1710-ehci.0: new USB bus registered, assigned bus number 1
+[   14.290806] hi1710-ehci hi1710-ehci.0: irq 67, io mem 0x18020000
+[   14.310102] hi1710-ehci hi1710-ehci.0: USB 0.0 started, EHCI 1.00
+[   14.330639] hub 1-0:1.0: USB hub found
+[   14.330696] hub 1-0:1.0: 1 port detected
+[   14.340499] In ohci_hcd_hi1710_drv_probe
+[   14.344461] hi1710-ohci hi1710-ohci.0: hi1710-ohci
+[   14.344518] hi1710-ohci hi1710-ohci.0: new USB bus registered, assigned bus number 2
+[   14.344591] hi1710-ohci hi1710-ohci.0: irq 68, io mem 0x18010000
+[   14.410487] hub 2-0:1.0: USB hub found
+[   14.410547] hub 2-0:1.0: 1 port detected
+[   14.470731] FS-Cache: Loaded
+[   14.540464] CacheFiles: Loaded
+[   14.670534] RPC: Registered named UNIX socket transport module.
+[   14.670561] RPC: Registered udp transport module.
+[   14.670575] RPC: Registered tcp transport module.
+[   14.670588] RPC: Registered tcp NFSv4.1 backchannel transport module.
+[   14.802001] FS-Cache: Netfs 'nfs' registered for caching
+[   15.100133] FS-Cache: Netfs 'cifs' registered for caching
+[   15.330450] device-mapper: ioctl: 4.24.0-ioctl (2013-01-15) initialised: dm-devel@redhat.com
+[   15.440747] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[   18.257127] /usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+[   24.223611] 24,1970-01-01 00:00:24,1530,wdt_ioctl,391,feed dog by usr
+[   48.660429] 25,1970-01-01 00:00:48,1548,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+[   49.161349] 26,1970-01-01 00:00:49,1534,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[   49.340167] 27,1970-01-01 00:00:49,1534,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+[   50.910068] 28,1970-01-01 00:00:50,1546,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[   55.291770] /usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+[   56.783154] 29,1970-01-01 00:00:56,1604,c51_ioctl,346,2.c51_loadCode  ok!
+[   56.783154] 
+[   96.319826] 30,1970-01-01 00:01:36,1613,set_cd_param,1340,set USBPHY3 param = 0x41f24 .
+[   96.327980] 31,1970-01-01 00:01:36,1613,set_cd_param,1346,set DCTL param = 0x10002 .
+[   96.825825] ## mk disconnect! ##
+[   97.194650] /usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+[   98.950708] ## mk connect! ##
+[   98.954218] HID USB RESET
+[  101.428842] bio: create slab <bio-1> at 1
+[  102.098174] FAT-fs (dm-0): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+[  103.162129] ip_tables: (C) 2000-2006 Netfilter Core Team
+[  103.251815] FS-Cache: Cache "bmccache" added (type cachefiles)
+[  103.257716] CacheFiles: File cache on mmcblk0p7 registered
+[  107.902709] 32,2019-08-01 01:55:43,1684,ipmb_ioctl,1696,ipmb check read was interrupted
+[  108.791533] 33,2019-08-01 01:55:44,1675,uart_get_x86_info,523,x86 uart 1 not work
+[  114.667223] HID USB RESET
+[  122.062147] 34,2019-08-01 01:55:59,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[  130.143483] 35,2019-08-01 01:56:07,1628,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x90),reason(0x1)
+[  218.612179] 36,2019-08-01 01:57:35,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[  288.922913] HID USB RESET
+[  289.716869] HID USB RESET
+[  289.750195] MK_SETUP 00.05 v0002 i0000 l0000
+[  289.757940] MK_SETUP 80.06 v0100 i0000 l0008
+[  289.764046] MK_SETUP 80.06 v0100 i0000 l0012
+[  289.770545] MK_SETUP 80.06 v0200 i0000 l0008
+[  289.776593] MK_SETUP 80.06 v0200 i0000 l003b
+[  289.784339] MK_SETUP 80.06 v0300 i0000 l0002
+[  289.790356] MK_SETUP 80.06 v0300 i0000 l0004
+[  289.796509] MK_SETUP 00.09 v0001 i0000 l0000
+[  289.802414] MK_SETUP 80.08 v0000 i0000 l0001
+[  289.808497] MK_SETUP a1.03 v0000 i0000 l0001
+[  289.814601] MK_SETUP 21.0b v0000 i0000 l0000
+[  289.820296] MK_SETUP 21.09 v0200 i0000 l0001
+[  289.826673] MK_SETUP 21.09 v0200 i0000 l0001
+[  290.523639] MK_SETUP 80.06 v0200 i0000 l003b
+[  290.531472] MK_SETUP 81.06 v2200 i0001 l003c
+[  290.539109] MK_SETUP a1.03 v0000 i0001 l0001
+[  290.545242] MK_SETUP 21.0b v0000 i0001 l0000
+[  312.393349] 37,2019-08-01 01:59:09,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[  330.474219] MK_SETUP 21.09 v0200 i0000 l0001
+[  330.834230] MK_SETUP 21.09 v0200 i0000 l0001
+[  339.234324] MK_SETUP 21.09 v0200 i0000 l0001
+[  340.354317] MK_SETUP 21.09 v0200 i0000 l0001
+[  546.101455] 38,2019-08-01 02:03:02,1675,uart_get_x86_info,523,x86 uart 1 not work
+[  546.401186] 39,2019-08-01 02:03:02,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+[  546.651319] 40,2019-08-01 02:03:02,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x9)
+[  546.977937] 41,2019-08-01 02:03:02,2117,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+[  547.035216] 42,2019-08-01 02:03:03,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x9)
+[  547.576380] 43,2019-08-01 02:03:03,2659,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+[  555.686968] HID USB RESET
+[  573.311627] 44,2019-08-01 02:03:30,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+[  600.540938] 45,2019-08-01 02:03:57,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[  600.801913] 46,2019-08-01 02:03:57,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[  624.800539] 47,2019-08-01 02:04:21,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+[  628.672061] 48,2019-08-01 02:04:25,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[  665.041008] HID USB RESET
+[  665.835078] HID USB RESET
+[  665.868391] MK_SETUP 00.05 v0002 i0000 l0000
+[  665.876067] MK_SETUP 80.06 v0100 i0000 l0008
+[  665.882066] MK_SETUP 80.06 v0100 i0000 l0012
+[  665.888516] MK_SETUP 80.06 v0200 i0000 l0008
+[  665.894773] MK_SETUP 80.06 v0200 i0000 l003b
+[  665.902569] MK_SETUP 80.06 v0300 i0000 l0002
+[  665.908580] MK_SETUP 80.06 v0300 i0000 l0004
+[  665.914727] MK_SETUP 00.09 v0001 i0000 l0000
+[  665.920639] MK_SETUP 80.08 v0000 i0000 l0001
+[  665.926779] MK_SETUP a1.03 v0000 i0000 l0001
+[  665.932829] MK_SETUP 21.0b v0000 i0000 l0000
+[  665.938512] MK_SETUP 21.09 v0200 i0000 l0001
+[  665.944819] MK_SETUP 21.09 v0200 i0000 l0001
+[  666.774346] MK_SETUP 80.06 v0200 i0000 l003b
+[  666.782043] MK_SETUP 81.06 v2200 i0001 l003c
+[  666.789796] MK_SETUP a1.03 v0000 i0001 l0001
+[  666.796146] MK_SETUP 21.0b v0000 i0001 l0000
+[  871.672088] 49,2019-08-01 02:08:28,1675,uart_get_x86_info,523,x86 uart 1 not work
+[  871.781836] 50,2019-08-01 02:08:28,3135,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+[  871.853080] 51,2019-08-01 02:08:28,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+[  873.239199] 52,2019-08-01 02:08:30,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[  881.081643] HID USB RESET
+[  887.621199] 53,2019-08-01 02:08:44,2654,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 2
+[  924.725722] 54,2019-08-01 02:09:20,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[  926.661362] 55,2019-08-01 02:09:22,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[  989.525745] HID USB RESET
+[  990.320089] HID USB RESET
+[  990.353404] MK_SETUP 00.05 v0002 i0000 l0000
+[  990.361084] MK_SETUP 80.06 v0100 i0000 l0008
+[  990.367196] MK_SETUP 80.06 v0100 i0000 l0012
+[  990.373755] MK_SETUP 80.06 v0200 i0000 l0008
+[  990.379820] MK_SETUP 80.06 v0200 i0000 l003b
+[  990.387589] MK_SETUP 80.06 v0300 i0000 l0002
+[  990.393629] MK_SETUP 80.06 v0300 i0000 l0004
+[  990.399677] MK_SETUP 00.09 v0001 i0000 l0000
+[  990.405573] MK_SETUP 80.08 v0000 i0000 l0001
+[  990.411595] MK_SETUP a1.03 v0000 i0000 l0001
+[  990.417590] MK_SETUP 21.0b v0000 i0000 l0000
+[  990.423253] MK_SETUP 21.09 v0200 i0000 l0001
+[  990.429464] MK_SETUP 21.09 v0200 i0000 l0001
+[  991.125641] MK_SETUP 80.06 v0200 i0000 l003b
+[  991.133429] MK_SETUP 81.06 v2200 i0001 l003c
+[  991.141056] MK_SETUP a1.03 v0000 i0001 l0001
+[  991.147202] MK_SETUP 21.0b v0000 i0001 l0000
+[ 1024.416753] MK_SETUP 21.09 v0200 i0000 l0001
+[ 1024.956760] MK_SETUP 21.09 v0200 i0000 l0001
+[ 1950.844292] 56,2019-08-01 02:26:26,1675,uart_get_x86_info,523,x86 uart 1 not work
+[ 1951.153898] 57,2019-08-01 02:26:27,3875,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+[ 1951.762246] 58,2019-08-01 02:26:27,2117,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+[ 1953.709021] 59,2019-08-01 02:26:29,1981,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[ 1960.445837] HID USB RESET
+[ 1967.361864] 60,2019-08-01 02:26:44,2654,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 2
+[ 2004.193811] 61,2019-08-01 02:27:21,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[ 2008.472243] 62,2019-08-01 02:27:25,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+[ 2033.203525] 63,2019-08-01 02:27:49,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+[ 2069.074846] HID USB RESET
+[ 2069.868958] HID USB RESET
+[ 2069.902336] MK_SETUP 00.05 v0002 i0000 l0000
+[ 2069.910024] MK_SETUP 80.06 v0100 i0000 l0008
+[ 2069.916173] MK_SETUP 80.06 v0100 i0000 l0012
+[ 2069.922709] MK_SETUP 80.06 v0200 i0000 l0008
+[ 2069.928731] MK_SETUP 80.06 v0200 i0000 l003b
+[ 2069.936503] MK_SETUP 80.06 v0300 i0000 l0002
+[ 2069.942522] MK_SETUP 80.06 v0300 i0000 l0004
+[ 2069.948541] MK_SETUP 00.09 v0001 i0000 l0000
+[ 2069.954454] MK_SETUP 80.08 v0000 i0000 l0001
+[ 2069.960476] MK_SETUP a1.03 v0000 i0000 l0001
+[ 2069.966604] MK_SETUP 21.0b v0000 i0000 l0000
+[ 2069.972338] MK_SETUP 21.09 v0200 i0000 l0001
+[ 2069.978567] MK_SETUP 21.09 v0200 i0000 l0001
+[ 2070.929422
+cat /proc/kbox/regions/panic
+------------------kbox restart:[    2.229141]----------------
+kbox: load OK
+lock-task: major[251] minor[0]
+lock-task: sched_ctrl created.
+Freeing unused kernel memory: 392K (c044e000 - c04b0000)
+******** Total Boot time: 2245 ms, uncompress initrd cost 981 ms ********
+jffs2: version 2.2. (NAND) (SUMMARY)  © 2001-2006 Red Hat, Inc.
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+hi_mci_cmd_done:615: ####irq cmd status stat = 0x104 is timeout error!
+mmc0: BKOPS_EN bit is not set
+mmc0: new high speed MMC card at address 0001
+mmcblk0: mmc0:0001 008G30 7.28 GiB 
+mmcblk0boot0: mmc0:0001 008G30 partition 1 4.00 MiB
+mmcblk0boot1: mmc0:0001 008G30 partition 2 4.00 MiB
+ mmcblk0: p1 < p5 p6 p7 > p2 p4
+ mmcblk0boot1: unknown partition table
+ mmcblk0boot0: unknown partition table
+EXT4-fs (mmcblk0p5): mounted filesystem with ordered data mode. Opts: (null)
+NET: Registered protocol family 10
+8021q: 802.1Q VLAN Support v1.8
+1,1970-01-01 00:00:05,1043,sys_save_reset_type,717,reset:power_up
+2,1970-01-01 00:00:05,1043,sys_info_probe,2032,SDK version: 3.31
+3,1970-01-01 00:00:05,1043,sys_info_probe,2033,SDK build_time 12:47:16 Jun 19 2019
+Hisilicon GMAC net controler.
+RTL8211 read phy led value = 0xc00b!
+4,1970-01-01 00:00:05,1055,GMAC_Hi1710Probe,6667,eth2 find RTL8211 phy!
+5,1970-01-01 00:00:06,1055,GMAC_Hi1710Probe,6683,eth3 no find match phy id 0xffffffff!
+6,1970-01-01 00:00:06,1055,GMAC_Hi1710InitChip,4387,check gmac autoneg state fail(eth3)
+Init ok.
+7,1970-01-01 00:00:07,1072,wdt_probe,531,wdt_probe ok, feed dog by usr!
+[damc_init][807]:dmac_init ok!
+Init ok.
+Init ok.
+8,1970-01-01 00:00:07,1097,sol_init,925,sol init ok!
+9,1970-01-01 00:00:08,1109,hisfc350_spi_probe,721,Spi(cs1) ID: 0x00 0x00 0x00 0x00 0x00 0x00
+10,1970-01-01 00:00:08,1109,hisfc350_spi_probe,721,Spi(cs0) ID: 0xC2 0x20 0x18 0xC2 0x20 0x18
+11,1970-01-01 00:00:08,1109,hisfc350_show_spi,676,Spi(cs0): 
+12,1970-01-01 00:00:08,1109,hisfc350_show_spi,678,Name:"MX25L128"
+6 cmdlinepart partitions found on MTD device hi_sfc.0
+Creating 6 MTD partitions on "hi_sfc.0":
+0x000000000000-0x000000080000 : "u-boot"
+0x000000080000-0x0000000c0000 : "reserved"
+0x0000000c0000-0x000000100000 : "cfg_info"
+0x000000100000-0x000000180000 : "u-boot_bak"
+0x000000180000-0x0000001e0000 : "reserved_bak"
+0x0000001e0000-0x000000200000 : "env"
+13,1970-01-01 00:00:08,1137,dboot_probe,668,boot from uboot 0
+14,1970-01-01 00:00:08,1137,get_flash_uboot_ver,391,U-Boot0 Version: 2.1.13 Built: Dec 24 2018 - 20:23:20
+15,1970-01-01 00:00:08,1137,get_flash_uboot_ver,392,U-Boot1 Version: 2.1.13 Built: Dec 24 2018 - 20:23:20
+16,1970-01-01 00:00:08,1137,dboot_probe,672,BMC reset count: 0
+17,1970-01-01 00:00:08,1137,dboot_probe,673,HOST reset count: 0
+18,1970-01-01 00:00:08,1137,dboot_probe,674,CHIP reset count: 0
+19,1970-01-01 00:00:08,1141,pwm_init,1353,pwm_init ok!
+Hi1710_uart.0: ttySS0 at MMIO 0x20008000 (irq = 65) is a AMBA/ttySS
+Hi1710_uart.1: ttySS1 at MMIO 0x20009000 (irq = 66) is a AMBA/ttySS
+register fiq0 callback
+addr0, 0xd90e6000
+fiq_stack init ok
+fiq_glue_register_handler, okfiq source is 0!
+fiq type is 1!
+fiq clean source is 0!
+fiq dead loop is 1!
+[request_fiq]fiq first register succeed!
+kbox:create region dying, size=16384
+20,1970-01-01 00:00:09,4,gmac_adjustlink,866,eth2,link = 1,speed = 0x7,duplex = 0x1
+21,1970-01-01 00:00:09,4,timer_gmac,1355,linkstatus is up !!! oldlink = 0,nowlink = 1
+dwc_otg_fp_sto: version 2.93a 15-MAY-2011
+Core Release: 2.94a
+Setting default values for core params
+Shared Tx FIFO mode
+DWC ALLOC  1164.
+DWC ALLOC  1170.
+DWC ALLOC  1178.
+DWC ALLOC  1182.
+===global_regs->gusbcfg = 0x1400 ===
+virtual_fp: module license 'unspecified' taints kernel.
+Disabling lock debugging due to kernel taint
+dwc_otg_keyboard: version 2.93a 15-MAY-2011
+Core Release: 2.94a
+Setting default values for core params
+Shared Tx FIFO mode
+DWC ALLOC  1166.
+DWC ALLOC  1172.
+DWC ALLOC  1180.
+DWC ALLOC  1184.
+===global_regs->gusbcfg = 0x1400 ===
+dwc_otg_cd: version 2.93a 15-MAY-2011
+Core Release: 2.94a
+Setting default values for core params
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Shared Tx FIFO mode
+Initializing DCFG.DevSpd to 0x0
+DWC ALLOC  1164.
+DWC ALLOC  1170.
+DWC ALLOC  1178.
+DWC ALLOC  1182.
+===global_regs->gusbcfg = 0x1400 ===
+EXT4-fs (mmcblk0p7): recovery complete
+EXT4-fs (mmcblk0p7): mounted filesystem with ordered data mode. Opts: (null)
+pramdisk: registered block device major 254
+starting add gendisk!
+add gendisk done!
+pramdisk: module loaded
+22,1970-01-01 00:00:14,1304,c51_Init,893,g_vir_addr_prt 0xdc820000! 
+
+23,1970-01-01 00:00:14,1304,c51_Init,910,OK!
+
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+hi1710-ehci hi1710-ehci.0: hi1710-ehci
+hi1710-ehci hi1710-ehci.0: new USB bus registered, assigned bus number 1
+hi1710-ehci hi1710-ehci.0: irq 67, io mem 0x18020000
+hi1710-ehci hi1710-ehci.0: USB 0.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+In ohci_hcd_hi1710_drv_probe
+hi1710-ohci hi1710-ohci.0: hi1710-ohci
+hi1710-ohci hi1710-ohci.0: new USB bus registered, assigned bus number 2
+hi1710-ohci hi1710-ohci.0: irq 68, io mem 0x18010000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+FS-Cache: Loaded
+CacheFiles: Loaded
+RPC: Registered named UNIX socket transport module.
+RPC: Registered udp transport module.
+RPC: Registered tcp transport module.
+RPC: Registered tcp NFSv4.1 backchannel transport module.
+FS-Cache: Netfs 'nfs' registered for caching
+FS-Cache: Netfs 'cifs' registered for caching
+device-mapper: ioctl: 4.24.0-ioctl (2013-01-15) initialised: dm-devel@redhat.com
+ip6_tables: (C) 2000-2006 Netfilter Core Team
+/usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+24,1970-01-01 00:00:24,1530,wdt_ioctl,391,feed dog by usr
+25,1970-01-01 00:00:48,1548,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+26,1970-01-01 00:00:49,1534,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+27,1970-01-01 00:00:49,1534,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+28,1970-01-01 00:00:50,1546,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+/usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+29,1970-01-01 00:00:56,1604,c51_ioctl,346,2.c51_loadCode  ok!
+
+30,1970-01-01 00:01:36,1613,set_cd_param,1340,set USBPHY3 param = 0x41f24 .
+31,1970-01-01 00:01:36,1613,set_cd_param,1346,set DCTL param = 0x10002 .
+## mk disconnect! ##
+/usr1/code/PMEV1R1C10_Develop_V5/code/current/hi1710_SDK/sdk/driver/sfc_drv/sfc350.c(606): erase offset is 0x1e0000, length is 0x10000
+## mk connect! ##
+HID USB RESET
+bio: create slab <bio-1> at 1
+FAT-fs (dm-0): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+ip_tables: (C) 2000-2006 Netfilter Core Team
+FS-Cache: Cache "bmccache" added (type cachefiles)
+CacheFiles: File cache on mmcblk0p7 registered
+32,2019-08-01 01:55:43,1684,ipmb_ioctl,1696,ipmb check read was interrupted
+33,2019-08-01 01:55:44,1675,uart_get_x86_info,523,x86 uart 1 not work
+HID USB RESET
+34,2019-08-01 01:55:59,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+35,2019-08-01 01:56:07,1628,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x90),reason(0x1)
+36,2019-08-01 01:57:35,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+37,2019-08-01 01:59:09,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+38,2019-08-01 02:03:02,1675,uart_get_x86_info,523,x86 uart 1 not work
+39,2019-08-01 02:03:02,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+40,2019-08-01 02:03:02,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x9)
+41,2019-08-01 02:03:02,2117,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+42,2019-08-01 02:03:03,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x9)
+43,2019-08-01 02:03:03,2659,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+HID USB RESET
+44,2019-08-01 02:03:30,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+45,2019-08-01 02:03:57,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+46,2019-08-01 02:03:57,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+47,2019-08-01 02:04:21,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+48,2019-08-01 02:04:25,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+49,2019-08-01 02:08:28,1675,uart_get_x86_info,523,x86 uart 1 not work
+50,2019-08-01 02:08:28,3135,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+51,2019-08-01 02:08:28,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+52,2019-08-01 02:08:30,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+53,2019-08-01 02:08:44,2654,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 2
+54,2019-08-01 02:09:20,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+55,2019-08-01 02:09:22,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+56,2019-08-01 02:26:26,1675,uart_get_x86_info,523,x86 uart 1 not work
+57,2019-08-01 02:26:27,3875,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+58,2019-08-01 02:26:27,2117,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+59,2019-08-01 02:26:29,1981,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+60,2019-08-01 02:26:44,2654,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 2
+61,2019-08-01 02:27:21,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+62,2019-08-01 02:27:25,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+63,2019-08-01 02:27:49,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+64,2019-08-01 07:00:04,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+65,2019-08-01 07:00:04,1675,uart_get_x86_info,523,x86 uart 1 not work
+66,2019-08-01 07:00:04,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+67,2019-08-01 07:00:04,6507,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+HID USB RESET
+68,2019-08-02 04:22:08,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+69,2019-08-02 04:23:38,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+70,2019-08-02 04:23:48,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+71,2019-08-02 04:24:11,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+72,2019-08-02 04:24:11,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+73,2019-08-02 04:24:11,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc0),reason(0x9)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+HID USB RESET
+74,2019-08-02 05:27:37,12825,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+75,2019-08-02 05:27:38,2117,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+76,2019-08-02 05:27:39,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+77,2019-08-02 05:28:01,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+78,2019-08-02 05:28:30,1981,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+79,2019-08-02 05:28:33,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+80,2019-08-04 19:18:27,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+81,2019-08-06 05:08:24,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+82,2019-08-07 03:27:20,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+83,2019-08-08 03:32:04,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+84,2019-08-08 12:33:22,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+85,2019-08-13 18:06:58,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+86,2019-08-18 11:51:06,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+87,2019-08-18 19:56:42,22185,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 3
+88,2019-08-21 19:11:17,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+89,2019-08-22 01:36:03,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+90,2019-08-23 01:17:44,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+91,2019-08-24 09:44:29,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+92,2019-08-27 18:44:35,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+93,2019-08-28 00:42:18,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+94,2019-08-28 16:15:33,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+95,2019-08-30 08:53:36,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+96,2019-09-02 13:19:11,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x8)
+97,2019-09-08 13:57:03,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x9)
+98,2019-09-16 22:16:27,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+99,2019-09-17 08:06:45,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+100,2019-09-17 15:41:43,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+101,2019-10-04 16:37:40,2397,i2c_read_msg,2498,i2c 4 read data failed for tx_abort error (addr = 0x40),reason(0x1)
+102,2019-12-06 10:17:41,1675,uart_get_x86_info,523,x86 uart 1 not work
+103,2019-12-06 10:17:42,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+104,2019-12-06 10:17:42,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x9)
+HID USB RESET
+105,2019-12-06 10:18:05,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+106,2019-12-06 10:18:34,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+107,2019-12-06 10:18:37,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+108,2019-12-06 10:19:00,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+109,2019-12-06 10:19:00,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc0),reason(0x9)
+110,2019-12-06 10:19:00,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+HID USB RESET
+111,2019-12-13 05:48:01,1675,uart_get_x86_info,523,x86 uart 1 not work
+112,2019-12-13 05:48:01,22493,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+113,2019-12-13 05:48:03,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+114,2019-12-13 05:48:27,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+115,2019-12-13 05:48:54,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+116,2019-12-13 05:48:55,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+117,2019-12-13 05:49:19,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+118,2019-12-13 05:49:19,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x9)
+119,2019-12-13 05:49:23,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+120,2019-12-13 08:06:41,1675,uart_get_x86_info,523,x86 uart 1 not work
+121,2019-12-13 08:06:41,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+122,2019-12-13 08:06:41,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+123,2019-12-13 08:06:42,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+HID USB RESET
+124,2019-12-13 08:07:05,2654,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+125,2019-12-13 08:07:34,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+126,2019-12-13 08:07:37,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+127,2019-12-13 08:10:32,30672,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0xe8),reason(0x1001)
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+HID USB RESET
+128,2019-12-25 12:24:32,1675,uart_get_x86_info,523,x86 uart 1 not work
+129,2019-12-25 12:24:32,30676,i2c_send_msg,2264,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x9)
+130,2019-12-25 12:24:33,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc2),reason(0x1)
+131,2019-12-25 12:24:33,1998,i2c_send_msg,2264,i2c 6 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+132,2019-12-25 12:24:34,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+HID USB RESET
+133,2019-12-25 12:24:48,2654,i2c_send_msg,2227,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 2
+134,2019-12-25 12:25:27,2397,i2c_read_msg,2498,i2c 5 read data failed for tx_abort error (addr = 0xd4),reason(0x1)
+135,2019-12-25 12:25:31,2397,i2c_read_msg,2498,i2c 1 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+136,2019-12-25 12:25:51,1998,i2c_send_msg,2264,i2c 5 write data failed for tx_abort error (addr = 0xc0),reason(0x1)
+HID USB RESET
+HID USB RESET
+MK_SETUP 00.05 v0002 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0008
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 80.08 v0000 i0000 l0001
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP a1.03 v0000 i0001 l0001
+MK_SETUP 21.0b v0000 i0001 l0000
+HID USB RESET
+HID USB RESET
+HID USB RESET
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0040
+HID USB RESET
+MK_SETUP 00.05 v0003 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 80.06 v0300 i0000 l00ff
+MK_SETUP 80.06 v0302 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l00ff
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 21.0a v0000 i0001 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+
+cat /proc/kbox/regions/dying

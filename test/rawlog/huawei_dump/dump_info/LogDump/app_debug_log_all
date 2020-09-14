@@ -1,0 +1,1225 @@
+2019-12-28 10:01:55 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 10:01:55 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 10:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 10:56:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 10:56:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 10:56:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 13:28:03 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 13:28:03 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 13:28:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 13:28:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 15:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 15:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 15:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 15:42:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 15:42:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 18:00:36 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 18:00:36 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 18:00:37 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:00:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:00:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 18:07:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 18:07:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 18:07:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:07:57 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:07:57 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 18:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 18:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 18:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:42:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 18:42:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-28 21:35:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-28 21:35:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-28 21:35:46 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 21:35:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-28 21:35:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2019-12-29 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2019-12-29 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2019-12-29 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2019-12-29 03:35:18 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM  (repeated 2 times)
+2019-12-29 03:35:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 03:35:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 03:35:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 03:35:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 09:14:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 09:14:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 09:14:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 09:14:13 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 09:14:13 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 10:07:39 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 10:07:39 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 10:07:39 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 10:07:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 10:07:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 13:42:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 13:42:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 13:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 13:42:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 14:14:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 14:14:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 14:14:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 14:14:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 14:14:53 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 15:14:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 15:14:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 15:14:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 15:14:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 15:14:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 17:07:50 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 17:07:50 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 17:07:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 17:08:00 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 17:08:00 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-29 18:00:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-29 18:00:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-29 18:00:28 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-29 18:00:28 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2019-12-30 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2019-12-30 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2019-12-30 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2019-12-30 03:14:12 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 03:14:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 03:14:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 03:14:16 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 03:14:16 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 05:35:12 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 05:35:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 05:35:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 05:35:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 05:35:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 05:35:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 06:07:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 06:07:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 06:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 06:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 12:56:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 12:56:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:BMC COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 12:56:14 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 12:56:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 12:56:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 14:02:20 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 14:02:20 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 17:07:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 17:07:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 17:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 17:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-30 18:01:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-30 18:01:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-30 18:01:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-30 18:01:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2019-12-31 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2019-12-31 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2019-12-31 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2019-12-31 02:14:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 02:14:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 02:14:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 02:14:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 02:14:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 03:35:57 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 03:35:57 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 03:35:58 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 03:35:58 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 03:35:58 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 03:35:58 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 04:01:59 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 04:02:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 04:02:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 04:04:26 ipmi_app : ERROR: session_manage.c(152): Get user(0) handle failed. ret = -2009.  (repeated 5 times)
+2019-12-31 04:04:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 04:04:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 04:05:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 04:05:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 07:35:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 07:35:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 07:35:47 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 07:35:55 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 07:35:55 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 12:56:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 12:56:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 12:56:59 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 12:56:59 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 13:07:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 13:07:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 13:07:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 13:07:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 14:42:21 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM  (repeated 2 times)
+2019-12-31 14:42:21 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 14:42:21 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 14:42:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 14:42:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 14:42:22 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 14:42:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 14:42:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 14:43:06 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 14:43:06 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 16:56:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 16:56:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 16:56:26 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 16:56:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2019-12-31 16:56:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 16:56:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 18:00:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 18:00:52 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 19:35:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2019-12-31 19:35:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2019-12-31 19:35:12 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 19:35:20 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2019-12-31 19:35:20 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-01 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2020-01-01 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2020-01-01 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2020-01-01 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2020-01-01 04:42:32 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 04:42:32 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-01 04:42:32 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 04:42:35 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 04:42:35 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-01 06:14:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 06:14:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-01 06:14:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 06:14:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 06:14:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-01 07:57:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 07:57:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-01 07:57:27 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 07:57:27 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-01 12:43:03 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-01 12:43:03 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-01 12:43:03 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-01 12:43:03 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-01 12:43:03 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-01 12:43:03 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-01 12:43:03 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-01 12:43:03 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-01 12:43:06 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-01 12:43:06 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-01 12:43:07 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-01 12:43:07 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-01 12:43:07 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-01 12:43:08 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-01 12:43:10 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-01 12:43:20 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-01 12:43:20 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-01 12:43:24 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-01 12:44:02 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-01 12:44:02 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-01 12:47:08 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-01 12:51:38 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-01 12:51:38 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-01 12:51:38 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-01 12:51:38 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-01 12:51:38 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-01 12:51:38 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-01 12:51:38 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-01 12:51:38 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-01 12:51:41 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-01 12:51:41 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-01 12:51:42 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-01 12:51:42 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-01 12:51:42 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-01 12:51:42 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-01 12:51:45 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-01 12:51:45 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-01 12:51:53 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-01 12:51:53 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-01 12:51:57 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-01 12:55:54 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-01 18:00:56 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM  (repeated 4 times)
+2020-01-01 18:00:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 18:00:56 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-01 18:01:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 18:01:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-01 23:56:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 23:56:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-01 23:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-01 23:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-01 23:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 00:01:39 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 00:01:39 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 00:01:39 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 01:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 01:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 01:07:16 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 01:07:16 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2020-01-02 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2020-01-02 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2020-01-02 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2020-01-02 05:07:25 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 05:07:25 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 05:07:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 05:07:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 06:01:48 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM  (repeated 3 times)
+2020-01-02 06:01:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 06:01:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 06:01:49 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 06:01:49 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 08:14:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 08:14:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 08:14:21 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 08:14:21 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 11:21:08 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM  (repeated 2 times)
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 11:21:08 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 11:33:02 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-02 11:33:02 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-02 11:33:02 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-02 11:33:02 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-02 11:33:02 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-02 11:33:02 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-02 11:33:02 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-02 11:33:02 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-02 11:33:05 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-02 11:33:05 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-02 11:33:06 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-02 11:33:06 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-02 11:33:06 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-02 11:33:06 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-02 11:33:18 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-02 11:33:18 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-02 11:33:22 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-02 11:34:41 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-02 11:35:46 User : ERROR: user_comm.c(824): Ldap authenticate failed  (repeated 35 times)
+2020-01-02 11:35:46 User ERROR: user_cust.c(4164): The count of redfish session is out of range.
+2020-01-02 11:35:46 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255  (repeated 6 times)
+2020-01-02 11:35:46 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-02 11:35:51 User : ERROR: user_comm.c(824): Ldap authenticate failed  (repeated 23 times)
+2020-01-02 11:35:51 User ERROR: user_cust.c(4164): The count of redfish session is out of range.
+2020-01-02 11:35:51 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-02 11:35:51 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-02 11:36:34 User : ERROR: user_comm.c(824): Ldap authenticate failed  (repeated 35 times)
+2020-01-02 11:36:34 User ERROR: user_cust.c(4164): The count of redfish session is out of range.
+2020-01-02 11:36:34 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-02 11:36:34 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-02 11:37:18 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-02 12:01:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 12:01:24 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 12:01:24 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 17:42:43 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 17:42:43 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 17:42:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 17:42:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 18:00:44 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 18:00:44 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 18:00:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:00:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:00:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 18:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 18:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 18:56:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:56:13 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:56:13 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-02 18:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-02 18:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-02 18:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:56:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-02 18:56:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 01:55:30 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2020-01-03 01:55:30 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2020-01-03 01:55:30 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2020-01-03 01:55:30 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2020-01-03 03:07:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 03:07:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 03:07:05 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 03:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 03:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 03:15:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 03:15:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 03:15:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 03:15:04 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 05:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 05:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 05:35:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 05:35:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 05:35:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 06:36:57 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 06:36:57 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 06:36:57 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 06:36:58 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 06:36:58 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 06:36:58 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 06:36:58 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 06:36:58 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 06:37:01 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 06:37:01 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 06:37:01 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 06:37:01 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 06:37:01 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 06:37:03 redfish : ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-03 06:37:03 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 06:37:03 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:37:04 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 06:37:13 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:37:13 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 06:37:17 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 06:41:14 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 06:42:28 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 06:42:28 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 06:42:28 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 06:42:28 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 06:42:28 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 06:42:28 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 06:42:28 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 06:42:28 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 06:42:32 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 06:42:32 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 06:42:32 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 06:42:32 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 06:42:32 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 06:42:33 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 06:42:34 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:42:35 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 06:42:44 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:42:44 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 06:42:48 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 06:42:49 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 06:46:46 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 06:48:46 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 06:48:46 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 06:48:46 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 06:48:46 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 06:48:46 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 06:48:47 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 06:48:47 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 06:48:47 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 06:48:50 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 06:48:50 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 06:48:50 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 06:48:50 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 06:48:50 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 06:48:53 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:48:53 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 3 times)
+2020-01-03 06:48:53 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 06:49:04 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:49:04 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 06:49:08 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 06:49:09 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 06:53:00 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 06:54:47 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 06:54:47 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 06:54:47 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 06:54:47 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 06:54:47 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 06:54:47 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 06:54:47 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 06:54:47 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 06:54:50 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 06:54:50 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 06:54:51 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 06:54:51 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 06:54:51 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 06:54:51 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:54:53 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 7 times)
+2020-01-03 06:54:53 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 06:55:01 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 06:55:01 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 06:55:05 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 06:58:52 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:00:38 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:00:38 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:00:38 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:00:38 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:00:38 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:00:38 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:00:38 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:00:38 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:00:41 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:00:41 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:00:42 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:00:42 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:00:42 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:00:43 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:00:44 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:00:44 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:00:53 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:00:53 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:00:53 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:00:53 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:00:57 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:04:43 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:14:06 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:14:06 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:14:06 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:14:06 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:14:06 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:14:06 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:14:06 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:14:06 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:14:10 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:14:10 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:14:10 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:14:10 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:14:10 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:14:10 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:14:12 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 4 times)
+2020-01-03 07:14:12 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:14:20 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:14:20 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:14:24 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:15:02 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 07:15:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 07:15:02 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 07:15:03 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 07:15:09 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 07:15:09 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 07:18:21 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:20:55 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:20:55 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:20:55 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:20:55 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:20:55 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:20:55 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:20:55 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:20:55 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:20:58 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:20:58 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:20:59 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:20:59 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:20:59 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:21:00 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:21:10 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:21:10 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:21:15 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:25:00 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:32:28 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:32:28 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:32:29 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:32:29 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:32:29 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:32:29 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:32:29 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:32:29 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:32:32 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:32:32 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:32:32 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:32:32 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:32:32 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:32:33 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:32:34 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:32:34 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:32:34 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:32:37 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:32:37 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:32:40 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:32:43 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:32:43 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:32:44 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:32:44 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:32:47 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:32:47 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:32:50 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:32:50 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:32:54 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:32:57 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:32:57 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:33:01 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:33:04 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:33:04 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:33:08 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:33:11 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:33:11 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:33:14 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:33:18 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:33:18 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:33:21 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:33:24 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:33:24 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:33:27 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:33:30 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:33:30 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:36:45 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:40:19 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:40:19 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:40:19 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:40:19 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:40:19 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:40:19 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:40:19 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:40:19 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:40:23 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:40:23 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:40:23 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:40:23 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:40:23 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:40:24 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:40:25 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:40:26 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:40:28 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:40:28 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:40:35 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:40:35 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:40:39 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:44:34 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:46:23 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:46:23 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:46:23 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:46:23 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:46:23 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:46:23 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:46:23 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:46:23 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:46:26 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:46:26 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:46:27 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:46:27 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:46:27 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:46:28 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:46:28 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:46:31 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:46:31 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:46:35 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:46:38 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:46:38 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:46:38 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:46:39 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:46:39 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:46:42 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:46:43 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:46:45 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:46:45 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:46:48 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:46:50 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:46:50 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:46:54 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:46:57 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:46:57 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:00 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:04 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:04 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:07 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:11 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:11 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:14 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:17 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:17 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:20 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:24 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:24 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:27 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:30 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:30 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:34 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:37 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:37 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:40 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:44 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:44 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:47 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:50 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:50 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:47:54 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:47:58 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:47:58 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:01 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:05 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:05 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:08 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:12 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:12 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:15 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:19 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:19 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:22 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:26 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:26 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:29 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:32 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:32 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:35 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:39 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:39 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:42 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:45 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:45 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:49 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:52 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:52 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:48:55 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:48:59 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:48:59 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:02 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:05 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:05 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:08 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:12 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:12 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:15 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:18 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:18 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:21 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:24 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:24 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:27 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:31 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:31 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:34 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:38 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:38 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:41 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:45 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:45 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:48 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:51 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:51 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:49:55 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:49:59 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:49:59 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:02 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:06 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:06 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:10 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:14 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:14 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:17 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:20 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:20 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:24 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:28 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:28 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:31 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:35 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:35 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:38 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:42 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:42 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:45 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:45 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 07:50:49 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:49 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:52 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:50:56 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:50:56 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:50:59 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:03 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:03 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:06 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:09 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:09 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:13 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:16 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:16 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:20 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:23 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:23 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:27 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:30 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:30 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:33 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:37 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 07:51:37 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 07:51:40 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 07:51:44 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 07:51:44 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 07:51:44 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 07:51:44 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 07:51:44 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 07:51:44 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 07:51:44 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 07:51:44 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 07:51:47 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 07:51:48 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 07:51:48 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 07:51:48 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 07:51:48 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 07:51:49 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:51:51 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 07:51:58 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 07:51:58 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 07:52:02 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 07:55:49 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 08:30:52 User ERROR: user_comm.c(824): Ldap authenticate failed
+2020-01-03 08:36:08 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 08:36:08 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 08:36:08 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 08:36:08 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 08:36:08 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 08:36:08 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 08:36:08 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 08:36:08 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 08:36:11 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 08:36:11 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 08:36:12 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 08:36:12 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 08:36:12 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 08:36:13 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:36:13 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:36:13 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:36:15 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 08:36:23 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:36:23 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 08:36:24 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:36:24 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:36:27 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 08:36:35 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:36:35 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:36:46 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:36:46 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:36:56 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:36:56 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:07 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:07 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:17 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:17 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:27 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:27 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:38 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:38 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:48 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:48 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:37:57 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:37:57 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:38:08 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:38:08 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:38:18 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:38:18 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:38:28 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:38:28 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:38:39 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:38:39 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:38:49 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:38:49 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:01 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:01 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:11 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:11 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:22 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:22 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:33 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:33 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:43 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:43 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:39:54 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:39:54 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:04 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:04 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:14 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:14 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:24 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:24 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:24 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 08:40:35 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:35 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:46 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:46 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:40:56 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:40:56 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:41:07 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:41:07 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:41:19 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 08:41:19 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 08:41:19 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 08:41:19 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 08:41:19 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 08:41:19 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 08:41:19 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 08:41:19 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 08:41:22 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 08:41:22 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 08:41:23 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 08:41:23 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:41:23 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 08:41:23 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 08:41:27 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 08:41:34 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:41:34 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 08:41:38 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 08:45:24 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 08:45:36 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 08:45:49 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 08:46:03 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 08:55:13 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 08:55:13 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 08:55:13 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 08:55:13 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 08:55:13 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 08:55:13 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 08:55:13 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 08:55:13 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 08:55:17 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 08:55:17 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 08:55:17 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 08:55:17 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 08:55:17 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 08:55:17 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:55:20 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 13 times)
+2020-01-03 08:55:20 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 08:55:28 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 08:55:28 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 08:55:32 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 08:55:46 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 08:59:18 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 08:59:31 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 18 times)
+2020-01-03 08:59:31 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-03 08:59:31 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-03 08:59:36 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail  (repeated 16 times)
+2020-01-03 08:59:36 redfish ERROR: redfish_http.c(231): get_res_info_from_uri 231: get_resource_provider fail, no uri pattern is match
+2020-01-03 08:59:37 redfish ERROR: redfish_http.c(4892): process_request 4892: get_res_info_from_uri fail
+2020-01-03 08:59:50 redfish ERROR: redfish_http.c(231): get_res_info_from_uri 231: get_resource_provider fail, no uri pattern is match
+2020-01-03 08:59:50 redfish ERROR: redfish_http.c(4892): process_request 4892: get_res_info_from_uri fail
+2020-01-03 09:03:00 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 09:03:00 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 09:03:00 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 09:03:00 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 09:03:00 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 09:03:00 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 09:03:00 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 09:03:01 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 09:03:04 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 09:03:04 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 09:03:04 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 09:03:04 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 09:03:04 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 09:03:06 redfish ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 09:03:06 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:03:07 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 09:03:16 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:03:16 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 09:03:20 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 09:07:10 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 09:11:51 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 09:11:51 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 09:11:51 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 09:11:52 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 09:11:52 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 09:11:52 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 09:11:52 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 09:11:52 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 09:11:55 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 09:11:55 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 09:11:55 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 09:11:55 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 09:11:55 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 09:11:56 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:12:05 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:12:05 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 09:12:09 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 09:15:56 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 09:19:58 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 09:19:58 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 09:19:59 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 09:19:59 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 09:19:59 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 09:19:59 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 09:19:59 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 09:19:59 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 09:20:02 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 09:20:02 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 09:20:03 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 09:20:03 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 09:20:03 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 09:20:03 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:20:06 redfish : ERROR: redfish_http.c(4902): process_request verify_allow_operation fail
+2020-01-03 09:20:06 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 09:20:13 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:20:13 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 09:20:18 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 09:24:18 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 09:27:00 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 09:27:00 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 09:27:00 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 09:27:00 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 09:27:00 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 09:27:00 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 09:27:00 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 09:27:00 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 09:27:04 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 09:27:04 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 09:27:04 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 09:27:04 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 09:27:04 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 09:27:05 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:27:07 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-03 09:27:15 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 09:27:15 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 09:27:20 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 09:31:32 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-03 10:56:41 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 10:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 10:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 10:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 10:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 10:56:42 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 10:56:42 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 11:14:21 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 11:14:22 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 11:14:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 11:14:23 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 11:14:24 ipmi_app : ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 11:14:24 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 12:35:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 12:35:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 12:35:48 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 12:35:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 12:35:51 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 15:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 15:07:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 15:07:19 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 15:07:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 15:07:26 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 16:07:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 16:07:10 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 16:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 16:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 16:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 16:07:11 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 18:00:49 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 18:00:50 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 18:00:50 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 18:36:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 18:36:15 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 18:36:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 18:36:17 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-03 21:35:14 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-03 22:01:18 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 22:01:24 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-03 22:01:24 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-03 23:51:53 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-03 23:51:53 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-03 23:51:53 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-03 23:51:53 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-03 23:51:53 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-03 23:51:53 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-03 23:51:53 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-03 23:51:53 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-03 23:51:56 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-03 23:51:56 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-03 23:51:57 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-03 23:51:57 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-03 23:51:57 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-03 23:51:59 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 23:52:09 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-03 23:52:09 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-03 23:52:13 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-03 23:56:00 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 00:16:32 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 00:16:32 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 00:16:32 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 00:16:32 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 00:16:32 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 00:16:32 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 00:16:32 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 00:16:32 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 00:16:36 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 00:16:36 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 00:16:36 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 00:16:36 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 00:16:36 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 00:16:37 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:16:47 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:16:47 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 00:16:51 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 00:20:39 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 00:25:11 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 00:25:11 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 00:25:11 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 00:25:11 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 00:25:11 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 00:25:11 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 00:25:11 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 00:25:11 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 00:25:15 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 00:25:15 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 00:25:15 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 00:25:15 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 00:25:15 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 00:25:17 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:25:27 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:25:27 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 00:25:32 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 00:29:19 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 00:32:37 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 00:32:37 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 00:32:37 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 00:32:37 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 00:32:37 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 00:32:37 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 00:32:37 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 00:32:37 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 00:32:41 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 00:32:41 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 00:32:41 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 00:32:41 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 00:32:41 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 00:32:43 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:32:54 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:32:54 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 00:32:58 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 00:36:56 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 00:39:55 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 00:39:55 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 00:39:55 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 00:39:55 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 00:39:55 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 00:39:55 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 00:39:55 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 00:39:55 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 00:39:58 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 00:39:58 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 00:39:59 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 00:39:59 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 00:39:59 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 00:39:59 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:40:10 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 00:40:10 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 00:40:14 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 00:44:02 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 01:07:47 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 01:07:47 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 01:07:47 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 01:07:47 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 01:07:47 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 01:07:47 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 01:07:47 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 01:07:47 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 01:07:51 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 01:07:51 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 01:07:51 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 01:07:51 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 01:07:51 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 01:07:52 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 01:08:02 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 01:08:02 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 01:08:07 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 01:11:50 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 01:55:29 BMC : ERROR: dal_common.c(3788): Input error, invalid month :2014.  (repeated 70 times)
+2020-01-04 01:55:29 BMC ERROR: dal_common.c(3773): Input date error, asn_date :.
+2020-01-04 01:55:29 BMC : ERROR: dal_common.c(3773): Input date error, asn_date :.  (repeated 32 times)
+2020-01-04 01:55:29 BMC ERROR: dal_common.c(3788): Input error, invalid month :2014.
+2020-01-04 04:56:40 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:BMC COM
+2020-01-04 04:56:40 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:SOL COM old_dest:SYS COM
+2020-01-04 04:56:41 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:PANEL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-04 04:56:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:PANEL COM old_dest:SYS COM
+2020-01-04 04:56:45 ipmi_app ERROR: serial_management.c(663): updata serial connector save_options = 0x0 current_dest:SYS COM current_src:SOL COM old_src:SOL COM old_dest:RAID COM
+2020-01-04 06:31:26 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 06:31:26 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 06:31:26 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 06:31:26 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 06:31:26 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 06:31:26 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 06:31:26 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 06:31:26 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 06:31:29 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 06:31:29 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 06:31:30 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 06:31:30 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 06:31:30 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 06:31:32 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:31:41 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:31:41 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 06:31:45 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 06:32:46 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255  (repeated 2 times)
+2020-01-04 06:32:46 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:32:46 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:32:56 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255  (repeated 3 times)
+2020-01-04 06:32:56 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:32:56 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:35:43 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 06:38:29 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 06:38:29 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 06:38:29 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 06:38:29 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 06:38:29 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 06:38:29 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 06:38:29 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 06:38:29 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 06:38:33 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 06:38:33 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 06:38:33 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 06:38:33 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 06:38:33 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 06:38:34 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:38:44 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:38:44 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 06:38:47 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 06:42:46 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 06:44:28 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 06:44:28 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 06:44:28 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 06:44:28 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 06:44:28 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 06:44:28 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 06:44:28 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 06:44:28 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 06:44:32 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 06:44:32 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 06:44:32 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 06:44:32 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 06:44:32 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 06:44:33 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:44:35 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-04 06:44:36 redfish : ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255  (repeated 4 times)
+2020-01-04 06:44:36 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:44:36 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:44:43 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:44:43 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 06:44:48 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 06:47:01 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:47:01 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:47:07 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-04 06:47:51 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-04 06:48:29 User : ERROR: user_comm.c(824): Ldap authenticate failed  (repeated 5 times)
+2020-01-04 06:48:29 User ERROR: user_cust.c(4164): The count of redfish session is out of range.
+2020-01-04 06:48:29 redfish ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-04 06:48:34 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 06:49:24 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 06:49:24 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 06:49:24 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 06:49:24 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 06:49:24 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 06:49:24 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 06:49:24 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 06:49:24 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 06:49:29 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 06:49:29 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 06:49:29 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 06:49:29 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 06:49:29 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 06:49:31 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:49:32 redfish : ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-04 06:49:32 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-04 06:49:35 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:49:35 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:49:42 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:49:42 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 06:49:46 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 06:53:31 MaintDebug ERROR: maint_debug_dump.c(842): dump_cpu_reg_from_iME : fwrite failed fail.
+2020-01-04 06:54:38 card_manage ERROR: card_manage_module.c(775): Dump repeater reg info failed! ,ret is -1
+2020-01-04 06:54:38 card_manage ERROR: card_manage_module.c(784): Dump SAS reg info failed! ,ret is -1
+2020-01-04 06:54:38 card_manage ERROR: card_manage_module.c(888): Dump pass through card info failed
+2020-01-04 06:54:38 PcieSwitch : ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009   (repeated 3 times)
+2020-01-04 06:54:38 PcieSwitch ERROR: pcie_switch.c(2395): Dump pcie switch action info failed!
+2020-01-04 06:54:38 PcieSwitch ERROR: pcie_switch.c(2402): Dump pcie switch key regs info failed!
+2020-01-04 06:54:38 PcieSwitch ERROR: pcie_switch.c(2409): Dump pcie switch eeprom info failed!
+2020-01-04 06:54:38 PcieSwitch ERROR: retimer.c(1621): get DeviceIdAccessor ref_accessor ret=-2009
+2020-01-04 06:54:41 BMC ERROR: net_config_dump.c(276): dump_get_ip_info START.
+2020-01-04 06:54:41 BMC ERROR: net_config_dump.c(312): dump_get_ip_info END.
+2020-01-04 06:54:42 BMC ERROR: net_lsw.c(1004):  Get LSWConfig fail
+2020-01-04 06:54:42 BMC ERROR: nand_flash.c(962): dump_get_nandflash_info START !
+2020-01-04 06:54:42 BMC ERROR: nand_flash.c(1025): dump_get_nandflash_info END !
+2020-01-04 06:54:44 redfish : ERROR: redfish_http.c(2723): handle_create 2723: create operation fail
+2020-01-04 06:54:44 redfish ERROR: redfish_provider.c(5430): get memory object failed,ret = -2009, device num = 255
+2020-01-04 06:54:44 PowerMgnt ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:54:47 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:54:47 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail
+2020-01-04 06:54:54 PowerMgnt : ERROR: ammeter.c(6905): get_psu_black_box_data get [PsuChip] fail, psu_chip_obj:[0]!
+2020-01-04 06:54:54 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps2 present fail, (ret:-2001)
+2020-01-04 06:54:59 PowerMgnt ERROR: ammeter.c(6856): [get_psu_black_box_data:6856] get ps3 present fail, (ret:-2001)
+2020-01-04 06:55:03 redfish ERROR: redfish_provider_manager.c(6960): act_manager_export_file_local failed:running task exist
+2020-01-04 06:55:03 redfish ERROR: redfish_http.c(3159): handle_action 3159:action fail

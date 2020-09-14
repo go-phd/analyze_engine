@@ -1,0 +1,45 @@
+eth0      Link encap:Ethernet  HWaddr 08:4F:0A:E6:65:A8  
+          inet6 addr: fe80::a4f:aff:fee6:65a8/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:41 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:2730 (2.6 KiB)
+          Base address:0x8000 
+
+eth1      Link encap:Ethernet  HWaddr 08:4F:0A:E6:65:A8  
+          inet6 addr: fe80::a4f:aff:fee6:65a8/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:426 (426.0 B)
+          Base address:0xa000 
+
+eth2      Link encap:Ethernet  HWaddr 08:4F:0A:E6:65:A8  
+          inet addr:100.126.115.7  Bcast:100.126.127.255  Mask:255.255.224.0
+          inet6 addr: fe80::a4f:aff:fee6:65a8/64 Scope:Link
+          UP BROADCAST DEBUG RUNNING  MTU:1500  Metric:1
+          RX packets:69576526 errors:5 dropped:60 overruns:0 frame:0
+          TX packets:7000296 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1781430027 (1.6 GiB)  TX bytes:1542540076 (1.4 GiB)
+          Base address:0xc000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:5340 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5340 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:434464 (424.2 KiB)  TX bytes:434464 (424.2 KiB)
+
+veth      Link encap:Ethernet  HWaddr 9C:7D:A3:28:6F:FA  
+          inet6 addr: fe80::9e7d:a3ff:fe28:6ffa/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:16 overruns:0 carrier:0
+          collisions:0 txqueuelen:128 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+

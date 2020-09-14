@@ -1,0 +1,1508 @@
+==========================object===========================
+----------------- NMISwitchAccessor             -----------
+semid          : 491534
+sem member     : 243
+ref count      : 1
+----------------- I2CTest-8                     -----------
+semid          : 753686
+sem member     : 26
+ref count      : 1
+.ItemName       : send event count: 1
+----------------- dft_item_pca9545-e            -----------
+semid          : 753686
+sem member     : 114
+ref count      : 1
+----------------- localbus1                     -----------
+semid          : 327689
+sem member     : 241
+ref count      : 1
+----------------- I2CTest-9                     -----------
+semid          : 753686
+sem member     : 74
+ref count      : 1
+.ItemName       : send event count: 1
+----------------- Lm75:C                        -----------
+semid          : 884762
+sem member     : 239
+ref count      : 1
+----------------- PRODUCT                       -----------
+semid          : 851993
+sem member     : 147
+ref count      : 1
+----------------- LpcTest                       -----------
+semid          : 425996
+sem member     : 170
+ref count      : 1
+----------------- BMC                           -----------
+semid          : 65537
+sem member     : 178
+ref count      : 1
+.HostName       : listened by port : 131075, 229382, 
+----------------- NMISwitch                     -----------
+semid          : 491534
+sem member     : 244
+ref count      : 1
+----------------- FpTest                        -----------
+semid          : 458765
+sem member     : 33
+ref count      : 1
+----------------- PcbVersion-2                  -----------
+semid          : 655379
+sem member     : 65
+ref count      : 1
+----------------- IpmbTest                      -----------
+semid          : 425996
+sem member     : 171
+ref count      : 1
+----------------- Memory060                     -----------
+semid          : 425996
+sem member     : 240
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- RiserCardAnchor-8             -----------
+semid          : 753686
+sem member     : 6
+ref count      : 1
+----------------- RiserCardAnchor-9             -----------
+semid          : 753686
+sem member     : 54
+ref count      : 1
+----------------- reset_pca9545-e               -----------
+semid          : 753686
+sem member     : 111
+ref count      : 1
+----------------- dft_item_cpu1mem23_volt       -----------
+semid          : 786455
+sem member     : 16
+ref count      : 1
+----------------- PcbVersion-8                  -----------
+semid          : 753686
+sem member     : 8
+ref count      : 1
+----------------- PcbVersion-9                  -----------
+semid          : 753686
+sem member     : 56
+ref count      : 1
+----------------- RaidCPLDVer-1                 -----------
+semid          : 622610
+sem member     : 241
+ref count      : 1
+----------------- Memory131                     -----------
+semid          : 458765
+sem member     : 12
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- i2c1_Riser3_pca9545_chip      -----------
+semid          : 524303
+sem member     : 98
+ref count      : 1
+----------------- dft_item_pca9555_raid-1       -----------
+semid          : 622610
+sem member     : 220
+ref count      : 1
+----------------- Memory061                     -----------
+semid          : 425996
+sem member     : 242
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Eth1                          -----------
+semid          : 458765
+sem member     : 37
+ref count      : 1
+----------------- LedTubeDftTest                -----------
+semid          : 393227
+sem member     : 4
+ref count      : 1
+----------------- Port2Test-3                   -----------
+semid          : 720917
+sem member     : 89
+ref count      : 1
+----------------- reset_i2c6_pca9545            -----------
+semid          : 524303
+sem member     : 94
+ref count      : 1
+----------------- RaidPcbVersion-1              -----------
+semid          : 622610
+sem member     : 238
+ref count      : 1
+----------------- reset_pca9545_Exp-e           -----------
+semid          : 753686
+sem member     : 110
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- dft_item_lm75_temp-e          -----------
+semid          : 753686
+sem member     : 134
+ref count      : 1
+----------------- I2CBusNum-8                   -----------
+semid          : 753686
+sem member     : 25
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- I2CBusNum-9                   -----------
+semid          : 753686
+sem member     : 73
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- Memory141                     -----------
+semid          : 458765
+sem member     : 16
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- pca9545_chip1-2               -----------
+semid          : 688148
+sem member     : 19
+ref count      : 1
+----------------- i2c1_pca9545_chip             -----------
+semid          : 524303
+sem member     : 89
+ref count      : 1
+----------------- Port1Test-e01                 -----------
+semid          : 1212449
+sem member     : 46
+ref count      : 1
+.RefObject      : send event count: 1
+.PromptReady    : send event count: 1
+.DevNum         : send event count: 1
+.InputData      : send event count: 1
+.Slot           : send event count: 1
+.PromptComplete : send event count: 1
+.ItemName       : send event count: 1
+.DftId          : send event count: 1
+.DftAction      : send event count: 1
+.TestabilityType : send event count: 1
+.ProcessTime    : send event count: 1
+----------------- Rtc:C                         -----------
+semid          : 884762
+sem member     : 217
+ref count      : 1
+----------------- MotherBoard                   -----------
+semid          : 360458
+sem member     : 96
+ref count      : 1
+----------------- SmBios                        -----------
+semid          : 425996
+sem member     : 151
+ref count      : 1
+.FileChange     : listened by port : 98306, 
+.SmBiosStatus   : listened by port : 655379, 753686, 327689, 
+----------------- riser2_pca9545_chip           -----------
+semid          : 524303
+sem member     : 95
+ref count      : 1
+----------------- I2CBusTest-8                  -----------
+semid          : 753686
+sem member     : 24
+ref count      : 1
+----------------- I2CBusTest-9                  -----------
+semid          : 753686
+sem member     : 72
+ref count      : 1
+----------------- I2CTest-e                     -----------
+semid          : 753686
+sem member     : 117
+ref count      : 1
+.ItemName       : send event count: 1
+----------------- Port0Test-3                   -----------
+semid          : 720917
+sem member     : 87
+ref count      : 1
+----------------- LomCardAnchor-3               -----------
+semid          : 720917
+sem member     : 50
+ref count      : 1
+----------------- Memory071                     -----------
+semid          : 425996
+sem member     : 246
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory070                     -----------
+semid          : 425996
+sem member     : 244
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- SecurityModule-b              -----------
+semid          : 720917
+sem member     : 234
+ref count      : 1
+----------------- Eth2                          -----------
+semid          : 458765
+sem member     : 34
+ref count      : 1
+----------------- lm75_temp-e                   -----------
+semid          : 753686
+sem member     : 130
+ref count      : 1
+----------------- Eth2Test                      -----------
+semid          : 458765
+sem member     : 43
+ref count      : 1
+----------------- Memory130                     -----------
+semid          : 458765
+sem member     : 10
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Port2-e01                     -----------
+semid          : 1212449
+sem member     : 11
+ref count      : 1
+----------------- I2C4Test                      -----------
+semid          : 425996
+sem member     : 169
+ref count      : 1
+----------------- reset_i2c5_pca9545            -----------
+semid          : 524303
+sem member     : 92
+ref count      : 1
+----------------- RiserCardAnchor-e             -----------
+semid          : 753686
+sem member     : 102
+ref count      : 1
+----------------- Memory140                     -----------
+semid          : 458765
+sem member     : 14
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory:C                      -----------
+semid          : 884762
+sem member     : 43
+ref count      : 1
+----------------- PcbVersion-e                  -----------
+semid          : 753686
+sem member     : 104
+ref count      : 1
+----------------- SYScom                        -----------
+semid          : 491534
+sem member     : 197
+ref count      : 1
+----------------- i2c4_pca9545_chip             -----------
+semid          : 524303
+sem member     : 91
+ref count      : 1
+----------------- Memory150                     -----------
+semid          : 458765
+sem member     : 18
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory000                     -----------
+semid          : 425996
+sem member     : 216
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory001                     -----------
+semid          : 425996
+sem member     : 218
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory151                     -----------
+semid          : 458765
+sem member     : 20
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- cpld1                         -----------
+semid          : 327689
+sem member     : 240
+ref count      : 1
+----------------- Bios                          -----------
+semid          : 425996
+sem member     : 150
+ref count      : 1
+.StartOption    : listened by port : 688148, 
+.PcieDiskBDF    : listened by port : 327689, 
+.BiosBootStage  : listened by port : 327689, 
+.MenuChangeFlag : listened by port : 327689, 
+.PcieCardBDF    : listened by port : 327689, 
+----------------- Port2Test-e01                 -----------
+semid          : 1212449
+sem member     : 47
+ref count      : 1
+.RefObject      : send event count: 1
+.PromptReady    : send event count: 1
+.DevNum         : send event count: 1
+.InputData      : send event count: 1
+.Slot           : send event count: 1
+.PromptComplete : send event count: 1
+.ItemName       : send event count: 1
+.DftId          : send event count: 1
+.DftAction      : send event count: 1
+.TestabilityType : send event count: 1
+.ProcessTime    : send event count: 1
+----------------- PysicalLedTest                -----------
+semid          : 425996
+sem member     : 198
+ref count      : 1
+----------------- CPLDVer-2                     -----------
+semid          : 655379
+sem member     : 66
+ref count      : 1
+----------------- I2CBusNum-e                   -----------
+semid          : 753686
+sem member     : 116
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- JTAGTest                      -----------
+semid          : 425996
+sem member     : 172
+ref count      : 1
+----------------- PcieCardAnchor-e01            -----------
+semid          : 884762
+sem member     : 240
+ref count      : 1
+----------------- Port1-3                       -----------
+semid          : 720917
+sem member     : 55
+ref count      : 1
+----------------- HddBackplaneFru-2             -----------
+semid          : 655379
+sem member     : 71
+ref count      : 1
+----------------- dft_item_cpu1mem01_volt       -----------
+semid          : 786455
+sem member     : 15
+ref count      : 1
+----------------- dft_item_cpu2mem23_volt       -----------
+semid          : 786455
+sem member     : 18
+ref count      : 1
+----------------- NandFlashTest                 -----------
+semid          : 360458
+sem member     : 21
+ref count      : 1
+----------------- Eth0                          -----------
+semid          : 458765
+sem member     : 36
+ref count      : 1
+----------------- I2CBusTest-e                  -----------
+semid          : 753686
+sem member     : 115
+ref count      : 1
+----------------- PsTest                        -----------
+semid          : 458765
+sem member     : 101
+ref count      : 1
+----------------- CARD1com                      -----------
+semid          : 491534
+sem member     : 200
+ref count      : 1
+----------------- PcbVersion-e01                -----------
+semid          : 1212449
+sem member     : 74
+ref count      : 1
+.Version        : send event count: 1
+.FruId          : send event count: 1
+.VersionType    : send event count: 1
+.UnitNum        : send event count: 1
+.NeedUintNum    : send event count: 1
+----------------- Memory160                     -----------
+semid          : 458765
+sem member     : 22
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory010                     -----------
+semid          : 425996
+sem member     : 220
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory011                     -----------
+semid          : 425996
+sem member     : 222
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Ddr3Test                      -----------
+semid          : 425996
+sem member     : 161
+ref count      : 1
+----------------- Port3Test-e01                 -----------
+semid          : 1212449
+sem member     : 48
+ref count      : 1
+.RefObject      : send event count: 1
+.PromptReady    : send event count: 1
+.DevNum         : send event count: 1
+.InputData      : send event count: 1
+.Slot           : send event count: 1
+.PromptComplete : send event count: 1
+.ItemName       : send event count: 1
+.DftId          : send event count: 1
+.DftAction      : send event count: 1
+.TestabilityType : send event count: 1
+.ProcessTime    : send event count: 1
+----------------- i2c_1                         -----------
+semid          : 360458
+sem member     : 34
+ref count      : 1
+----------------- Hi1710Test                    -----------
+semid          : 491534
+sem member     : 248
+ref count      : 1
+----------------- ButtonTest:C                  -----------
+semid          : 884762
+sem member     : 206
+ref count      : 1
+----------------- i2c_4                         -----------
+semid          : 360458
+sem member     : 85
+ref count      : 1
+----------------- i2c_5                         -----------
+semid          : 360458
+sem member     : 86
+ref count      : 1
+----------------- i2c_6                         -----------
+semid          : 360458
+sem member     : 87
+ref count      : 1
+----------------- lm75_lomcard_temp-3           -----------
+semid          : 720917
+sem member     : 91
+ref count      : 1
+----------------- Port1-e01                     -----------
+semid          : 1212449
+sem member     : 10
+ref count      : 1
+----------------- Memory161                     -----------
+semid          : 458765
+sem member     : 24
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- i2c_2                         -----------
+semid          : 360458
+sem member     : 33
+ref count      : 1
+----------------- Fru:C                         -----------
+semid          : 884762
+sem member     : 9
+ref count      : 1
+----------------- pca9545_chip-8                -----------
+semid          : 753686
+sem member     : 21
+ref count      : 1
+----------------- pca9545_chip-9                -----------
+semid          : 753686
+sem member     : 69
+ref count      : 1
+----------------- CPLDVer                       -----------
+semid          : 425996
+sem member     : 176
+ref count      : 1
+----------------- rtc-1                         -----------
+semid          : 360458
+sem member     : 36
+ref count      : 1
+----------------- pca9545_chip2-2               -----------
+semid          : 688148
+sem member     : 20
+ref count      : 1
+----------------- DftStatus                     -----------
+semid          : 425996
+sem member     : 173
+ref count      : 1
+.DftEnable      : listened by port : 688148, 
+----------------- RaidCardAnchor-1              -----------
+semid          : 622610
+sem member     : 178
+ref count      : 1
+----------------- Pca9545:C                     -----------
+semid          : 884762
+sem member     : 37
+ref count      : 1
+----------------- pca9545_chan4-2               -----------
+semid          : 688148
+sem member     : 17
+ref count      : 1
+----------------- Memory020                     -----------
+semid          : 425996
+sem member     : 224
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory021                     -----------
+semid          : 425996
+sem member     : 226
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory171                     -----------
+semid          : 458765
+sem member     : 28
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- CARD2com                      -----------
+semid          : 491534
+sem member     : 201
+ref count      : 1
+----------------- Memory170                     -----------
+semid          : 458765
+sem member     : 26
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- dft_item_rtc_volt             -----------
+semid          : 753686
+sem member     : 144
+ref count      : 1
+----------------- VceTest                       -----------
+semid          : 458765
+sem member     : 31
+ref count      : 1
+----------------- RAIDcom                       -----------
+semid          : 491534
+sem member     : 199
+ref count      : 1
+----------------- TPMPresence                   -----------
+semid          : 425996
+sem member     : 166
+ref count      : 1
+----------------- I2C_4_BusTest                 -----------
+semid          : 425996
+sem member     : 168
+ref count      : 1
+----------------- CPLDTest                      -----------
+semid          : 425996
+sem member     : 162
+ref count      : 1
+----------------- RaidFru-1                     -----------
+semid          : 622610
+sem member     : 225
+ref count      : 1
+----------------- BackupUbootVer                -----------
+semid          : 425996
+sem member     : 181
+ref count      : 1
+----------------- KeyboardTest                  -----------
+semid          : 458765
+sem member     : 30
+ref count      : 1
+----------------- DftVersion:C                  -----------
+semid          : 884762
+sem member     : 219
+ref count      : 1
+----------------- dft_item_cpu2mem01_volt       -----------
+semid          : 786455
+sem member     : 17
+ref count      : 1
+----------------- RiserCardFru-9                -----------
+semid          : 753686
+sem member     : 55
+ref count      : 1
+----------------- Memory100                     -----------
+semid          : 425996
+sem member     : 248
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- RiserCardFru-8                -----------
+semid          : 753686
+sem member     : 7
+ref count      : 1
+----------------- LedTubeIntelligenceDftTest    -----------
+semid          : 393227
+sem member     : 5
+ref count      : 1
+----------------- Memory101                     -----------
+semid          : 458765
+sem member     : 0
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- PcieCardFru-e01               -----------
+semid          : 1212449
+sem member     : 73
+ref count      : 1
+----------------- Eth:C                         -----------
+semid          : 884762
+sem member     : 6
+ref count      : 1
+----------------- riser1_pca9545_chip           -----------
+semid          : 524303
+sem member     : 93
+ref count      : 1
+----------------- SramTest                      -----------
+semid          : 458765
+sem member     : 103
+ref count      : 1
+----------------- Port0-e01                     -----------
+semid          : 1212449
+sem member     : 9
+ref count      : 1
+----------------- LomCardFru-3                  -----------
+semid          : 720917
+sem member     : 52
+ref count      : 1
+----------------- pca9545_chan1                 -----------
+semid          : 524303
+sem member     : 81
+ref count      : 1
+----------------- pca9545_chip-e                -----------
+semid          : 753686
+sem member     : 112
+ref count      : 1
+----------------- Memory030                     -----------
+semid          : 425996
+sem member     : 228
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- pca9545_chan4                 -----------
+semid          : 524303
+sem member     : 84
+ref count      : 1
+----------------- Memory031                     -----------
+semid          : 425996
+sem member     : 230
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- MeTest                        -----------
+semid          : 458765
+sem member     : 102
+ref count      : 1
+----------------- BusinessPort:C                -----------
+semid          : 884762
+sem member     : 25
+ref count      : 1
+----------------- lm75_inlet_temp               -----------
+semid          : 458765
+sem member     : 75
+ref count      : 1
+----------------- NMISwitchTest                 -----------
+semid          : 491534
+sem member     : 245
+ref count      : 1
+----------------- Bios:C                        -----------
+semid          : 884762
+sem member     : 154
+ref count      : 1
+----------------- TPMCardPresenceTest           -----------
+semid          : 425996
+sem member     : 167
+ref count      : 1
+----------------- dft_item_vcc_12v0             -----------
+semid          : 753686
+sem member     : 159
+ref count      : 1
+----------------- EepromSelfTest-8              -----------
+semid          : 753686
+sem member     : 15
+ref count      : 1
+----------------- reset_i2c1_pca9545            -----------
+semid          : 524303
+sem member     : 88
+ref count      : 1
+----------------- dft_item_vcc_12v2             -----------
+semid          : 753686
+sem member     : 178
+ref count      : 1
+----------------- dft_item_vcc_12v3             -----------
+semid          : 753686
+sem member     : 197
+ref count      : 1
+----------------- dft_item_vcc_12v5             -----------
+semid          : 753686
+sem member     : 235
+ref count      : 1
+----------------- DftStatus:C                   -----------
+semid          : 884762
+sem member     : 220
+ref count      : 1
+----------------- dft_item_vcc_12v4             -----------
+semid          : 753686
+sem member     : 216
+ref count      : 1
+----------------- FlashTest                     -----------
+semid          : 425996
+sem member     : 160
+ref count      : 1
+----------------- pca9545_chan1-e               -----------
+semid          : 753686
+sem member     : 107
+ref count      : 1
+----------------- Memory111                     -----------
+semid          : 458765
+sem member     : 4
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- EepromSelfTest-9              -----------
+semid          : 753686
+sem member     : 63
+ref count      : 1
+----------------- I2CTest:C                     -----------
+semid          : 884762
+sem member     : 38
+ref count      : 1
+----------------- Memory110                     -----------
+semid          : 458765
+sem member     : 2
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Port2-3                       -----------
+semid          : 720917
+sem member     : 56
+ref count      : 1
+----------------- RiserCardFru-e                -----------
+semid          : 753686
+sem member     : 103
+ref count      : 1
+----------------- SecurityModule:C              -----------
+semid          : 884762
+sem member     : 238
+ref count      : 1
+----------------- PcbVersion                    -----------
+semid          : 425996
+sem member     : 174
+ref count      : 1
+----------------- UidButtonTest                 -----------
+semid          : 425996
+sem member     : 184
+ref count      : 1
+----------------- LomPcbVersion-3               -----------
+semid          : 720917
+sem member     : 53
+ref count      : 1
+----------------- SmBios:C                      -----------
+semid          : 884762
+sem member     : 26
+ref count      : 1
+----------------- Memory040                     -----------
+semid          : 425996
+sem member     : 232
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory041                     -----------
+semid          : 425996
+sem member     : 234
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Port0Test-e01                 -----------
+semid          : 1212449
+sem member     : 45
+ref count      : 1
+.RefObject      : send event count: 1
+.PromptReady    : send event count: 1
+.DevNum         : send event count: 1
+.InputData      : send event count: 1
+.Slot           : send event count: 1
+.PromptComplete : send event count: 1
+.ItemName       : send event count: 1
+.DftId          : send event count: 1
+.DftAction      : send event count: 1
+.TestabilityType : send event count: 1
+.ProcessTime    : send event count: 1
+----------------- pca9545_chip0-2               -----------
+semid          : 688148
+sem member     : 18
+ref count      : 1
+----------------- UbootVer                      -----------
+semid          : 425996
+sem member     : 179
+ref count      : 1
+----------------- dft_item_pca9555_nic-3        -----------
+semid          : 720917
+sem member     : 85
+ref count      : 1
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- pca9545_chip3-2               -----------
+semid          : 688148
+sem member     : 21
+ref count      : 1
+----------------- SPITest                       -----------
+semid          : 425996
+sem member     : 159
+ref count      : 1
+----------------- dft_item_pca9545-8            -----------
+semid          : 753686
+sem member     : 23
+ref count      : 1
+----------------- dft_item_pca9545-9            -----------
+semid          : 753686
+sem member     : 71
+ref count      : 1
+----------------- PowerButtonTest               -----------
+semid          : 425996
+sem member     : 185
+ref count      : 1
+----------------- lm75_outlet_temp              -----------
+semid          : 458765
+sem member     : 78
+ref count      : 1
+----------------- PysicalLedIntelligenceTest    -----------
+semid          : 425996
+sem member     : 199
+ref count      : 1
+----------------- Port3Test-3                   -----------
+semid          : 720917
+sem member     : 90
+ref count      : 1
+----------------- reset_i2c4_pca9545            -----------
+semid          : 524303
+sem member     : 90
+ref count      : 1
+----------------- lm75_MB_temp                  -----------
+semid          : 458765
+sem member     : 81
+ref count      : 1
+----------------- EepromSelfTest                -----------
+semid          : 458765
+sem member     : 104
+ref count      : 1
+----------------- MainPMEVer                    -----------
+semid          : 425996
+sem member     : 175
+ref count      : 1
+----------------- Memory120                     -----------
+semid          : 458765
+sem member     : 6
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory121                     -----------
+semid          : 458765
+sem member     : 8
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Com:C                         -----------
+semid          : 884762
+sem member     : 189
+ref count      : 1
+----------------- dft_item_lm75_outlet_temp     -----------
+semid          : 458765
+sem member     : 99
+ref count      : 1
+----------------- DftItem:C                     -----------
+semid          : 884762
+sem member     : 77
+ref count      : 1
+----------------- dft_item_lm75_inlet_temp      -----------
+semid          : 458765
+sem member     : 98
+ref count      : 1
+----------------- CdTest                        -----------
+semid          : 458765
+sem member     : 32
+ref count      : 1
+----------------- SDRVer                        -----------
+semid          : 425996
+sem member     : 177
+ref count      : 1
+----------------- reset_pca9545-9               -----------
+semid          : 753686
+sem member     : 68
+ref count      : 1
+----------------- reset_pca9545-8               -----------
+semid          : 753686
+sem member     : 20
+ref count      : 1
+----------------- BMC:C                         -----------
+semid          : 884762
+sem member     : 131
+ref count      : 1
+----------------- Memory050                     -----------
+semid          : 425996
+sem member     : 236
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- BackupPMEVer                  -----------
+semid          : 425996
+sem member     : 180
+ref count      : 1
+----------------- reset_pca9545_Exp-8           -----------
+semid          : 753686
+sem member     : 19
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- reset_pca9545_Exp-9           -----------
+semid          : 753686
+sem member     : 67
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- Ps-5                          -----------
+semid          : 720917
+sem member     : 143
+ref count      : 1
+----------------- Ps-6                          -----------
+semid          : 720917
+sem member     : 189
+ref count      : 1
+----------------- Port1Test-3                   -----------
+semid          : 720917
+sem member     : 88
+ref count      : 1
+----------------- Memory051                     -----------
+semid          : 425996
+sem member     : 238
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- BaseboardId                   -----------
+semid          : 327689
+sem member     : 235
+ref count      : 1
+----------------- dft_item_lm75_MB_temp         -----------
+semid          : 458765
+sem member     : 100
+ref count      : 1
+----------------- Port0-3                       -----------
+semid          : 720917
+sem member     : 54
+ref count      : 1
+----------------- BMCcom                        -----------
+semid          : 491534
+sem member     : 198
+ref count      : 1
+----------------- BiosVer                       -----------
+semid          : 425996
+sem member     : 178
+ref count      : 1
+----------------- Port3-3                       -----------
+semid          : 720917
+sem member     : 57
+ref count      : 1
+----------------- Port3-e01                     -----------
+semid          : 1212449
+sem member     : 12
+ref count      : 1
+----------------- veth                          -----------
+semid          : 458765
+sem member     : 35
+ref count      : 1
+alias name: a:DftItem110003, object name: dft_item_cpu2mem01_volt
+alias name: a:DftItemf0000, object name: CPLDTest
+alias name: a:DftItemc0000, object name: EepromSelfTest-9
+alias name: a:DftItem160000, object name: TPMCardPresenceTest
+alias name: a:DftItema20000, object name: UidButtonTest
+alias name: a:DftItem840000, object name: PysicalLedIntelligenceTest
+alias name: a:DftItem1a0000, object name: Hi1710Test
+alias name: a:DftItem810000, object name: PysicalLedTest
+alias name: a:DftItem450000, object name: JTAGTest
+alias name: a:DftItem420000, object name: CdTest
+alias name: a:DftItem90000, object name: MeTest
+alias name: a:DftItem30000, object name: dft_item_pca9555_raid-1
+alias name: a:DftItem210004, object name: I2C4Test
+alias name: a:DftItem30001, object name: dft_item_pca9555_nic-3
+alias name: a:DftItem210006, object name: I2CTest-9
+alias name: a:DftItemd0000, object name: Ddr3Test
+alias name: a:DftItem210007, object name: I2CTest-e
+alias name: a:DftItema30000, object name: PowerButtonTest
+alias name: a:DftItem110001, object name: dft_item_cpu1mem01_volt
+alias name: a:DftItem110002, object name: dft_item_cpu1mem23_volt
+alias name: a:DftItem850000, object name: LedTubeIntelligenceDftTest
+alias name: a:DftItem820000, object name: LedTubeDftTest
+alias name: a:DftItem490000, object name: Port0Test-3
+alias name: a:DftItem460000, object name: SPITest
+alias name: a:DftItem430000, object name: FpTest
+alias name: a:DftItem490002, object name: Port2Test-3
+alias name: a:DftItem220000, object name: LpcTest
+alias name: a:DftItem110004, object name: dft_item_cpu2mem23_volt
+alias name: a:DftItem490003, object name: Port3Test-3
+alias name: a:DftItem4a0000, object name: Eth2Test
+alias name: a:DftItem40000, object name: dft_item_pca9545-e
+alias name: a:DftItem10000, object name: dft_item_lm75_temp-e
+alias name: a:DftItem10001, object name: dft_item_lm75_outlet_temp
+alias name: a:DftItem10002, object name: dft_item_lm75_MB_temp
+alias name: a:DftIteme0000, object name: SramTest
+alias name: a:DftItemb0000, object name: FlashTest
+alias name: a:DftItem120000, object name: dft_item_vcc_12v0
+alias name: a:DftItem490001, object name: Port1Test-3
+alias name: a:DftItem210005, object name: I2CTest-8
+alias name: a:DftItem120002, object name: dft_item_vcc_12v3
+alias name: a:DftItem1c0000, object name: NandFlashTest
+alias name: a:DftItemab0000, object name: NMISwitchTest
+alias name: a:DftItem120003, object name: dft_item_vcc_12v4
+alias name: a:DftItem440000, object name: VceTest
+alias name: a:DftItem410000, object name: KeyboardTest
+alias name: a:DftItem230000, object name: IpmbTest
+alias name: a:DftItem120004, object name: dft_item_vcc_12v5
+alias name: a:DftItem120001, object name: dft_item_vcc_12v2
+alias name: a:DftItem80000, object name: PsTest
+alias name: a:DftItem70000, object name: dft_item_rtc_volt
+===========================has object===========================
+rtc-1, i2c4_pca9545_chip, i2c1_pca9545_chip, lm75_temp-e, reset_pca9545-8, reset_pca9545-9, lm75_inlet_temp, riser2_pca9545_chip, i2c1_Riser3_pca9545_chip, reset_i2c1_pca9545, localbus1, pca9545_chan4-2, pca9545_chip3-2, pca9545_chip-e, i2c_1, i2c_2, reset_i2c5_pca9545, i2c_4, i2c_5, i2c_6, reset_i2c6_pca9545, pca9545_chip2-2, reset_i2c4_pca9545, NMISwitchAccessor, lm75_lomcard_temp-3, pca9545_chan1-e, pca9545_chip-8, pca9545_chip1-2, pca9545_chan1, lm75_outlet_temp, pca9545_chan4, pca9545_chip-9, pca9545_chip0-2, lm75_MB_temp, reset_pca9545-e, riser1_pca9545_chip, cpld1, 
+=====================method info=============================
+key=SecurityModule.SetSpecificationVersion, func=(nil)
+input para list:
+s output para list:
+
+key=SecurityModule.SetManufacturerVersion, func=(nil)
+input para list:
+s output para list:
+
+key=DftStatus.SetDftModeFlag, func=0x17fe4
+input para list:
+y output para list:
+
+key=DftStatus.SetFTModeFlag, func=0x18094
+input para list:
+y output para list:
+
+key=DftStatus.SetIPMICmdList, func=0x17ce8
+input para list:
+* output para list:
+
+key=BMC.SetDIEID, func=(nil)
+input para list:
+s output para list:
+
+key=SecurityModule.SetManufacturerName, func=(nil)
+input para list:
+s output para list:
+
+key=SecurityModule.SetSpecificationType, func=(nil)
+input para list:
+s output para list:
+
+key=DftStatus.SetWhiteIPMICmdList, func=0x17e64
+input para list:
+* output para list:
+
+key=SecurityModule.SetSelfTestResult, func=(nil)
+input para list:
+y output para list:
+
+key=Dft.set_trace_cfg, func=0xb6e189e0
+input para list:
+s output para list:
+
+key=Dft.save_dlog_cfg, func=0xb6e19124
+input para list:
+output para list:
+
+key=Dft.deconnect_to_cli, func=0xb6e19608
+input para list:
+s output para list:
+
+key=Dft.dlog_outlvl, func=0xb6e1928c
+input para list:
+s output para list:
+
+key=Dft.dlog_outype, func=0xb6e19da8
+input para list:
+s output para list:
+
+key=Dft.connect_to_cli, func=0xb6e19afc
+input para list:
+s s output para list:
+
+=====================listen info=============================
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50013
+my ipc id=425996
+sync sem4 id=917531
+module id=14
+=============================client end==========================
+=====================class info============================
+--------------------- BusinessPort        -----------------
+--------------------- PRODUCT             -----------------
+--------------------- DftVersion          -----------------
+--------------------- LocalBusMmap        -----------------
+--------------------- DftStatus           -----------------
+listened       : DftEnable: 688148, 
+--------------------- Bus                 -----------------
+--------------------- Log                 -----------------
+--------------------- ButtonTest          -----------------
+--------------------- Connector           -----------------
+--------------------- Chip                -----------------
+--------------------- ReserveChanTest     -----------------
+--------------------- Bios                -----------------
+listened       : PcieCardBDF: 327689, 
+               : PcieDiskBDF: 327689, 
+               : MenuChangeFlag: 327689, 
+               : BiosBootStage: 327689, 
+               : StartOption: 688148, 
+--------------------- Accessor            -----------------
+--------------------- Pca9545             -----------------
+--------------------- Memory              -----------------
+listened       : ReplaceFlag: 131075, 
+               : FDMFault: 131075, 
+--------------------- CardPresenceTest    -----------------
+--------------------- I2c                 -----------------
+--------------------- I2CTest             -----------------
+--------------------- Anchor              -----------------
+--------------------- Com                 -----------------
+--------------------- DftItem             -----------------
+--------------------- AgeTest             -----------------
+--------------------- DftAction           -----------------
+--------------------- BMC                 -----------------
+listened       : HostName: 229382, 131075, 
+--------------------- SwitchI2c           -----------------
+--------------------- Expression          -----------------
+listened       : Value: 131075, 
+--------------------- InterfaceTest       -----------------
+--------------------- Lm75                -----------------
+--------------------- SecurityModule      -----------------
+--------------------- DftCtrl             -----------------
+--------------------- Wave                -----------------
+--------------------- CPLDSelftest        -----------------
+--------------------- SmBios              -----------------
+listened       : FileChange: 98306, 
+               : SmBiosStatus: 327689, 753686, 655379, 
+--------------------- Fru                 -----------------
+--------------------- Eth                 -----------------
+listened       : Health: 131075, 
+--------------------- Rtc                 -----------------

@@ -1,0 +1,352 @@
+---------------------------------------------------------------------------------Cpu  info----------------------------------------------------------------------------
+slot(col 1), presence(col 2),version(col 3), processor ID(col 4), core count(col 5), thread count(col 6), memory technology(col 7), L1 cache(col 8), L2 cache(col 9), L3 cache(col 10), part number(col 11), device name(col 12), location(col 13), SN(col 14)
+Cpu1 , present , Kunpeng 920-6426, 10-D0-1F-48-00-00-00-00, 64 cores, 64 threads, 64-bit Capable| Multi-Core| Execute Protection| Enhanced Virtualization| Power/Performance Control, 4096 K, 32768 K, 61440 K, N/A, CPU1, mainboard, 30A821D303205210
+Cpu2 , present , Kunpeng 920-6426, 10-D0-1F-48-00-00-00-00, 64 cores, 64 threads, 64-bit Capable| Multi-Core| Execute Protection| Enhanced Virtualization| Power/Performance Control, 4096 K, 32768 K, 61440 K, N/A, CPU2, mainboard, D4B7A1D302E08D08
+
+--------------------------------------------------------------------------------Memory info---------------------------------------------------------------------------
+slot(col 1), dimm location(col 2), dimm name(col 3),manufacturer(col 4), size(col 5), speed(col 6), memory type(col 7), SN(col 8), minimum voltage(col 9), rank(col 10), bit width(col 11), memory technology(col 12), part number(col 13),remaining service life(col 14), firmware version(col 15), medium temp(col 16), controller temp(col 17), volatile capacity(col 18), persistent capacity(col 19)), health(col 20)  
+Memory000 , mainboard, DIMM000, Micron,  32768 MB,  2933 MHz, DDR4, 0x229959F0, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory001 , mainboard, DIMM001, Micron,  32768 MB,  2933 MHz, DDR4, 0x22993F56, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory010 , mainboard, DIMM010, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994464, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory011 , mainboard, DIMM011, Micron,  32768 MB,  2933 MHz, DDR4, 0x229964E6, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory020 , mainboard, DIMM020, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994FDA, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory021 , mainboard, DIMM021, Micron,  32768 MB,  2933 MHz, DDR4, 0x229950FA, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory030 , mainboard, DIMM030, Micron,  32768 MB,  2933 MHz, DDR4, 0x229950C8, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory031 , mainboard, DIMM031, Micron,  32768 MB,  2933 MHz, DDR4, 0x229950F4, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory040 , mainboard, DIMM040, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994161, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory041 , mainboard, DIMM041, Micron,  32768 MB,  2933 MHz, DDR4, 0x2299587E, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory050 , mainboard, DIMM050, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994483, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory051 , mainboard, DIMM051, Micron,  32768 MB,  2933 MHz, DDR4, 0x229964F4, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory060 , mainboard, DIMM060, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994FEA, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory061 , mainboard, DIMM061, Micron,  32768 MB,  2933 MHz, DDR4, 0x229950EE, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory070 , mainboard, DIMM070, Micron,  32768 MB,  2933 MHz, DDR4, 0x229950D1, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory071 , mainboard, DIMM071, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994FC2, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory100 , mainboard, DIMM100, Micron,  32768 MB,  2933 MHz, DDR4, 0x2299623F, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory101 , mainboard, DIMM101, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995181, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory110 , mainboard, DIMM110, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995139, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory111 , mainboard, DIMM111, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994FC8, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory120 , mainboard, DIMM120, Micron,  32768 MB,  2933 MHz, DDR4, 0x229964EB, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory121 , mainboard, DIMM121, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994A65, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory130 , mainboard, DIMM130, Micron,  32768 MB,  2933 MHz, DDR4, 0x22996528, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory131 , mainboard, DIMM131, Micron,  32768 MB,  2933 MHz, DDR4, 0x229964D2, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory140 , mainboard, DIMM140, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995105, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory141 , mainboard, DIMM141, Micron,  32768 MB,  2933 MHz, DDR4, 0x2299514F, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory150 , mainboard, DIMM150, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995176, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory151 , mainboard, DIMM151, Micron,  32768 MB,  2933 MHz, DDR4, 0x22994FC1, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory160 , mainboard, DIMM160, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995992, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory161 , mainboard, DIMM161, Micron,  32768 MB,  2933 MHz, DDR4, 0x2299578A, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory170 , mainboard, DIMM170, Micron,  32768 MB,  2933 MHz, DDR4, 0x22995A30, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory171 , mainboard, DIMM171, Micron,  32768 MB,  2933 MHz, DDR4, 0x22996104, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), Unknown, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+
+---------------------------------------------------------------------------------Card info----------------------------------------------------------------------------
+Pcie Card Info
+Slot | Vender Id  | Device Id  | Sub Vender Id   | Sub Device Id   | Bus Number   | Device Number  | Function Number  | Card Desc                                | Board Id   | PCB Version    | CPLD Version   | Sub Card Bom Id 
+7    | 0x19e5     | 0x1822     | 0x19e5          | 0xd136          | 0x8a         | 0x00           | 0x00             | Hi1822 Family (4*25GE)                   | 0x00da     | .A             | N/A            | N/A             
+
+
+HDD Backplane Info
+Slot | BoardId    | Name       | Manufacturer                     | PCB Ver    | Logic Ver  | Type
+1    | 0x48       | BC11THBS   | Huawei                           | .A         | 1.06       | 8*2.5 SAS/SATA + 12*2.5 NVME
+
+
+RAID Card Info
+Slot | BoardId    | ProductName      | Manufacturer                     | PCB Ver    | Logic Ver  | Type                 | Mode                | Part Num
+1    | 0x2a       | SR450C-M 2G      | Huawei                           | .B         | 0.02       | LSI SAS3508          | RAID(0/1/10/5/50/6/60)| 03024JMY
+
+
+Riser Card Info
+Slot | BoardId    | Name       | Manufacturer                     | Type
+1    | 0x31       | BC82PRUD   | Huawei                           | Riser(3 * PORT)
+2    | 0x31       | BC82PRUD   | Huawei                           | Riser(3 * PORT)
+3    | 0x36       | BC82PRUF   | Huawei                           | Riser(X8*2)
+
+
+Main board Info
+BoardId    | Name       | PCB Ver    | Bom Id     | Location        | Device Name     | Part Number     
+0xb9       | Mainboard  | .A         | 0          | chassis         | Mainboard       | 02312QLQ        
+
+
+
+---------------------------------------------------------------------------------Fan  info----------------------------------------------------------------------------
+Fan                      | Presence          | PWM      | Speed(RPM)         | Maximum rpm range  | Model             |  PartNum           |  DeviceName        |  Location        
+Fan Module1 Front/Rear   | present /present  | 40%      | 5175  /5175        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan1              |  chassis          
+Fan Module2 Front/Rear   | present /present  | 40%      | 5100  /5100        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan2              |  chassis          
+Fan Module3 Front/Rear   | present /present  | 40%      | 5100  /5100        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan3              |  chassis          
+Fan Module4 Front/Rear   | present /present  | 40%      | 5100  /5100        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan4              |  chassis          
+
+---------------------------------------------------------------------------------PSU  info----------------------------------------------------------------------------
+Slot   |  presence  |  Manufacturer     |  Type                              |  SN                                |  Vesion                     |  Rate      |  InputMode |  PartNum           |  DeviceName      
+1      |  present   |  HUAWEI           |  PAC2000S12-BG                     |  2102312HGYHVK6010194              |  DC:111 PFC:111             |  2000      |  AC        |  02312HGY          |  PS1             
+2      |  present   |  HUAWEI           |  PAC2000S12-BG                     |  2102312HGYHVK6010178              |  DC:111 PFC:111             |  2000      |  AC        |  02312HGY          |  PS2             
+
+--------------------------------------------------------------------------------Storage info---------------------------------------------------------------------------
+Current SmBiosStatus = 3
+==============================
+Current BiosBootStage = 1
+==============================
+RAID Controller #0 Information
+==============================
+Controller Name                               : SAS3508
+Controller Type                               : LSI SAS3508
+Component Name                                : RAID Card1
+Support Out-of-Band Management                : Yes
+Controller Mode                               : Non-RAID
+Controller Health                             : Normal
+Firmware Version                              : 5.060.00-2262
+NVDATA Version                                : 5.0600.03-0013
+Memory Size                                   : 2048 MB
+Device Interface                              : SAS_12G
+SAS Address                                   : 59c741a63b93e000
+Minimum Strip Size Supported                  : 64 KB
+Maximum Strip Size Supported                  : 1 MB
+Controller Cache Is Pinned                    : No
+Maintain PD Fail History across Reboot        : Yes
+Copyback Enabled                              : Yes
+Copyback Enabled on SMART error               : Yes
+JBOD Enabled                                  : No
+DDR ECC Count                                 : 0
+
+BBU Status                                    : Present
+BBU Type                                      : CVPM05
+BBU Health                                    : Normal
+
+PHY Status                                    : 
+	PHY #0 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #1 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #2 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #3 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #4 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #5 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #6 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #7 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+
+Logical Drive Information
+-------------------------
+Not Found Logical Drive.
+
+
+Disk Array Information
+--------------------------
+Not Found Disk Array.
+Physical Drives Information
+--------------------------
+ID                                       : 0
+Device Name                              : Disk0
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0M516789
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7304Q
+Health Status                            : Normal
+Firmware State                           : UNCONFIGURED GOOD
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 6.0 Gbps
+Drive Temperature                        : 25
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : 3799
+SAS Address(0)                           : 39c741a63b93e001
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 0
+
+
+
+ID                                       : 1
+Device Name                              : Disk1
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0M516794
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7304Q
+Health Status                            : Normal
+Firmware State                           : UNCONFIGURED GOOD
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 6.0 Gbps
+Drive Temperature                        : 25
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : 3799
+SAS Address(0)                           : 39c741a63b93e003
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 0
+
+
+
+ID                                       : 8
+Device Name                              : Disk8
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000261
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 29
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 9
+Device Name                              : Disk9
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000240
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 30
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 10
+Device Name                              : Disk10
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000006
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 31
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 11
+Device Name                              : Disk11
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000181
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 31
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+

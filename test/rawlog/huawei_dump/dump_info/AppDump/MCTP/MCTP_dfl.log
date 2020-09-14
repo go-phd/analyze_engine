@@ -1,0 +1,421 @@
+==========================object===========================
+----------------- MctpCtrl:C                    -----------
+semid          : 851993
+sem member     : 245
+ref count      : 1
+----------------- SmBios:C                      -----------
+semid          : 884762
+sem member     : 26
+ref count      : 1
+----------------- SmBios                        -----------
+semid          : 425996
+sem member     : 151
+ref count      : 1
+.FileChange     : listened by port : 98306, 
+.SmBiosStatus   : recv event count: 39 : listened by port : 655379, 753686, 327689, 
+----------------- MeInfo:C                      -----------
+semid          : 884762
+sem member     : 157
+ref count      : 1
+----------------- MeInfo                        -----------
+semid          : 491534
+sem member     : 117
+ref count      : 1
+.CpuTjmax       : listened by port : 32768, 
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- mctpcontrol                   -----------
+semid          : 32768
+sem member     : 1
+ref count      : 1
+.TableStatus    : send event count: 2
+=====================method info=============================
+key=MctpCtrl.ChangeRouteTable, func=0xd980
+input para list:
+output para list:
+i 
+key=MCTP.connect_to_cli, func=0xb6d13afc
+input para list:
+s s output para list:
+
+key=MCTP.deconnect_to_cli, func=0xb6d13608
+input para list:
+s output para list:
+
+key=MCTP.save_dlog_cfg, func=0xb6d13124
+input para list:
+output para list:
+
+key=MCTP.dlog_outlvl, func=0xb6d1328c
+input para list:
+s output para list:
+
+key=MCTP.dlog_outype, func=0xb6d13da8
+input para list:
+s output para list:
+
+key=MCTP.set_trace_cfg, func=0xb6d129e0
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=753686
+key=<SmBios.SmBiosStatus, handler=0xda90, state=1
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50023
+my ipc id=753686
+sync sem4 id=917531
+module id=24
+=============================client end==========================
+=====================class info============================
+--------------------- SmBios              -----------------
+listened       : FileChange: 98306, 
+               : SmBiosStatus: 327689, 753686, 655379, 
+--------------------- MeInfo              -----------------
+listened       : CpuTjmax: 32768, 
+--------------------- Log                 -----------------
+--------------------- MctpCtrl            -----------------

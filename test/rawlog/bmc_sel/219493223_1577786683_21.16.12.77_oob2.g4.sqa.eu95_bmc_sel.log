@@ -1,0 +1,43 @@
+   1 | 12/04/2019 | 17:06:31 | Event Logging Disabled #0xeb | Log area reset/cleared | Asserted
+   2 | 12/06/2019 | 17:13:05 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   3 | 12/09/2019 | 17:15:19 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   4 | 12/10/2019 | 09:49:13 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   5 | 12/10/2019 | 10:47:49 | Memory #0x80 | Uncorrectable ECC | Asserted
+   6 | 12/10/2019 | 10:48:18 | Memory #0x80 | Uncorrectable ECC | Deasserted
+   7 | 12/10/2019 | 10:49:22 | Memory #0x80 | Uncorrectable ECC | Asserted
+   8 | 12/10/2019 | 10:51:25 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   9 | 12/11/2019 | 12:17:34 | OS Stop/Shutdown #0xff | Error during system startup | Asserted
+   a | 12/11/2019 | 12:17:56 | OS Stop/Shutdown #0xff | Error during system startup | Asserted
+   b | 12/11/2019 | 13:59:18 | Memory #0x80 | Uncorrectable ECC | Deasserted
+   c | 12/11/2019 | 14:02:30 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   d | 12/11/2019 | 14:10:56 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+   e | 12/11/2019 | 16:47:34 | Memory #0x80 | Uncorrectable ECC | Asserted
+   f | 12/11/2019 | 16:48:02 | Memory #0x80 | Uncorrectable ECC | Deasserted
+  10 | 12/11/2019 | 16:49:08 | Memory #0x80 | Uncorrectable ECC | Asserted
+  11 | 12/11/2019 | 16:51:10 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+  12 | 12/16/2019 | 17:40:00 | Memory #0x80 | Uncorrectable ECC | Deasserted
+  13 | 12/16/2019 | 17:43:30 | System Boot Initiated #0xe0 | Initiated by power up | Asserted
+  14 | 12/25/2019 | 14:38:13 | Power Supply #0x74 | Power Supply AC lost | Asserted
+  15 | 12/25/2019 | 14:39:45 | Power Supply #0x74 | Power Supply AC lost | Deasserted
+  16 | 12/25/2019 | 15:18:34 | Power Supply #0x74 | Power Supply AC lost | Asserted
+  17 | 12/25/2019 | 08:19:04 | Power Supply Power_drop | Failure detected | Asserted
+  18 | 12/25/2019 | 15:19:03 | Power Supply #0x74 | Power Supply AC lost | Deasserted
+
+
+SEL Record ID          : 0011
+ Record Type           : 02
+ Timestamp             : 12/11/2019 14:10:56
+ Generator ID          : 0020
+ EvM Revision          : 04
+ Sensor Type           : System Boot Initiated
+ Sensor Number         : e0
+ Event Type            : Sensor-specific Discrete
+ Event Direction       : Assertion Event
+ Event Data (RAW)      : a1000f
+ Event Interpretation  : Missing
+ Description           : Initiated by power up
+
+Sensor ID              : BIOS_Boot_Up (0xe0)
+Entity ID              : 34.0 (BIOS)
+Sensor Type            : System Boot Initiated (0x1d)
+

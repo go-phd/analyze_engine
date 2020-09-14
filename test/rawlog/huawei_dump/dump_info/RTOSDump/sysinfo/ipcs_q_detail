@@ -1,0 +1,288 @@
+
+Message Queue msqid=32768
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1956
+send_time=Fri Aug  2 04:21:44 2019  
+rcv_time=Fri Aug  2 04:21:44 2019  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=65537
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1984
+send_time=Wed Dec 25 12:24:33 2019  
+rcv_time=Wed Dec 25 12:24:33 2019  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=98306
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1974
+send_time=Sat Jan  4 06:57:28 2020  
+rcv_time=Sat Jan  4 06:57:28 2020  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=131075
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1546	lrpid=1995
+send_time=Sat Jan  4 06:57:26 2020  
+rcv_time=Sat Jan  4 06:57:26 2020  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=163844
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1963
+send_time=Thu Aug  1 02:26:39 2019  
+rcv_time=Thu Aug  1 02:26:39 2019  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=196613
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=229382
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1999
+send_time=Sat Jan  4 06:33:06 2020  
+rcv_time=Sat Jan  4 06:33:06 2020  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=262151
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1957
+send_time=Sat Jan  4 06:53:31 2020  
+rcv_time=Sat Jan  4 06:53:31 2020  
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=294920
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Jan  1 00:00:43 1970  
+
+
+
+Message Queue msqid=327689
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1533	lrpid=1976
+send_time=Wed Dec 25 12:26:45 2019  
+rcv_time=Wed Dec 25 12:26:45 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=360458
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1536	lrpid=1971
+send_time=Sat Jan  4 06:57:28 2020  
+rcv_time=Sat Jan  4 06:57:28 2020  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=393227
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1977
+send_time=Thu Aug  1 01:59:11 2019  
+rcv_time=Thu Aug  1 01:59:11 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=425996
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1967
+send_time=Wed Dec 25 12:26:24 2019  
+rcv_time=Wed Dec 25 12:26:24 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=458765
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=491534
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1979
+send_time=Wed Dec 25 12:24:33 2019  
+rcv_time=Wed Dec 25 12:24:33 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=524303
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=557072
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1966
+send_time=Wed Dec 25 12:27:14 2019  
+rcv_time=Wed Dec 25 12:27:14 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=589841
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1982
+send_time=Wed Dec 25 12:24:33 2019  
+rcv_time=Wed Dec 25 12:24:33 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=622610
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1985
+send_time=Wed Dec 11 12:10:09 2019  
+rcv_time=Wed Dec 11 12:10:09 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=655379
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1541	lrpid=1983
+send_time=Wed Dec 25 12:45:54 2019  
+rcv_time=Wed Dec 25 12:45:54 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=688148
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1536	lrpid=1968
+send_time=Wed Dec 25 12:45:31 2019  
+rcv_time=Wed Dec 25 12:45:31 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=720917
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1534	lrpid=1962
+send_time=Wed Dec 25 12:24:33 2019  
+rcv_time=Wed Dec 25 12:24:33 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=753686
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1533	lrpid=1969
+send_time=Wed Dec 25 12:26:44 2019  
+rcv_time=Wed Dec 25 12:26:44 2019  
+change_time=Thu Jan  1 00:00:44 1970  
+
+
+
+Message Queue msqid=786455
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Wed Dec 11 12:10:22 2019  
+
+
+
+Message Queue msqid=819224
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Sat Jan  4 06:54:30 2020  
+
+
+
+Message Queue msqid=851993
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 10:15:17 2019  
+
+
+
+Message Queue msqid=884762
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 04:49:03 2019  
+
+
+
+Message Queue msqid=917531
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 04:49:04 2019  
+
+
+
+Message Queue msqid=950300
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 04:49:05 2019  
+
+
+
+Message Queue msqid=983069
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 05:45:36 2019  
+
+
+
+Message Queue msqid=1015838
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Fri Dec  6 10:15:26 2019  
+
+
+
+Message Queue msqid=1048607
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Sat Jan  4 00:30:15 2020  
+
+

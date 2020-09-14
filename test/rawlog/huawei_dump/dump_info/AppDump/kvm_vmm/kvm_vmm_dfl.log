@@ -1,0 +1,1035 @@
+==========================object===========================
+----------------- DftItem:C                     -----------
+semid          : 884762
+sem member     : 77
+ref count      : 1
+----------------- BMC:C                         -----------
+semid          : 884762
+sem member     : 131
+ref count      : 1
+----------------- dft_item_cpu1mem01_volt       -----------
+semid          : 786455
+sem member     : 15
+ref count      : 1
+----------------- dft_item_lm75_outlet_temp     -----------
+semid          : 458765
+sem member     : 99
+ref count      : 1
+----------------- VNC:C                         -----------
+semid          : 884762
+sem member     : 221
+ref count      : 1
+----------------- JTAGTest                      -----------
+semid          : 425996
+sem member     : 172
+ref count      : 1
+----------------- Bios                          -----------
+semid          : 425996
+sem member     : 150
+ref count      : 1
+.StartOption    : recv event count: 2 : listened by port : 688148, 
+.PcieDiskBDF    : listened by port : 327689, 
+.BiosBootStage  : listened by port : 327689, 
+.MenuChangeFlag : listened by port : 327689, 
+.PcieCardBDF    : listened by port : 327689, 
+----------------- Ddr3Test                      -----------
+semid          : 425996
+sem member     : 161
+ref count      : 1
+----------------- CPLDTest                      -----------
+semid          : 425996
+sem member     : 162
+ref count      : 1
+----------------- dft_item_lm75_inlet_temp      -----------
+semid          : 458765
+sem member     : 98
+ref count      : 1
+----------------- Cpu1                          -----------
+semid          : 425996
+sem member     : 214
+ref count      : 1
+.Error2         : listened by port : 655379, 
+.FDMFault       : listened by port : 131075, 
+.Version        : listened by port : 32768, 
+.McErr          : listened by port : 688148, 655379, 
+.MirrorFailChMask : listened by port : 655379, 
+.IErr           : recv event count: 7 : listened by port : 688148, 655379, 
+----------------- dft_item_lm75_temp-e          -----------
+semid          : 753686
+sem member     : 134
+ref count      : 1
+----------------- SecurityEnhance               -----------
+semid          : 32768
+sem member     : 46
+ref count      : 1
+.TLSVersion     : listened by port : 688148, 163844, 
+.BannerState    : listened by port : 622610, 
+----------------- dft_item_pca9545-8            -----------
+semid          : 753686
+sem member     : 23
+ref count      : 1
+----------------- dft_item_pca9545-9            -----------
+semid          : 753686
+sem member     : 71
+ref count      : 1
+----------------- SPITest                       -----------
+semid          : 425996
+sem member     : 159
+ref count      : 1
+----------------- LedTubeDftTest                -----------
+semid          : 393227
+sem member     : 4
+ref count      : 1
+----------------- USBMassStorage:C              -----------
+semid          : 884762
+sem member     : 231
+ref count      : 1
+----------------- Kvm0                          -----------
+semid          : 98306
+sem member     : 31
+ref count      : 1
+----------------- Vmm:C                         -----------
+semid          : 884762
+sem member     : 234
+ref count      : 1
+----------------- dft_item_vcc_12v4             -----------
+semid          : 753686
+sem member     : 216
+ref count      : 1
+----------------- I2C4Test                      -----------
+semid          : 425996
+sem member     : 169
+ref count      : 1
+----------------- MeTest                        -----------
+semid          : 458765
+sem member     : 102
+ref count      : 1
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- CdTest                        -----------
+semid          : 458765
+sem member     : 32
+ref count      : 1
+----------------- IpmbTest                      -----------
+semid          : 425996
+sem member     : 171
+ref count      : 1
+----------------- dft_item_cpu1mem23_volt       -----------
+semid          : 786455
+sem member     : 16
+ref count      : 1
+----------------- Video0                        -----------
+semid          : 98306
+sem member     : 46
+ref count      : 1
+----------------- Kvm:C                         -----------
+semid          : 884762
+sem member     : 122
+ref count      : 1
+----------------- Eth2Test                      -----------
+semid          : 458765
+sem member     : 43
+ref count      : 1
+----------------- ChassisPayload                -----------
+semid          : 458765
+sem member     : 48
+ref count      : 1
+.PwrOkSigDrop   : listened by port : 131075, 
+.PowerGd        : listened by port : 32768, 
+.BoardStableStatus : listened by port : 360458, 
+.AcpiStatus     : listened by port : 229382, 
+.ResetFlag      : listened by port : 131075, 655379, 557072, 327689, 491534, 98306, 65537, 
+.PwrButtonFlag  : listened by port : 131075, 
+.SysResetFlag   : recv event count: 22 : listened by port : 688148, 655379, 557072, 589841, 720917, 327689, 491534, 131075, 98306, 65537, 
+.RestartValue   : listened by port : 131075, 557072, 
+.ChassisPowerState : recv event count: 3 : listened by port : 688148, 655379, 557072, 589841, 327689, 491534, 131075, 229382, 98306, 
+.AcpiValue      : listened by port : 131075, 
+----------------- KvmLink0                      -----------
+semid          : 98306
+sem member     : 34
+ref count      : 1
+----------------- KvmLink1                      -----------
+semid          : 98306
+sem member     : 35
+ref count      : 1
+----------------- Bios:C                        -----------
+semid          : 884762
+sem member     : 154
+ref count      : 1
+----------------- dft_item_lm75_MB_temp         -----------
+semid          : 458765
+sem member     : 100
+ref count      : 1
+----------------- dft_item_cpu2mem01_volt       -----------
+semid          : 786455
+sem member     : 17
+ref count      : 1
+----------------- KeyboardTest                  -----------
+semid          : 458765
+sem member     : 30
+ref count      : 1
+----------------- PMEServiceConfig:C            -----------
+semid          : 884762
+sem member     : 12
+ref count      : 1
+----------------- dft_item_pca9555_raid-1       -----------
+semid          : 622610
+sem member     : 220
+ref count      : 1
+----------------- ProxyKvm0                     -----------
+semid          : 98306
+sem member     : 33
+ref count      : 1
+.EncryptState   : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+.State          : listened by port : 688148, 
+.KvmTimeout     : listened by port : 688148, 
+.ScreenSwitch   : listened by port : 688148, 
+.LocalKVMState  : listened by port : 688148, 
+----------------- ProxyVideo0                   -----------
+semid          : 98306
+sem member     : 47
+ref count      : 1
+.State          : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+----------------- BaseboardId                   -----------
+semid          : 327689
+sem member     : 235
+ref count      : 1
+----------------- dft_item_pca9545-e            -----------
+semid          : 753686
+sem member     : 114
+ref count      : 1
+----------------- NandFlashTest                 -----------
+semid          : 360458
+sem member     : 21
+ref count      : 1
+----------------- dft_item_rtc_volt             -----------
+semid          : 753686
+sem member     : 144
+ref count      : 1
+----------------- Hi1710Test                    -----------
+semid          : 491534
+sem member     : 248
+ref count      : 1
+----------------- PowerButtonTest               -----------
+semid          : 425996
+sem member     : 185
+ref count      : 1
+----------------- PMEServiceConfig              -----------
+semid          : 491534
+sem member     : 242
+ref count      : 1
+----------------- KvmLink:C                     -----------
+semid          : 884762
+sem member     : 139
+ref count      : 1
+----------------- I2CTest-9                     -----------
+semid          : 753686
+sem member     : 74
+ref count      : 1
+----------------- I2CTest-8                     -----------
+semid          : 753686
+sem member     : 26
+ref count      : 1
+----------------- VceTest                       -----------
+semid          : 458765
+sem member     : 31
+ref count      : 1
+----------------- FlashTest                     -----------
+semid          : 425996
+sem member     : 160
+ref count      : 1
+----------------- PRODUCT                       -----------
+semid          : 851993
+sem member     : 147
+ref count      : 1
+----------------- Vmm0                          -----------
+semid          : 98306
+sem member     : 43
+ref count      : 1
+----------------- SramTest                      -----------
+semid          : 458765
+sem member     : 103
+ref count      : 1
+----------------- TPMCardPresenceTest           -----------
+semid          : 425996
+sem member     : 167
+ref count      : 1
+----------------- PysicalLedTest                -----------
+semid          : 425996
+sem member     : 198
+ref count      : 1
+----------------- VncLink0                      -----------
+semid          : 98306
+sem member     : 36
+ref count      : 1
+----------------- VNC                           -----------
+semid          : 98306
+sem member     : 32
+ref count      : 1
+----------------- VncLink3                      -----------
+semid          : 98306
+sem member     : 39
+ref count      : 1
+----------------- VncLink4                      -----------
+semid          : 98306
+sem member     : 40
+ref count      : 1
+----------------- PysicalLedIntelligenceTest    -----------
+semid          : 425996
+sem member     : 199
+ref count      : 1
+----------------- dft_item_vcc_12v0             -----------
+semid          : 753686
+sem member     : 159
+ref count      : 1
+----------------- VncLink:C                     -----------
+semid          : 884762
+sem member     : 232
+ref count      : 1
+----------------- NMISwitchTest                 -----------
+semid          : 491534
+sem member     : 245
+ref count      : 1
+----------------- Port1Test-3                   -----------
+semid          : 720917
+sem member     : 88
+ref count      : 1
+----------------- EepromSelfTest-8              -----------
+semid          : 753686
+sem member     : 15
+ref count      : 1
+----------------- PsTest                        -----------
+semid          : 458765
+sem member     : 101
+ref count      : 1
+----------------- VncLink2                      -----------
+semid          : 98306
+sem member     : 38
+ref count      : 1
+----------------- EepromSelfTest                -----------
+semid          : 458765
+sem member     : 104
+ref count      : 1
+----------------- Port2Test-3                   -----------
+semid          : 720917
+sem member     : 89
+ref count      : 1
+----------------- dft_item_vcc_12v3             -----------
+semid          : 753686
+sem member     : 197
+ref count      : 1
+----------------- VncLink1                      -----------
+semid          : 98306
+sem member     : 37
+ref count      : 1
+----------------- DftStatus                     -----------
+semid          : 425996
+sem member     : 173
+ref count      : 1
+.DftEnable      : listened by port : 688148, 
+----------------- dft_item_vcc_12v2             -----------
+semid          : 753686
+sem member     : 178
+ref count      : 1
+----------------- dft_item_pca9555_nic-3        -----------
+semid          : 720917
+sem member     : 85
+ref count      : 1
+----------------- Port0Test-3                   -----------
+semid          : 720917
+sem member     : 87
+ref count      : 1
+----------------- Video:C                       -----------
+semid          : 884762
+sem member     : 55
+ref count      : 1
+----------------- UidButtonTest                 -----------
+semid          : 425996
+sem member     : 184
+ref count      : 1
+----------------- Port3Test-3                   -----------
+semid          : 720917
+sem member     : 90
+ref count      : 1
+----------------- FpTest                        -----------
+semid          : 458765
+sem member     : 33
+ref count      : 1
+----------------- EepromSelfTest-9              -----------
+semid          : 753686
+sem member     : 63
+ref count      : 1
+----------------- LpcTest                       -----------
+semid          : 425996
+sem member     : 170
+ref count      : 1
+----------------- ProxyVmm0                     -----------
+semid          : 98306
+sem member     : 44
+ref count      : 1
+.State          : listened by port : 688148, 
+.EncryptState   : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+----------------- USBMassStorage0               -----------
+semid          : 98306
+sem member     : 45
+ref count      : 1
+.SPAPPversion   : send event count: 1
+.SPOSversion    : send event count: 1
+.SPDriverVersion : send event count: 1
+----------------- LedTubeIntelligenceDftTest    -----------
+semid          : 393227
+sem member     : 5
+ref count      : 1
+----------------- I2CTest-e                     -----------
+semid          : 753686
+sem member     : 117
+ref count      : 1
+----------------- dft_item_vcc_12v5             -----------
+semid          : 753686
+sem member     : 235
+ref count      : 1
+----------------- dft_item_cpu2mem23_volt       -----------
+semid          : 786455
+sem member     : 18
+ref count      : 1
+----------------- BMC                           -----------
+semid          : 65537
+sem member     : 178
+ref count      : 1
+.HostName       : listened by port : 131075, 229382, 
+=====================method info=============================
+key=VNC.SetState, func=0xb6ea8150
+input para list:
+y output para list:
+
+key=Kvm.SS0GetIdentifier, func=0xb6e7e1e8
+input para list:
+s s y output para list:
+* 
+key=USBMassStorage.GetUmsFileList, func=0xb6e96984
+input para list:
+y output para list:
+s 
+key=USBMassStorage.UpdateFwSP, func=0xb6e97c28
+input para list:
+s s s s s s output para list:
+
+key=Kvm.GetLinkKey, func=0xb6e7a924
+input para list:
+output para list:
+i s s 
+key=Kvm.SsoKVMDestroy, func=0xb6e7e18c
+input para list:
+s output para list:
+
+key=VNC.SetPwdValue, func=0xb6ea660c
+input para list:
+s output para list:
+
+key=VNC.SetKeyboardLayout, func=0xb6ea76e4
+input para list:
+s output para list:
+
+key=Kvm.SetCodeKey, func=0xb6e7d7c8
+input para list:
+i i s s i s output para list:
+
+key=VNC.RenewPwdStartTime, func=0xb6ea6c54
+input para list:
+u y output para list:
+
+key=VNC.CheckPwdState, func=0xb6ea63fc
+input para list:
+output para list:
+
+key=VNC.SetSSLEnableState, func=0xb6ea7bb4
+input para list:
+y output para list:
+
+key=Video.DelectLink, func=0xb6e7a20c
+input para list:
+output para list:
+
+key=VNC.RenewAuthLockStartTime, func=0xb6ea6fec
+input para list:
+u y output para list:
+
+key=USBMassStorage.SetSpStartFlag, func=0xb6e976bc
+input para list:
+y output para list:
+
+key=USBMassStorage.SetSpCfgReady, func=0xb6e9733c
+input para list:
+y output para list:
+
+key=Kvm.SetKeyboardMode, func=0xb6e7a058
+input para list:
+i output para list:
+
+key=Kvm.SaveScreen, func=0xb6e7b0b4
+input para list:
+y output para list:
+
+key=USBMassStorage.SetBiosSupportSP, func=0xb6e9826c
+input para list:
+y output para list:
+
+key=VNC.VncDelectLink, func=0xb6ea5cec
+input para list:
+i output para list:
+
+key=Vmm.DelectLink, func=0xb6e7a18c
+input para list:
+output para list:
+
+key=Video.RmVideo, func=0xb6e7a2d8
+input para list:
+y output para list:
+
+key=USBMassStorage.DelUmsFiles, func=0xb6e96560
+input para list:
+y output para list:
+
+key=Kvm.RmScreen, func=0xb6e7b3f4
+input para list:
+y output para list:
+
+key=Video.SetVideoName, func=0xb6e7abe4
+input para list:
+s s output para list:
+
+key=VNC.SetTimeout, func=0xb6ea8000
+input para list:
+i output para list:
+
+key=USBMassStorage.DownloadFromUrl, func=0xb6e96404
+input para list:
+s y output para list:
+
+key=BMC.MountCommand, func=(nil)
+input para list:
+s s y output para list:
+
+key=USBMassStorage.WriteUmsFile, func=0xb6e96c98
+input para list:
+y s ay output para list:
+
+key=USBMassStorage.SetSPUpgradeProgress, func=0xb6e97b10
+input para list:
+i output para list:
+
+key=USBMassStorage.CloseUms, func=0xb6e961e0
+input para list:
+output para list:
+
+key=Video.SetRecordVideoSwitch, func=0xb6e7b688
+input para list:
+* y output para list:
+
+key=USBMassStorage.ReadUmsFile, func=0xb6e96a60
+input para list:
+y s output para list:
+ay 
+key=VNC.UpdateLockState, func=0xb6ea73f4
+input para list:
+output para list:
+
+key=Kvm.GetIdentifier, func=0xb6e7d910
+input para list:
+s s y s i output para list:
+* 
+key=USBMassStorage.SetUmsMaxUpdateSpace, func=0xb6e971a4
+input para list:
+u output para list:
+
+key=Kvm.DelectLink, func=0xb6e7afd4
+input para list:
+i output para list:
+
+key=Video.GetVideoKey, func=0xb6e7ad10
+input para list:
+output para list:
+s s 
+key=USBMassStorage.Upload2Url, func=0xb6e962f0
+input para list:
+s y output para list:
+
+key=VNC.SetPort, func=0xb6ea7928
+input para list:
+i output para list:
+
+key=VNC.SetPermitRuleIds, func=0xb6ea7de4
+input para list:
+y output para list:
+
+key=USBMassStorage.SetSysRestartDelay, func=0xb6e97950
+input para list:
+u output para list:
+
+key=USBMassStorage.CreatUms, func=0xb6e960dc
+input para list:
+y y output para list:
+
+key=Vmm.SetVmmConnect, func=0xb6ea18b8
+input para list:
+s output para list:
+
+key=kvm_vmm.dlog_outype, func=0xb6c2bda8
+input para list:
+s output para list:
+
+key=kvm_vmm.deconnect_to_cli, func=0xb6c2b608
+input para list:
+s output para list:
+
+key=kvm_vmm.connect_to_cli, func=0xb6c2bafc
+input para list:
+s s output para list:
+
+key=kvm_vmm.save_dlog_cfg, func=0xb6c2b124
+input para list:
+output para list:
+
+key=kvm_vmm.set_trace_cfg, func=0xb6c2a9e0
+input para list:
+s output para list:
+
+key=kvm_vmm.dlog_outlvl, func=0xb6c2b28c
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=688148
+key=<User.Privilege, handler=0xb6e7a314, state=0
+key=<Upgrade.UpgradedFlag, handler=0xb6ea519c, state=0
+key=<Payload.ChassisPowerState, handler=0xb6e86704, state=1
+key=<Cpu.McErr, handler=0xb6e86704, state=0
+key=<ProxyKvm.EncryptState, handler=0xb6e7f098, state=0
+key=<Payload.SysResetFlag, handler=0xb6e86704, state=1
+key=<ProxyKvm.ScreenSwitch, handler=0xb6e7ef98, state=0
+key=<SecurityEnhance.TLSVersion, handler=0xb6e76c68, state=0
+key=<ProxyKvm.KvmTimeout, handler=0xb6e7f1e4, state=0
+key=<ProxyVideo.Port, handler=0xb6e7f75c, state=0
+key=<ProxyKvm.State, handler=0xb6e7ee74, state=0
+key=<Upgrade.PreRollbackFlag, handler=0xb6ea519c, state=0
+key=<DftStatus.DftEnable, handler=0xb6e79760, state=0
+key=<EncryptKey.WorkKey, handler=0xb6ea5460, state=0
+key=<ProxyKvm.Port, handler=0xb6e7ed18, state=0
+key=<ProxyVmm.EncryptState, handler=0xb6e7f550, state=0
+key=<ProxyKvm.LocalKVMState, handler=0xb6e7f944, state=0
+key=<ProxyVmm.State, handler=0xb6e7f2d0, state=0
+key=<Cpu.IErr, handler=0xb6e86704, state=1
+key=<ProxyVmm.Port, handler=0xb6e7f3f4, state=0
+key=<ProxyVideo.State, handler=0xb6e7f638, state=0
+key=<Bios.StartOption, handler=0xb6e7f8b8, state=1
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50021
+my ipc id=688148
+sync sem4 id=917531
+module id=22
+=============================client end==========================
+=====================class info============================
+--------------------- Log                 -----------------
+--------------------- Connector           -----------------
+--------------------- Cpu                 -----------------
+listened       : Version: 32768, 
+               : IErr: 655379, 688148, 
+               : McErr: 655379, 688148, 
+               : Error2: 655379, 
+               : MirrorFailChMask: 655379, 
+               : FDMFault: 131075, 
+--------------------- VncLink             -----------------
+--------------------- DftStatus           -----------------
+listened       : DftEnable: 688148, 
+--------------------- KvmLink             -----------------
+--------------------- DftItem             -----------------
+--------------------- Vmm                 -----------------
+--------------------- ProxyVmm            -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+               : EncryptState: 688148, 
+--------------------- Kvm                 -----------------
+--------------------- BMC                 -----------------
+listened       : HostName: 229382, 131075, 
+--------------------- ProxyKvm            -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+               : ScreenSwitch: 688148, 
+               : EncryptState: 688148, 
+               : KvmTimeout: 688148, 
+               : LocalKVMState: 688148, 
+--------------------- Bios                -----------------
+listened       : PcieCardBDF: 327689, 
+               : PcieDiskBDF: 327689, 
+               : MenuChangeFlag: 327689, 
+               : BiosBootStage: 327689, 
+               : StartOption: 688148, 
+--------------------- PRODUCT             -----------------
+--------------------- Video               -----------------
+--------------------- USBMassStorage      -----------------
+--------------------- PMEServiceConfig    -----------------
+--------------------- ProxyVideo          -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+--------------------- VNC                 -----------------
+--------------------- SecurityEnhance     -----------------
+listened       : TLSVersion: 163844, 688148, 
+               : BannerState: 622610, 
+--------------------- Payload             -----------------
+listened       : SysResetFlag: 65537, 98306, 131075, 491534, 327689, 720917, 589841, 557072, 655379, 688148, 
+               : ResetFlag: 65537, 98306, 491534, 327689, 557072, 655379, 131075, 
+               : ChassisPowerState: 98306, 229382, 131075, 491534, 327689, 589841, 557072, 655379, 688148, 
+               : AcpiStatus: 229382, 
+               : BoardStableStatus: 360458, 
+               : RestartValue: 557072, 131075, 
+               : AcpiValue: 131075, 
+               : PwrOkSigDrop: 131075, 
+               : PwrButtonFlag: 131075, 
+               : PowerGd: 32768, 

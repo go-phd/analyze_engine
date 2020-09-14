@@ -1,0 +1,3904 @@
+==========================object===========================
+----------------- ComPort3-e01                  -----------
+semid          : 1212449
+sem member     : 27
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- CpuProcHotEvent_01            -----------
+semid          : 32768
+sem member     : 90
+ref count      : 1
+----------------- Memory120TreeNode             -----------
+semid          : 622610
+sem member     : 75
+ref count      : 1
+----------------- PRODUCT:C                     -----------
+semid          : 884762
+sem member     : 190
+ref count      : 1
+----------------- Memory160                     -----------
+semid          : 458765
+sem member     : 22
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory161                     -----------
+semid          : 458765
+sem member     : 24
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- MemTempMetric                 -----------
+semid          : 327689
+sem member     : 149
+ref count      : 1
+----------------- Memory:C                      -----------
+semid          : 884762
+sem member     : 43
+ref count      : 1
+----------------- Memory051TreeNode             -----------
+semid          : 622610
+sem member     : 64
+ref count      : 1
+----------------- PcieSlot46                    -----------
+semid          : 819224
+sem member     : 27
+ref count      : 1
+----------------- PcieSlot47                    -----------
+semid          : 819224
+sem member     : 28
+ref count      : 1
+----------------- Memory121TreeNode             -----------
+semid          : 622610
+sem member     : 76
+ref count      : 1
+----------------- ConnectEvent_0                -----------
+semid          : 65537
+sem member     : 30
+ref count      : 1
+----------------- ConnectEvent_1                -----------
+semid          : 65537
+sem member     : 32
+ref count      : 1
+----------------- FanTreeNode                   -----------
+semid          : 622610
+sem member     : 87
+ref count      : 1
+----------------- RiserSlot3IsHDDBkp            -----------
+semid          : 819224
+sem member     : 18
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ConnectEvent_8                -----------
+semid          : 65537
+sem member     : 33
+ref count      : 1
+----------------- ConnectEvent_9                -----------
+semid          : 65537
+sem member     : 34
+ref count      : 1
+----------------- AcpiEvent_a                   -----------
+semid          : 65537
+sem member     : 45
+ref count      : 1
+----------------- TreeNode:C                    -----------
+semid          : 884762
+sem member     : 52
+ref count      : 1
+----------------- AcpiEvent_b                   -----------
+semid          : 65537
+sem member     : 46
+ref count      : 1
+----------------- AcpiEvent_c                   -----------
+semid          : 65537
+sem member     : 47
+ref count      : 1
+----------------- AcpiEvent_e                   -----------
+semid          : 65537
+sem member     : 48
+ref count      : 1
+----------------- HDD_BP_status_2               -----------
+semid          : 32768
+sem member     : 178
+ref count      : 1
+----------------- ComHdd5-2                     -----------
+semid          : 655379
+sem member     : 62
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- Memory170                     -----------
+semid          : 458765
+sem member     : 26
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory171                     -----------
+semid          : 458765
+sem member     : 28
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- TempEvent_1_07_01             -----------
+semid          : 32768
+sem member     : 64
+ref count      : 1
+----------------- Cable_Event_1                 -----------
+semid          : 32768
+sem member     : 191
+ref count      : 1
+----------------- Cable_Event_0                 -----------
+semid          : 32768
+sem member     : 190
+ref count      : 1
+----------------- Cable_Event_2                 -----------
+semid          : 32768
+sem member     : 192
+ref count      : 1
+----------------- CPUVCoreMetric                -----------
+semid          : 327689
+sem member     : 141
+ref count      : 1
+----------------- RiserSlot3ComType             -----------
+semid          : 819224
+sem member     : 19
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- PcieZIP1                      -----------
+semid          : 819224
+sem member     : 45
+ref count      : 1
+----------------- ComRetimer1-9                 -----------
+semid          : 753686
+sem member     : 93
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PcieZIP2                      -----------
+semid          : 819224
+sem member     : 46
+ref count      : 1
+----------------- PcieZIP3                      -----------
+semid          : 819224
+sem member     : 47
+ref count      : 1
+----------------- Slot5Expression               -----------
+semid          : 819224
+sem member     : 13
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComRetimer1-8                 -----------
+semid          : 753686
+sem member     : 45
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MemoryTagDefinition           -----------
+semid          : 327689
+sem member     : 157
+ref count      : 1
+----------------- SSDSlot14Expression           -----------
+semid          : 819224
+sem member     : 5
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- FdmConfig                     -----------
+semid          : 360458
+sem member     : 40
+ref count      : 1
+----------------- PMEServiceConfig              -----------
+semid          : 491534
+sem member     : 242
+ref count      : 1
+----------------- MemEvent_0                    -----------
+semid          : 32768
+sem member     : 140
+ref count      : 1
+----------------- DimmUCEccAlertMetric          -----------
+semid          : 327689
+sem member     : 152
+ref count      : 1
+----------------- MemEvent_1                    -----------
+semid          : 32768
+sem member     : 141
+ref count      : 1
+----------------- MemEvent_2                    -----------
+semid          : 32768
+sem member     : 142
+ref count      : 1
+----------------- MemEvent_3                    -----------
+semid          : 32768
+sem member     : 143
+ref count      : 1
+----------------- MemEvent_4                    -----------
+semid          : 32768
+sem member     : 144
+ref count      : 1
+----------------- MemEvent_5                    -----------
+semid          : 32768
+sem member     : 145
+ref count      : 1
+----------------- MemEvent_6                    -----------
+semid          : 32768
+sem member     : 146
+ref count      : 1
+----------------- MemEvent_7                    -----------
+semid          : 32768
+sem member     : 147
+ref count      : 1
+----------------- MemEvent_8                    -----------
+semid          : 32768
+sem member     : 148
+ref count      : 1
+----------------- MemEvent_9                    -----------
+semid          : 32768
+sem member     : 149
+ref count      : 1
+----------------- ClockDetect_0                 -----------
+semid          : 65537
+sem member     : 87
+ref count      : 1
+----------------- ComHdd6-2                     -----------
+semid          : 655379
+sem member     : 63
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- DimmCfgErrAlertMetric         -----------
+semid          : 327689
+sem member     : 153
+ref count      : 1
+----------------- ComMemory000                  -----------
+semid          : 491534
+sem member     : 149
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory050TreeNode             -----------
+semid          : 622610
+sem member     : 63
+ref count      : 1
+----------------- ComMemory001                  -----------
+semid          : 491534
+sem member     : 150
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- RiserCardAnchor-8             -----------
+semid          : 753686
+sem member     : 6
+ref count      : 1
+----------------- RiserCardAnchor-9             -----------
+semid          : 753686
+sem member     : 54
+ref count      : 1
+----------------- Riser2LinkTreeNode            -----------
+semid          : 622610
+sem member     : 50
+ref count      : 1
+----------------- RiserCard3BOnSlot1            -----------
+semid          : 360458
+sem member     : 46
+ref count      : 1
+----------------- DataAcquisitionTagDefinition:C-----------
+semid          : 884762
+sem member     : 210
+ref count      : 1
+----------------- PcieCardAnchor-e01            -----------
+semid          : 884762
+sem member     : 240
+ref count      : 1
+----------------- RiserCard3BOnSlot2            -----------
+semid          : 360458
+sem member     : 50
+ref count      : 1
+----------------- PU_Event_1                    -----------
+semid          : 32768
+sem member     : 119
+ref count      : 1
+----------------- PU_Event_2                    -----------
+semid          : 32768
+sem member     : 120
+ref count      : 1
+----------------- PU_Event_3                    -----------
+semid          : 32768
+sem member     : 121
+ref count      : 1
+----------------- PU_Event_4                    -----------
+semid          : 32768
+sem member     : 122
+ref count      : 1
+----------------- PU_Event_5                    -----------
+semid          : 32768
+sem member     : 123
+ref count      : 1
+----------------- PU_Event_6                    -----------
+semid          : 32768
+sem member     : 124
+ref count      : 1
+----------------- PU_Event_7                    -----------
+semid          : 32768
+sem member     : 125
+ref count      : 1
+----------------- ComFan1                       -----------
+semid          : 491534
+sem member     : 181
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComFan3                       -----------
+semid          : 491534
+sem member     : 183
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PU_Event_0                    -----------
+semid          : 32768
+sem member     : 118
+ref count      : 1
+----------------- MeInfo:C                      -----------
+semid          : 884762
+sem member     : 157
+ref count      : 1
+----------------- Slot4Or5Or6Expression         -----------
+semid          : 819224
+sem member     : 11
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComFan4                       -----------
+semid          : 491534
+sem member     : 184
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Hdd6TreeNode-2                -----------
+semid          : 720917
+sem member     : 48
+ref count      : 1
+----------------- ComRetimer2-8                 -----------
+semid          : 753686
+sem member     : 49
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComRetimer2-9                 -----------
+semid          : 753686
+sem member     : 97
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- InnerBPLinkTreeNode           -----------
+semid          : 622610
+sem member     : 47
+ref count      : 1
+----------------- ComFan2                       -----------
+semid          : 491534
+sem member     : 182
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComLcd                        -----------
+semid          : 557072
+sem member     : 204
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory010                  -----------
+semid          : 491534
+sem member     : 151
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory011                  -----------
+semid          : 491534
+sem member     : 152
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Hdd0-2                        -----------
+semid          : 655379
+sem member     : 72
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- RiserCardAnchor-e             -----------
+semid          : 753686
+sem member     : 102
+ref count      : 1
+----------------- SmBios                        -----------
+semid          : 425996
+sem member     : 151
+ref count      : 1
+.FileChange     : listened by port : 98306, 
+.SmBiosStatus   : recv event count: 39 : listened by port : 655379, 753686, 327689, 
+----------------- PSUVoutMetric                 -----------
+semid          : 327689
+sem member     : 129
+ref count      : 1
+----------------- ComSystem                     -----------
+semid          : 524303
+sem member     : 127
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- OutletTemp2Metric             -----------
+semid          : 327689
+sem member     : 102
+ref count      : 1
+----------------- PowerCappingBaseRefInfo       -----------
+semid          : 327689
+sem member     : 117
+ref count      : 1
+----------------- ComRaidCard-1                 -----------
+semid          : 622610
+sem member     : 237
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComHdd7-2                     -----------
+semid          : 655379
+sem member     : 64
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory020                  -----------
+semid          : 491534
+sem member     : 153
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- RaidSlot1                     -----------
+semid          : 786455
+sem member     : 246
+ref count      : 1
+----------------- Memory110TreeNode             -----------
+semid          : 622610
+sem member     : 73
+ref count      : 1
+----------------- Memory170TreeNode             -----------
+semid          : 622610
+sem member     : 85
+ref count      : 1
+----------------- SSDSlot12Expression           -----------
+semid          : 819224
+sem member     : 3
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComMemory100                  -----------
+semid          : 491534
+sem member     : 165
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComHDDBackplane-2             -----------
+semid          : 655379
+sem member     : 56
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PcieSSDSlot9                  -----------
+semid          : 819224
+sem member     : 30
+ref count      : 1
+----------------- ComMemory101                  -----------
+semid          : 491534
+sem member     : 166
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory041TreeNode             -----------
+semid          : 622610
+sem member     : 62
+ref count      : 1
+----------------- ComMemory021                  -----------
+semid          : 491534
+sem member     : 154
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PMEServiceConfig:C            -----------
+semid          : 884762
+sem member     : 12
+ref count      : 1
+----------------- CertOverDueEvent_1            -----------
+semid          : 131075
+sem member     : 125
+ref count      : 1
+----------------- Memory111TreeNode             -----------
+semid          : 622610
+sem member     : 74
+ref count      : 1
+----------------- Memory171TreeNode             -----------
+semid          : 622610
+sem member     : 86
+ref count      : 1
+----------------- FanEvent_0                    -----------
+semid          : 32768
+sem member     : 78
+ref count      : 1
+----------------- FanEvent_1                    -----------
+semid          : 32768
+sem member     : 79
+ref count      : 1
+----------------- FanEvent_2                    -----------
+semid          : 32768
+sem member     : 80
+ref count      : 1
+----------------- FanEvent_3                    -----------
+semid          : 32768
+sem member     : 81
+ref count      : 1
+----------------- FanEvent_4                    -----------
+semid          : 32768
+sem member     : 82
+ref count      : 1
+----------------- LomCardAnchor-3               -----------
+semid          : 720917
+sem member     : 50
+ref count      : 1
+----------------- PS_Event_0                    -----------
+semid          : 32768
+sem member     : 109
+ref count      : 1
+----------------- PS_Event_1                    -----------
+semid          : 32768
+sem member     : 110
+ref count      : 1
+----------------- PS_Event_2                    -----------
+semid          : 32768
+sem member     : 111
+ref count      : 1
+----------------- PS_Event_3                    -----------
+semid          : 32768
+sem member     : 112
+ref count      : 1
+----------------- PS_Event_4                    -----------
+semid          : 32768
+sem member     : 113
+ref count      : 1
+----------------- PS_Event_5                    -----------
+semid          : 32768
+sem member     : 114
+ref count      : 1
+----------------- PS_Event_6                    -----------
+semid          : 32768
+sem member     : 115
+ref count      : 1
+----------------- FanEvent_7                    -----------
+semid          : 32768
+sem member     : 85
+ref count      : 1
+----------------- ComMemory030                  -----------
+semid          : 491534
+sem member     : 155
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory031                  -----------
+semid          : 491534
+sem member     : 156
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory110                  -----------
+semid          : 491534
+sem member     : 167
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory111                  -----------
+semid          : 491534
+sem member     : 168
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- VoltageEvent_10               -----------
+semid          : 32768
+sem member     : 76
+ref count      : 1
+----------------- VoltageEvent_11               -----------
+semid          : 32768
+sem member     : 77
+ref count      : 1
+----------------- FanEvent_5                    -----------
+semid          : 32768
+sem member     : 83
+ref count      : 1
+----------------- FanEvent_6                    -----------
+semid          : 32768
+sem member     : 84
+ref count      : 1
+----------------- Diagnose:C                    -----------
+semid          : 884762
+sem member     : 90
+ref count      : 1
+----------------- Hdd1-2                        -----------
+semid          : 655379
+sem member     : 78
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- FanEvent_9                    -----------
+semid          : 32768
+sem member     : 87
+ref count      : 1
+----------------- ASICEvent_26_07_1             -----------
+semid          : 65537
+sem member     : 55
+ref count      : 1
+----------------- ASICEvent_26_07_2             -----------
+semid          : 65537
+sem member     : 56
+ref count      : 1
+----------------- FanEvent_8                    -----------
+semid          : 32768
+sem member     : 86
+ref count      : 1
+----------------- OutletTemp1Metric             -----------
+semid          : 327689
+sem member     : 101
+ref count      : 1
+----------------- SysFwProg_Event_1             -----------
+semid          : 32768
+sem member     : 162
+ref count      : 1
+----------------- SysFwProg_Event_2             -----------
+semid          : 32768
+sem member     : 163
+ref count      : 1
+----------------- PcieCard-e01                  -----------
+semid          : 884762
+sem member     : 243
+ref count      : 1
+.Health         : listened by port : 131075, 
+.FatalError     : listened by port : 131075, 
+.FDMFault       : listened by port : 131075, 
+----------------- PCHTempMetric                 -----------
+semid          : 327689
+sem member     : 162
+ref count      : 1
+----------------- Hdd4TreeNode-2                -----------
+semid          : 720917
+sem member     : 46
+ref count      : 1
+----------------- Terminator_Event_8_0          -----------
+semid          : 32768
+sem member     : 194
+ref count      : 1
+----------------- Terminator_Event_8_1          -----------
+semid          : 32768
+sem member     : 195
+ref count      : 1
+----------------- CpuCurPowerMetric             -----------
+semid          : 327689
+sem member     : 109
+ref count      : 1
+----------------- ComMemory040                  -----------
+semid          : 491534
+sem member     : 157
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory041                  -----------
+semid          : 491534
+sem member     : 158
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory120                  -----------
+semid          : 491534
+sem member     : 169
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory121                  -----------
+semid          : 491534
+sem member     : 170
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- risercard-9                   -----------
+semid          : 753686
+sem member     : 75
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- risercard-8                   -----------
+semid          : 753686
+sem member     : 27
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- DimmEccCntMetric              -----------
+semid          : 327689
+sem member     : 150
+ref count      : 1
+----------------- ComHdd8-2                     -----------
+semid          : 720917
+sem member     : 1
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Disk_Event_0                  -----------
+semid          : 32768
+sem member     : 152
+ref count      : 1
+----------------- PowerMetric                   -----------
+semid          : 327689
+sem member     : 112
+ref count      : 1
+----------------- Disk_Event_2                  -----------
+semid          : 32768
+sem member     : 154
+ref count      : 1
+----------------- Disk_Event_1                  -----------
+semid          : 32768
+sem member     : 153
+ref count      : 1
+----------------- PcieAddrInfo:C                -----------
+semid          : 884762
+sem member     : 103
+ref count      : 1
+----------------- Disk_Event_6                  -----------
+semid          : 32768
+sem member     : 155
+ref count      : 1
+----------------- Disk_Event_7                  -----------
+semid          : 32768
+sem member     : 156
+ref count      : 1
+----------------- Disk_Event_8                  -----------
+semid          : 32768
+sem member     : 157
+ref count      : 1
+----------------- ASICEvent_1                   -----------
+semid          : 65537
+sem member     : 54
+ref count      : 1
+----------------- SysRestart_Event_7_0_0        -----------
+semid          : 32768
+sem member     : 203
+ref count      : 1
+----------------- SysRestart_Event_7_0_1        -----------
+semid          : 32768
+sem member     : 215
+ref count      : 1
+----------------- PcieHdd-201                   -----------
+semid          : 1212449
+sem member     : 129
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : recv event count: 1 : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- PcieHdd-202                   -----------
+semid          : 1212449
+sem member     : 206
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : recv event count: 1 : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- PcieHdd-203                   -----------
+semid          : 1245218
+sem member     : 32
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : recv event count: 1 : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- PcieHdd-204                   -----------
+semid          : 1245218
+sem member     : 108
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : recv event count: 1 : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- PcieSlot2                     -----------
+semid          : 819224
+sem member     : 16
+ref count      : 1
+----------------- PcieSlot3                     -----------
+semid          : 819224
+sem member     : 17
+ref count      : 1
+----------------- PcieSlot5                     -----------
+semid          : 819224
+sem member     : 26
+ref count      : 1
+----------------- PcieSlot6                     -----------
+semid          : 819224
+sem member     : 24
+ref count      : 1
+----------------- ComMemory050                  -----------
+semid          : 491534
+sem member     : 159
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory051                  -----------
+semid          : 491534
+sem member     : 160
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory130                  -----------
+semid          : 491534
+sem member     : 171
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory131                  -----------
+semid          : 491534
+sem member     : 172
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SSDSlot10Expression           -----------
+semid          : 819224
+sem member     : 2
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- Memory040TreeNode             -----------
+semid          : 622610
+sem member     : 61
+ref count      : 1
+----------------- PSUDeepSleepModeMetric        -----------
+semid          : 327689
+sem member     : 124
+ref count      : 1
+----------------- CPUVDDQMetric                 -----------
+semid          : 327689
+sem member     : 142
+ref count      : 1
+----------------- SysRestart_Event_7_0_E        -----------
+semid          : 65537
+sem member     : 1
+ref count      : 1
+----------------- Hdd2-2                        -----------
+semid          : 655379
+sem member     : 84
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- PSUDeepSleepModeRefInfo       -----------
+semid          : 327689
+sem member     : 123
+ref count      : 1
+----------------- SysRestart_Event_7_0_F        -----------
+semid          : 65537
+sem member     : 13
+ref count      : 1
+----------------- risercard-e                   -----------
+semid          : 753686
+sem member     : 118
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MemCurPowerMetric             -----------
+semid          : 327689
+sem member     : 111
+ref count      : 1
+----------------- HddTempMetric                 -----------
+semid          : 327689
+sem member     : 173
+ref count      : 1
+----------------- SysRestart_Event_7_0_D        -----------
+semid          : 32768
+sem member     : 239
+ref count      : 1
+----------------- PowerCappingLimitRefInfo      -----------
+semid          : 327689
+sem member     : 115
+ref count      : 1
+----------------- ProcessorFamily               -----------
+semid          : 360458
+sem member     : 39
+ref count      : 1
+----------------- LanEvent_1                    -----------
+semid          : 65537
+sem member     : 57
+ref count      : 1
+----------------- CPUVRDTempMetric              -----------
+semid          : 327689
+sem member     : 139
+ref count      : 1
+----------------- Slot3Expression               -----------
+semid          : 819224
+sem member     : 10
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComMemory060                  -----------
+semid          : 491534
+sem member     : 161
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory061                  -----------
+semid          : 491534
+sem member     : 162
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory140                  -----------
+semid          : 491534
+sem member     : 173
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory141                  -----------
+semid          : 491534
+sem member     : 174
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPS                         -----------
+semid          : 491534
+sem member     : 144
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Cpu:C                         -----------
+semid          : 884762
+sem member     : 193
+ref count      : 1
+----------------- ComHdd9-2                     -----------
+semid          : 720917
+sem member     : 2
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PcieSATA1                     -----------
+semid          : 819224
+sem member     : 42
+ref count      : 1
+----------------- PcieSATA2                     -----------
+semid          : 819224
+sem member     : 43
+ref count      : 1
+----------------- PcieSATA3                     -----------
+semid          : 819224
+sem member     : 44
+ref count      : 1
+----------------- HddMediaECMetric              -----------
+semid          : 327689
+sem member     : 175
+ref count      : 1
+----------------- PSURedundancyMetric           -----------
+semid          : 327689
+sem member     : 122
+ref count      : 1
+----------------- SysRestart_Event_7_0_8        -----------
+semid          : 32768
+sem member     : 227
+ref count      : 1
+----------------- Hdd2TreeNode-2                -----------
+semid          : 720917
+sem member     : 44
+ref count      : 1
+----------------- SysRestart_Event_7_1_0        -----------
+semid          : 32768
+sem member     : 204
+ref count      : 1
+----------------- SysRestart_Event_7_1_1        -----------
+semid          : 32768
+sem member     : 216
+ref count      : 1
+----------------- IntrusionEvent_0              -----------
+semid          : 32768
+sem member     : 95
+ref count      : 1
+----------------- PSUIoutMetric                 -----------
+semid          : 327689
+sem member     : 130
+ref count      : 1
+----------------- SysRestart_Event_7_1_8        -----------
+semid          : 32768
+sem member     : 228
+ref count      : 1
+----------------- ComMemory070                  -----------
+semid          : 491534
+sem member     : 163
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory071                  -----------
+semid          : 491534
+sem member     : 164
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory150                  -----------
+semid          : 491534
+sem member     : 175
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory151                  -----------
+semid          : 491534
+sem member     : 176
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PowerSupply_Event_7_02        -----------
+semid          : 32768
+sem member     : 117
+ref count      : 1
+----------------- CPUUsageMetric                -----------
+semid          : 327689
+sem member     : 134
+ref count      : 1
+----------------- UnkownEvent_0                 -----------
+semid          : 32768
+sem member     : 51
+ref count      : 1
+----------------- ComHdd10-2                    -----------
+semid          : 720917
+sem member     : 3
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory160TreeNode             -----------
+semid          : 622610
+sem member     : 83
+ref count      : 1
+----------------- Memory100TreeNode             -----------
+semid          : 622610
+sem member     : 71
+ref count      : 1
+----------------- PCHVPVNNMetric                -----------
+semid          : 327689
+sem member     : 163
+ref count      : 1
+----------------- SysRestart_Event_7_1_E        -----------
+semid          : 65537
+sem member     : 2
+ref count      : 1
+----------------- Hdd3-2                        -----------
+semid          : 655379
+sem member     : 90
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- Memory031TreeNode             -----------
+semid          : 622610
+sem member     : 60
+ref count      : 1
+----------------- SysRestart_Event_7_1_D        -----------
+semid          : 32768
+sem member     : 240
+ref count      : 1
+----------------- IPMBLinkEvent_0               -----------
+semid          : 65537
+sem member     : 82
+ref count      : 1
+----------------- SysRestart_Event_7_1_F        -----------
+semid          : 65537
+sem member     : 14
+ref count      : 1
+----------------- IPMBLinkEvent_1               -----------
+semid          : 65537
+sem member     : 83
+ref count      : 1
+----------------- Memory101TreeNode             -----------
+semid          : 622610
+sem member     : 72
+ref count      : 1
+----------------- HddSATAALLSMARTMetric         -----------
+semid          : 327689
+sem member     : 181
+ref count      : 1
+----------------- Memory161TreeNode             -----------
+semid          : 622610
+sem member     : 84
+ref count      : 1
+----------------- IPMBLinkEvent_3               -----------
+semid          : 65537
+sem member     : 85
+ref count      : 1
+----------------- PcieSlot8Or45                 -----------
+semid          : 819224
+sem member     : 23
+ref count      : 1
+----------------- ComSecurityModule-b           -----------
+semid          : 720917
+sem member     : 235
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Wdt2Event_0                   -----------
+semid          : 65537
+sem member     : 49
+ref count      : 1
+----------------- SSDSlot8Expression            -----------
+semid          : 819224
+sem member     : 1
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- Wdt2Event_1                   -----------
+semid          : 65537
+sem member     : 50
+ref count      : 1
+----------------- Wdt2Event_2                   -----------
+semid          : 65537
+sem member     : 51
+ref count      : 1
+----------------- Wdt2Event_3                   -----------
+semid          : 65537
+sem member     : 52
+ref count      : 1
+----------------- IPMBLinkEvent_2               -----------
+semid          : 65537
+sem member     : 84
+ref count      : 1
+----------------- ComMemory160                  -----------
+semid          : 491534
+sem member     : 177
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory161                  -----------
+semid          : 491534
+sem member     : 178
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Wdt2Event_8                   -----------
+semid          : 65537
+sem member     : 53
+ref count      : 1
+----------------- ComChassis                    -----------
+semid          : 524303
+sem member     : 126
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- DimmPFAEventMetric            -----------
+semid          : 327689
+sem member     : 155
+ref count      : 1
+----------------- InletTempMetric               -----------
+semid          : 327689
+sem member     : 99
+ref count      : 1
+----------------- CoolingEvent_08_00            -----------
+semid          : 32768
+sem member     : 139
+ref count      : 1
+----------------- RtcBatteryEvent_0             -----------
+semid          : 65537
+sem member     : 65
+ref count      : 1
+----------------- RtcBatteryEvent_1             -----------
+semid          : 65537
+sem member     : 66
+ref count      : 1
+----------------- RtcBatteryEvent_2             -----------
+semid          : 65537
+sem member     : 67
+ref count      : 1
+----------------- SysRestart_Event_7_A_0        -----------
+semid          : 32768
+sem member     : 213
+ref count      : 1
+----------------- SysRestart_Event_7_2_0        -----------
+semid          : 32768
+sem member     : 205
+ref count      : 1
+----------------- SysRestart_Event_7_2_1        -----------
+semid          : 32768
+sem member     : 217
+ref count      : 1
+----------------- SysRestart_Event_7_A_1        -----------
+semid          : 32768
+sem member     : 225
+ref count      : 1
+----------------- ComRiserCard-8                -----------
+semid          : 753686
+sem member     : 41
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComRiserCard-9                -----------
+semid          : 753686
+sem member     : 89
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Diagnose                      -----------
+semid          : 491534
+sem member     : 119
+ref count      : 1
+.SystemComProcessbar : send event count: 155
+----------------- PcieSlot1Or2Or3               -----------
+semid          : 819224
+sem member     : 15
+ref count      : 1
+----------------- SysRestart_Event_7_2_8        -----------
+semid          : 32768
+sem member     : 229
+ref count      : 1
+----------------- MainboardTagDefinition        -----------
+semid          : 327689
+sem member     : 172
+ref count      : 1
+----------------- PowerSupplyAnchor-5           -----------
+semid          : 720917
+sem member     : 141
+ref count      : 1
+----------------- PowerSupplyAnchor-6           -----------
+semid          : 720917
+sem member     : 187
+ref count      : 1
+----------------- FanEvent_10                   -----------
+semid          : 32768
+sem member     : 88
+ref count      : 1
+----------------- FanEvent_11                   -----------
+semid          : 32768
+sem member     : 89
+ref count      : 1
+----------------- PSTreeNode                    -----------
+semid          : 622610
+sem member     : 92
+ref count      : 1
+----------------- RRPMMetric                    -----------
+semid          : 327689
+sem member     : 160
+ref count      : 1
+----------------- Slot8Or45Expression           -----------
+semid          : 819224
+sem member     : 22
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComHdd11-2                    -----------
+semid          : 720917
+sem member     : 4
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_A_D        -----------
+semid          : 32768
+sem member     : 249
+ref count      : 1
+----------------- ComMemory170                  -----------
+semid          : 491534
+sem member     : 179
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComMemory171                  -----------
+semid          : 491534
+sem member     : 180
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- BoardMfgDateRefInfo           -----------
+semid          : 327689
+sem member     : 97
+ref count      : 1
+----------------- Hdd4-2                        -----------
+semid          : 655379
+sem member     : 96
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- FRPMMetric                    -----------
+semid          : 327689
+sem member     : 159
+ref count      : 1
+----------------- Hdd0TreeNode-2                -----------
+semid          : 720917
+sem member     : 42
+ref count      : 1
+----------------- DimmEccAlertMetric            -----------
+semid          : 327689
+sem member     : 151
+ref count      : 1
+----------------- Cpu1                          -----------
+semid          : 425996
+sem member     : 214
+ref count      : 1
+.Error2         : listened by port : 655379, 
+.FDMFault       : listened by port : 131075, 
+.Version        : listened by port : 32768, 
+.McErr          : listened by port : 688148, 655379, 
+.MirrorFailChMask : listened by port : 655379, 
+.IErr           : recv event count: 7 : listened by port : 688148, 655379, 
+----------------- Cpu2                          -----------
+semid          : 425996
+sem member     : 215
+ref count      : 1
+.Error2         : listened by port : 655379, 
+.FDMFault       : listened by port : 131075, 
+.Version        : listened by port : 32768, 
+.McErr          : listened by port : 688148, 655379, 
+.MirrorFailChMask : listened by port : 655379, 
+.IErr           : listened by port : 688148, 655379, 
+----------------- PowerEvent_11                 -----------
+semid          : 32768
+sem member     : 138
+ref count      : 1
+----------------- Slot1Or2Or3Expression         -----------
+semid          : 819224
+sem member     : 8
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- FdmConfig:C                   -----------
+semid          : 884762
+sem member     : 11
+ref count      : 1
+----------------- HddBackCardNode-2             -----------
+semid          : 720917
+sem member     : 41
+ref count      : 1
+----------------- VerChangeEvt_1_0              -----------
+semid          : 65537
+sem member     : 69
+ref count      : 1
+----------------- SysRestart_Event_7_A_8        -----------
+semid          : 32768
+sem member     : 237
+ref count      : 1
+----------------- Board_Mismatch_Event_03_1     -----------
+semid          : 32768
+sem member     : 175
+ref count      : 1
+----------------- PowerEvent_10                 -----------
+semid          : 32768
+sem member     : 137
+ref count      : 1
+----------------- MemEvent_05_01                -----------
+semid          : 32768
+sem member     : 92
+ref count      : 1
+----------------- CpuCurPowerRefInfo            -----------
+semid          : 327689
+sem member     : 108
+ref count      : 1
+----------------- SYS12V_5Metric                -----------
+semid          : 327689
+sem member     : 171
+ref count      : 1
+----------------- PSUVinMetric                  -----------
+semid          : 327689
+sem member     : 127
+ref count      : 1
+----------------- SysRestart_Event_7_2_F        -----------
+semid          : 65537
+sem member     : 15
+ref count      : 1
+----------------- VerChangeEvt_1_2              -----------
+semid          : 65537
+sem member     : 70
+ref count      : 1
+----------------- CpuUtiliseMetric              -----------
+semid          : 327689
+sem member     : 105
+ref count      : 1
+----------------- SysRestart_Event_7_2_E        -----------
+semid          : 65537
+sem member     : 3
+ref count      : 1
+----------------- ComRiserCard-e                -----------
+semid          : 753686
+sem member     : 121
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory030TreeNode             -----------
+semid          : 622610
+sem member     : 59
+ref count      : 1
+----------------- OutletTempMetric              -----------
+semid          : 327689
+sem member     : 100
+ref count      : 1
+----------------- RiserCard37OnSlot3            -----------
+semid          : 360458
+sem member     : 53
+ref count      : 1
+----------------- SysRestart_Event_7_2_D        -----------
+semid          : 32768
+sem member     : 241
+ref count      : 1
+----------------- SysRestart_Event_7_A_F        -----------
+semid          : 65537
+sem member     : 23
+ref count      : 1
+----------------- Hdd:C                         -----------
+semid          : 884762
+sem member     : 180
+ref count      : 1
+----------------- PcieCardTreeNode-e01          -----------
+semid          : 1212449
+sem member     : 75
+ref count      : 1
+.ParentObj      : send event count: 1
+.SubTree        : send event count: 1
+.SN             : send event count: 1
+.HideRelationObj : send event count: 1
+.HideRelationObjStr : send event count: 1
+.UpdateMode     : send event count: 1
+.InnerTree      : send event count: 1
+.NodeType       : send event count: 1
+.Presence       : send event count: 1
+.OnlineTime     : send event count: 1
+.RefComponent   : send event count: 1
+.RefFruObj      : send event count: 1
+.PriorSN        : send event count: 1
+.ReplaceFlag    : send event count: 1
+----------------- ChipSet_Event_3_1             -----------
+semid          : 32768
+sem member     : 188
+ref count      : 1
+----------------- SysRestart_Event_7_A_E        -----------
+semid          : 65537
+sem member     : 11
+ref count      : 1
+----------------- SysRestart_Event_7_B_0        -----------
+semid          : 32768
+sem member     : 214
+ref count      : 1
+----------------- ComPort1-3                    -----------
+semid          : 720917
+sem member     : 58
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_3_0        -----------
+semid          : 32768
+sem member     : 206
+ref count      : 1
+----------------- CpuCoreEvent_00               -----------
+semid          : 32768
+sem member     : 93
+ref count      : 1
+----------------- CpuCoreEvent_01               -----------
+semid          : 32768
+sem member     : 94
+ref count      : 1
+----------------- SysRestart_Event_7_3_1        -----------
+semid          : 32768
+sem member     : 218
+ref count      : 1
+----------------- SYS12V_4Metric                -----------
+semid          : 327689
+sem member     : 170
+ref count      : 1
+----------------- SysRestart_Event_7_B_8        -----------
+semid          : 32768
+sem member     : 238
+ref count      : 1
+----------------- TempEvent_07_02               -----------
+semid          : 32768
+sem member     : 65
+ref count      : 1
+----------------- SysRestart_Event_7_3_8        -----------
+semid          : 32768
+sem member     : 230
+ref count      : 1
+----------------- SysRestart_Event_7_B_1        -----------
+semid          : 32768
+sem member     : 226
+ref count      : 1
+----------------- PowerTreeNode-5               -----------
+semid          : 720917
+sem member     : 182
+ref count      : 1
+----------------- PowerTreeNode-6               -----------
+semid          : 720917
+sem member     : 228
+ref count      : 1
+----------------- ComRaidCard                   -----------
+semid          : 557072
+sem member     : 207
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- BootError_Event_0             -----------
+semid          : 65537
+sem member     : 25
+ref count      : 1
+----------------- ChassisTagDefinition          -----------
+semid          : 327689
+sem member     : 98
+ref count      : 1
+----------------- ExternalRefInfo:C             -----------
+semid          : 884762
+sem member     : 116
+ref count      : 1
+----------------- Cpu1TreeNode                  -----------
+semid          : 622610
+sem member     : 52
+ref count      : 1
+----------------- PcieSSDSlot11                 -----------
+semid          : 819224
+sem member     : 31
+ref count      : 1
+----------------- ComHdd12-2                    -----------
+semid          : 720917
+sem member     : 5
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PcieSSDSlot15                 -----------
+semid          : 819224
+sem member     : 33
+ref count      : 1
+----------------- PcieSSDSlot17                 -----------
+semid          : 819224
+sem member     : 34
+ref count      : 1
+----------------- Hdd5-2                        -----------
+semid          : 655379
+sem member     : 102
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- CpuEvent_05_01                -----------
+semid          : 32768
+sem member     : 91
+ref count      : 1
+----------------- PcieSSDSlot19                 -----------
+semid          : 819224
+sem member     : 35
+ref count      : 1
+----------------- System_Event_4_0              -----------
+semid          : 32768
+sem member     : 164
+ref count      : 1
+----------------- System_Event_4_1              -----------
+semid          : 32768
+sem member     : 165
+ref count      : 1
+----------------- PcieSSDSlot13                 -----------
+semid          : 819224
+sem member     : 32
+ref count      : 1
+----------------- SysRestart_Event_7_B_D        -----------
+semid          : 65537
+sem member     : 0
+ref count      : 1
+----------------- Cpu2TreeNode                  -----------
+semid          : 622610
+sem member     : 69
+ref count      : 1
+----------------- System_Event_4_2              -----------
+semid          : 32768
+sem member     : 166
+ref count      : 1
+----------------- SysRestart_Event_7_3_F        -----------
+semid          : 65537
+sem member     : 16
+ref count      : 1
+----------------- BootError_Event_4             -----------
+semid          : 65537
+sem member     : 29
+ref count      : 1
+----------------- SysRestart_Event_7_3_D        -----------
+semid          : 32768
+sem member     : 242
+ref count      : 1
+----------------- SysRestart_Event_7_3_E        -----------
+semid          : 65537
+sem member     : 4
+ref count      : 1
+----------------- BootError_Event_2             -----------
+semid          : 65537
+sem member     : 27
+ref count      : 1
+----------------- BootError_Event_3             -----------
+semid          : 65537
+sem member     : 28
+ref count      : 1
+----------------- SysRestart_Event_7_B_E        -----------
+semid          : 65537
+sem member     : 12
+ref count      : 1
+----------------- SysRestart_Event_7_B_F        -----------
+semid          : 65537
+sem member     : 24
+ref count      : 1
+----------------- BootError_Event_1             -----------
+semid          : 65537
+sem member     : 26
+ref count      : 1
+----------------- ComPort2-e01                  -----------
+semid          : 1212449
+sem member     : 26
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Riser3LinkTreeNode            -----------
+semid          : 622610
+sem member     : 51
+ref count      : 1
+----------------- Memory150TreeNode             -----------
+semid          : 622610
+sem member     : 81
+ref count      : 1
+----------------- ComPort4-e01                  -----------
+semid          : 1212449
+sem member     : 28
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HddSASASCQMetric              -----------
+semid          : 327689
+sem member     : 180
+ref count      : 1
+----------------- Memory151TreeNode             -----------
+semid          : 622610
+sem member     : 82
+ref count      : 1
+----------------- RootTreeNode                  -----------
+semid          : 622610
+sem member     : 44
+ref count      : 1
+----------------- ComPort2-3                    -----------
+semid          : 720917
+sem member     : 59
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_4_0        -----------
+semid          : 32768
+sem member     : 207
+ref count      : 1
+----------------- SysRestart_Event_7_4_1        -----------
+semid          : 32768
+sem member     : 219
+ref count      : 1
+----------------- SmBios:C                      -----------
+semid          : 884762
+sem member     : 26
+ref count      : 1
+----------------- ComPcieCard-202               -----------
+semid          : 1212449
+sem member     : 198
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPcieCard-203               -----------
+semid          : 1245218
+sem member     : 24
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Hdd7TreeNode-2                -----------
+semid          : 720917
+sem member     : 49
+ref count      : 1
+----------------- HotPlugEvent_0                -----------
+semid          : 65537
+sem member     : 74
+ref count      : 1
+----------------- SysRestart_Event_7_4_8        -----------
+semid          : 32768
+sem member     : 231
+ref count      : 1
+----------------- HotPlugEvent_1                -----------
+semid          : 65537
+sem member     : 75
+ref count      : 1
+----------------- HotPlugEvent_2                -----------
+semid          : 65537
+sem member     : 76
+ref count      : 1
+----------------- HotPlugEvent_3                -----------
+semid          : 65537
+sem member     : 77
+ref count      : 1
+----------------- CPUTagDefinition              -----------
+semid          : 327689
+sem member     : 147
+ref count      : 1
+----------------- HotPlugEvent_5                -----------
+semid          : 65537
+sem member     : 79
+ref count      : 1
+----------------- DimmCfgErrCodeMetric          -----------
+semid          : 327689
+sem member     : 154
+ref count      : 1
+----------------- ComHdd20-2                    -----------
+semid          : 720917
+sem member     : 13
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HotPlugEvent_6                -----------
+semid          : 65537
+sem member     : 80
+ref count      : 1
+----------------- ComHdd13-2                    -----------
+semid          : 720917
+sem member     : 6
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPcieCard-204               -----------
+semid          : 1245218
+sem member     : 100
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_4_D        -----------
+semid          : 32768
+sem member     : 243
+ref count      : 1
+----------------- SysRestart_Event_7_4_E        -----------
+semid          : 65537
+sem member     : 5
+ref count      : 1
+----------------- SysRestart_Event_7_4_F        -----------
+semid          : 65537
+sem member     : 17
+ref count      : 1
+----------------- Raid-1                        -----------
+semid          : 622610
+sem member     : 210
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HddSASASCMetric               -----------
+semid          : 327689
+sem member     : 179
+ref count      : 1
+----------------- Button_Event_03_1             -----------
+semid          : 32768
+sem member     : 176
+ref count      : 1
+----------------- Hdd6-2                        -----------
+semid          : 655379
+sem member     : 108
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- RiserCard32OnSlot2            -----------
+semid          : 360458
+sem member     : 51
+ref count      : 1
+----------------- ComPcieCard-201               -----------
+semid          : 1212449
+sem member     : 121
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HotPlugEvent_7                -----------
+semid          : 65537
+sem member     : 81
+ref count      : 1
+----------------- HotPlugEvent_4                -----------
+semid          : 65537
+sem member     : 78
+ref count      : 1
+----------------- BMC                           -----------
+semid          : 65537
+sem member     : 178
+ref count      : 1
+.HostName       : listened by port : 131075, 229382, 
+----------------- PSUHealthMetric               -----------
+semid          : 327689
+sem member     : 126
+ref count      : 1
+----------------- FanTypeRefInfo                -----------
+semid          : 327689
+sem member     : 158
+ref count      : 1
+----------------- PowerCappingEnableRefInfo     -----------
+semid          : 327689
+sem member     : 113
+ref count      : 1
+----------------- Slot6Expression               -----------
+semid          : 819224
+sem member     : 14
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- IOBPcieSlot4                  -----------
+semid          : 819224
+sem member     : 29
+ref count      : 1
+----------------- LinkStatusEvent_0             -----------
+semid          : 65537
+sem member     : 86
+ref count      : 1
+----------------- VoltageEvent_0                -----------
+semid          : 32768
+sem member     : 66
+ref count      : 1
+----------------- VoltageEvent_1                -----------
+semid          : 32768
+sem member     : 67
+ref count      : 1
+----------------- ComPort3-3                    -----------
+semid          : 720917
+sem member     : 60
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- VoltageEvent_3                -----------
+semid          : 32768
+sem member     : 69
+ref count      : 1
+----------------- VoltageEvent_4                -----------
+semid          : 32768
+sem member     : 70
+ref count      : 1
+----------------- VoltageEvent_5                -----------
+semid          : 32768
+sem member     : 71
+ref count      : 1
+----------------- CpuEvent_0                    -----------
+semid          : 32768
+sem member     : 96
+ref count      : 1
+----------------- VoltageEvent_7                -----------
+semid          : 32768
+sem member     : 73
+ref count      : 1
+----------------- VoltageEvent_8                -----------
+semid          : 32768
+sem member     : 74
+ref count      : 1
+----------------- VoltageEvent_9                -----------
+semid          : 32768
+sem member     : 75
+ref count      : 1
+----------------- CpuEvent_6                    -----------
+semid          : 32768
+sem member     : 102
+ref count      : 1
+----------------- CpuEvent_2                    -----------
+semid          : 32768
+sem member     : 98
+ref count      : 1
+----------------- CpuEvent_8                    -----------
+semid          : 32768
+sem member     : 104
+ref count      : 1
+----------------- CpuEvent_4                    -----------
+semid          : 32768
+sem member     : 100
+ref count      : 1
+----------------- CpuEvent_5                    -----------
+semid          : 32768
+sem member     : 101
+ref count      : 1
+----------------- CpuEvent_9                    -----------
+semid          : 32768
+sem member     : 105
+ref count      : 1
+----------------- CpuEvent_3                    -----------
+semid          : 32768
+sem member     : 99
+ref count      : 1
+----------------- ComHdd21-2                    -----------
+semid          : 720917
+sem member     : 14
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ProcessorFamily:C             -----------
+semid          : 884762
+sem member     : 54
+ref count      : 1
+----------------- CpuEvent_1                    -----------
+semid          : 32768
+sem member     : 97
+ref count      : 1
+----------------- Memory020TreeNode             -----------
+semid          : 622610
+sem member     : 57
+ref count      : 1
+----------------- VoltageEvent_6                -----------
+semid          : 32768
+sem member     : 72
+ref count      : 1
+----------------- ComHdd14-2                    -----------
+semid          : 720917
+sem member     : 7
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- VoltageEvent_2                -----------
+semid          : 32768
+sem member     : 68
+ref count      : 1
+----------------- Button_Event_0                -----------
+semid          : 32768
+sem member     : 170
+ref count      : 1
+----------------- Hdd7-2                        -----------
+semid          : 655379
+sem member     : 114
+ref count      : 1
+.ReplaceFlag    : listened by port : 131075, 
+.RebuildState   : listened by port : 131075, 
+.Id             : listened by port : 655379, 229382, 
+.Presence       : listened by port : 131075, 
+----------------- SYS12V_3Metric                -----------
+semid          : 327689
+sem member     : 169
+ref count      : 1
+----------------- Button_Event_1                -----------
+semid          : 32768
+sem member     : 171
+ref count      : 1
+----------------- Button_Event_2                -----------
+semid          : 32768
+sem member     : 172
+ref count      : 1
+----------------- Button_Event_3                -----------
+semid          : 32768
+sem member     : 173
+ref count      : 1
+----------------- System_Event_6f_2             -----------
+semid          : 32768
+sem member     : 168
+ref count      : 1
+----------------- CpuEvent_7                    -----------
+semid          : 32768
+sem member     : 103
+ref count      : 1
+----------------- SysRestart_Event_7_5_D        -----------
+semid          : 32768
+sem member     : 244
+ref count      : 1
+----------------- Memory021TreeNode             -----------
+semid          : 622610
+sem member     : 58
+ref count      : 1
+----------------- SysRestart_Event_7_5_F        -----------
+semid          : 65537
+sem member     : 18
+ref count      : 1
+----------------- Button_Event_4                -----------
+semid          : 32768
+sem member     : 174
+ref count      : 1
+----------------- SysRestart_Event_7_5_0        -----------
+semid          : 32768
+sem member     : 208
+ref count      : 1
+----------------- SysRestart_Event_7_5_1        -----------
+semid          : 32768
+sem member     : 220
+ref count      : 1
+----------------- Microcontroller_16_3          -----------
+semid          : 131075
+sem member     : 139
+ref count      : 1
+----------------- CPUVSAMetric                  -----------
+semid          : 327689
+sem member     : 144
+ref count      : 1
+----------------- SysRestart_Event_7_5_E        -----------
+semid          : 65537
+sem member     : 6
+ref count      : 1
+----------------- MeInfo                        -----------
+semid          : 491534
+sem member     : 117
+ref count      : 1
+.CpuTjmax       : listened by port : 32768, 
+----------------- SysRestart_Event_7_5_8        -----------
+semid          : 32768
+sem member     : 232
+ref count      : 1
+----------------- PU_Pre_Event_0                -----------
+semid          : 32768
+sem member     : 126
+ref count      : 1
+----------------- CpuEvent_a                    -----------
+semid          : 32768
+sem member     : 106
+ref count      : 1
+----------------- CpuEvent_b                    -----------
+semid          : 32768
+sem member     : 107
+ref count      : 1
+----------------- CpuEvent_c                    -----------
+semid          : 32768
+sem member     : 108
+ref count      : 1
+----------------- SYS12V_2Metric                -----------
+semid          : 327689
+sem member     : 168
+ref count      : 1
+----------------- PcieSAS1_1                    -----------
+semid          : 819224
+sem member     : 36
+ref count      : 1
+----------------- PcieSAS1_2                    -----------
+semid          : 819224
+sem member     : 37
+ref count      : 1
+----------------- ComPort4-3                    -----------
+semid          : 720917
+sem member     : 61
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- DataAcquisitionMetric:C       -----------
+semid          : 884762
+sem member     : 202
+ref count      : 1
+----------------- SysRestart_Event_7_6_1        -----------
+semid          : 32768
+sem member     : 221
+ref count      : 1
+----------------- AddInCard_Event_03_1          -----------
+semid          : 32768
+sem member     : 182
+ref count      : 1
+----------------- Utilization_6f_0              -----------
+semid          : 65537
+sem member     : 88
+ref count      : 1
+----------------- ComCPU2Memory                 -----------
+semid          : 557072
+sem member     : 202
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_6_0        -----------
+semid          : 32768
+sem member     : 209
+ref count      : 1
+----------------- Slot4Expression               -----------
+semid          : 819224
+sem member     : 12
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- RiserCard36OnSlot3            -----------
+semid          : 360458
+sem member     : 54
+ref count      : 1
+----------------- PSUPowerOutMetric             -----------
+semid          : 327689
+sem member     : 131
+ref count      : 1
+----------------- SysRestart_Event_7_6_8        -----------
+semid          : 32768
+sem member     : 233
+ref count      : 1
+----------------- ComHdd22-2                    -----------
+semid          : 720917
+sem member     : 15
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SystemTagDefinition           -----------
+semid          : 327689
+sem member     : 103
+ref count      : 1
+----------------- ComHdd15-2                    -----------
+semid          : 720917
+sem member     : 8
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory140TreeNode             -----------
+semid          : 622610
+sem member     : 79
+ref count      : 1
+----------------- SYS12V_1Metric                -----------
+semid          : 327689
+sem member     : 167
+ref count      : 1
+----------------- SysRestart_Event_7_6_D        -----------
+semid          : 32768
+sem member     : 245
+ref count      : 1
+----------------- SysRestart_Event_7_6_E        -----------
+semid          : 65537
+sem member     : 7
+ref count      : 1
+----------------- SysRestart_Event_7_6_F        -----------
+semid          : 65537
+sem member     : 19
+ref count      : 1
+----------------- ComFan                        -----------
+semid          : 491534
+sem member     : 185
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory071TreeNode             -----------
+semid          : 622610
+sem member     : 68
+ref count      : 1
+----------------- CpuUtiliseRefInfo             -----------
+semid          : 327689
+sem member     : 104
+ref count      : 1
+----------------- PcieSlot7Or8Or44              -----------
+semid          : 819224
+sem member     : 21
+ref count      : 1
+----------------- Memory141TreeNode             -----------
+semid          : 622610
+sem member     : 80
+ref count      : 1
+----------------- System_Event_7_8              -----------
+semid          : 32768
+sem member     : 167
+ref count      : 1
+----------------- PowerCappingEnableMetric      -----------
+semid          : 327689
+sem member     : 114
+ref count      : 1
+----------------- SYS5VMetric                   -----------
+semid          : 327689
+sem member     : 166
+ref count      : 1
+----------------- ComCPU1Memory                 -----------
+semid          : 557072
+sem member     : 201
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComDiskBackplane              -----------
+semid          : 557072
+sem member     : 206
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComHdd0-2                     -----------
+semid          : 655379
+sem member     : 57
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SSD2ComponmentType            -----------
+semid          : 819224
+sem member     : 4
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- ComMotherBoard                -----------
+semid          : 491534
+sem member     : 143
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- DimmErrorLogMetric            -----------
+semid          : 327689
+sem member     : 156
+ref count      : 1
+----------------- HddPrefailECMetric            -----------
+semid          : 327689
+sem member     : 176
+ref count      : 1
+----------------- PcieCardAnchor-201            -----------
+semid          : 1212449
+sem member     : 119
+ref count      : 1
+----------------- PcieCardAnchor-202            -----------
+semid          : 1212449
+sem member     : 196
+ref count      : 1
+----------------- PcieSAS2_1                    -----------
+semid          : 819224
+sem member     : 38
+ref count      : 1
+----------------- PcieSAS2_2                    -----------
+semid          : 819224
+sem member     : 39
+ref count      : 1
+----------------- ChipSet_Event_7_1             -----------
+semid          : 32768
+sem member     : 189
+ref count      : 1
+----------------- PcieCardAnchor-203            -----------
+semid          : 1245218
+sem member     : 22
+ref count      : 1
+----------------- PcieCardAnchor-204            -----------
+semid          : 1245218
+sem member     : 98
+ref count      : 1
+----------------- AddInCard_Event_0a_3          -----------
+semid          : 32768
+sem member     : 185
+ref count      : 1
+----------------- AddInCard_Event_04_1          -----------
+semid          : 32768
+sem member     : 181
+ref count      : 1
+----------------- RaidLinkTreeNode              -----------
+semid          : 622610
+sem member     : 48
+ref count      : 1
+----------------- ComBMA                        -----------
+semid          : 622610
+sem member     : 42
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- CPUMarginMetric               -----------
+semid          : 327689
+sem member     : 137
+ref count      : 1
+----------------- ComBMC                        -----------
+semid          : 524303
+sem member     : 128
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Redundancy_Event_1            -----------
+semid          : 32768
+sem member     : 116
+ref count      : 1
+----------------- AddInCard_Event_0a_4          -----------
+semid          : 32768
+sem member     : 186
+ref count      : 1
+----------------- TempEvent_10                  -----------
+semid          : 32768
+sem member     : 62
+ref count      : 1
+----------------- TempEvent_11                  -----------
+semid          : 32768
+sem member     : 63
+ref count      : 1
+----------------- SysRestart_Event_7_7_8        -----------
+semid          : 32768
+sem member     : 234
+ref count      : 1
+----------------- ChassisTreeNode               -----------
+semid          : 622610
+sem member     : 93
+ref count      : 1
+----------------- SysRestart_Event_7_7_1        -----------
+semid          : 32768
+sem member     : 222
+ref count      : 1
+----------------- Hdd5TreeNode-2                -----------
+semid          : 720917
+sem member     : 47
+ref count      : 1
+----------------- AddInCard_Event_0a_8          -----------
+semid          : 32768
+sem member     : 187
+ref count      : 1
+----------------- ComHdd23-2                    -----------
+semid          : 720917
+sem member     : 16
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MngmntHealthEvent_0           -----------
+semid          : 65537
+sem member     : 58
+ref count      : 1
+----------------- MemUtiliseRefInfo             -----------
+semid          : 327689
+sem member     : 106
+ref count      : 1
+----------------- ComHdd16-2                    -----------
+semid          : 720917
+sem member     : 9
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MngmntHealthEvent_2           -----------
+semid          : 65537
+sem member     : 60
+ref count      : 1
+----------------- Slot7Or8Or44Expression        -----------
+semid          : 819224
+sem member     : 20
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- SysRestart_Event_7_7_0        -----------
+semid          : 32768
+sem member     : 210
+ref count      : 1
+----------------- SysRestart_Event_7_7_E        -----------
+semid          : 65537
+sem member     : 8
+ref count      : 1
+----------------- SysRestart_Event_7_7_D        -----------
+semid          : 32768
+sem member     : 246
+ref count      : 1
+----------------- SysRestart_Event_7_7_F        -----------
+semid          : 65537
+sem member     : 20
+ref count      : 1
+----------------- MngmntHealthEvent_4           -----------
+semid          : 65537
+sem member     : 62
+ref count      : 1
+----------------- RiserCard90OnSlot1            -----------
+semid          : 360458
+sem member     : 44
+ref count      : 1
+----------------- Memory000                     -----------
+semid          : 425996
+sem member     : 216
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory001                     -----------
+semid          : 425996
+sem member     : 218
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- RiserCard90OnSlot2            -----------
+semid          : 360458
+sem member     : 48
+ref count      : 1
+----------------- ComCpu1                       -----------
+semid          : 491534
+sem member     : 147
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComCpu2                       -----------
+semid          : 491534
+sem member     : 148
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MemCurPowerRefInfo            -----------
+semid          : 327689
+sem member     : 110
+ref count      : 1
+----------------- Slot2Expression               -----------
+semid          : 819224
+sem member     : 9
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- MngmntHealthEvent_1           -----------
+semid          : 65537
+sem member     : 59
+ref count      : 1
+----------------- FdmWebConfig:C                -----------
+semid          : 884762
+sem member     : 216
+ref count      : 1
+----------------- ComPowerSupply-5              -----------
+semid          : 720917
+sem member     : 160
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPowerSupply-6              -----------
+semid          : 720917
+sem member     : 206
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- RiserCard31OnSlot1            -----------
+semid          : 360458
+sem member     : 47
+ref count      : 1
+----------------- RiserCard31OnSlot2            -----------
+semid          : 360458
+sem member     : 52
+ref count      : 1
+----------------- ComHdd1-2                     -----------
+semid          : 655379
+sem member     : 58
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysFwProg_Event_0_1           -----------
+semid          : 32768
+sem member     : 158
+ref count      : 1
+----------------- Memory010TreeNode             -----------
+semid          : 622610
+sem member     : 55
+ref count      : 1
+----------------- LomCard-3                     -----------
+semid          : 720917
+sem member     : 51
+ref count      : 1
+.Health         : listened by port : 131075, 
+.FDMFault       : listened by port : 131075, 
+----------------- ComMemory                     -----------
+semid          : 589841
+sem member     : 185
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- MngmntHealthEvent_3           -----------
+semid          : 65537
+sem member     : 61
+ref count      : 1
+----------------- Memory070TreeNode             -----------
+semid          : 622610
+sem member     : 67
+ref count      : 1
+----------------- PowerEvent_0                  -----------
+semid          : 32768
+sem member     : 127
+ref count      : 1
+----------------- PRODUCT                       -----------
+semid          : 851993
+sem member     : 147
+ref count      : 1
+----------------- PowerEvent_2                  -----------
+semid          : 32768
+sem member     : 129
+ref count      : 1
+----------------- Memory010                     -----------
+semid          : 425996
+sem member     : 220
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- PcieSlot4Or5Or6               -----------
+semid          : 819224
+sem member     : 25
+ref count      : 1
+----------------- Memory011                     -----------
+semid          : 425996
+sem member     : 222
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- PSURedundancyRefInfo          -----------
+semid          : 327689
+sem member     : 121
+ref count      : 1
+----------------- SSDSlot18Expression           -----------
+semid          : 819224
+sem member     : 7
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- Memory011TreeNode             -----------
+semid          : 622610
+sem member     : 56
+ref count      : 1
+----------------- PowerEvent_3                  -----------
+semid          : 32768
+sem member     : 130
+ref count      : 1
+----------------- PowerEvent_4                  -----------
+semid          : 32768
+sem member     : 131
+ref count      : 1
+----------------- PowerEvent_1                  -----------
+semid          : 32768
+sem member     : 128
+ref count      : 1
+----------------- PcieSAS3_2                    -----------
+semid          : 819224
+sem member     : 41
+ref count      : 1
+----------------- PowerEvent_7                  -----------
+semid          : 32768
+sem member     : 134
+ref count      : 1
+----------------- PowerEvent_8                  -----------
+semid          : 32768
+sem member     : 135
+ref count      : 1
+----------------- PowerEvent_5                  -----------
+semid          : 32768
+sem member     : 132
+ref count      : 1
+----------------- PowerEvent_6                  -----------
+semid          : 32768
+sem member     : 133
+ref count      : 1
+----------------- SysRestart_Event_7_8_0        -----------
+semid          : 32768
+sem member     : 211
+ref count      : 1
+----------------- SysRestart_Event_7_8_1        -----------
+semid          : 32768
+sem member     : 223
+ref count      : 1
+----------------- PowerEvent_9                  -----------
+semid          : 32768
+sem member     : 136
+ref count      : 1
+----------------- PcieSAS3_1                    -----------
+semid          : 819224
+sem member     : 40
+ref count      : 1
+----------------- SysFwProg_Event_0_9           -----------
+semid          : 32768
+sem member     : 160
+ref count      : 1
+----------------- ConnectEvent_0_9              -----------
+semid          : 65537
+sem member     : 31
+ref count      : 1
+----------------- PowerCappingTopRefInfo        -----------
+semid          : 327689
+sem member     : 119
+ref count      : 1
+----------------- PSUPowerMetric                -----------
+semid          : 327689
+sem member     : 125
+ref count      : 1
+----------------- SysFwProg_Event_0_7           -----------
+semid          : 32768
+sem member     : 159
+ref count      : 1
+----------------- ComHdd17-2                    -----------
+semid          : 720917
+sem member     : 10
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_8_8        -----------
+semid          : 32768
+sem member     : 235
+ref count      : 1
+----------------- SysRestart_Event_7_8_D        -----------
+semid          : 32768
+sem member     : 247
+ref count      : 1
+----------------- HddTagDefinition              -----------
+semid          : 327689
+sem member     : 182
+ref count      : 1
+----------------- SysRestart_Event_7_8_E        -----------
+semid          : 65537
+sem member     : 9
+ref count      : 1
+----------------- SysRestart_Event_7_8_F        -----------
+semid          : 65537
+sem member     : 21
+ref count      : 1
+----------------- HddOtherECMetric              -----------
+semid          : 327689
+sem member     : 177
+ref count      : 1
+----------------- Memory020                     -----------
+semid          : 425996
+sem member     : 224
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory021                     -----------
+semid          : 425996
+sem member     : 226
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory100                     -----------
+semid          : 425996
+sem member     : 248
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory101                     -----------
+semid          : 458765
+sem member     : 0
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- TempEvent_0                   -----------
+semid          : 32768
+sem member     : 52
+ref count      : 1
+----------------- TempEvent_1                   -----------
+semid          : 32768
+sem member     : 53
+ref count      : 1
+----------------- TempEvent_3                   -----------
+semid          : 32768
+sem member     : 55
+ref count      : 1
+----------------- TempEvent_4                   -----------
+semid          : 32768
+sem member     : 56
+ref count      : 1
+----------------- TempEvent_5                   -----------
+semid          : 32768
+sem member     : 57
+ref count      : 1
+----------------- TempEvent_6                   -----------
+semid          : 32768
+sem member     : 58
+ref count      : 1
+----------------- TempEvent_7                   -----------
+semid          : 32768
+sem member     : 59
+ref count      : 1
+----------------- MainBoardTreeNode             -----------
+semid          : 622610
+sem member     : 70
+ref count      : 1
+----------------- TempEvent_9                   -----------
+semid          : 32768
+sem member     : 61
+ref count      : 1
+----------------- SysFwProg_Event_0_c           -----------
+semid          : 32768
+sem member     : 161
+ref count      : 1
+----------------- Hdd3TreeNode-2                -----------
+semid          : 720917
+sem member     : 45
+ref count      : 1
+----------------- Riser1LinkTreeNode            -----------
+semid          : 622610
+sem member     : 49
+ref count      : 1
+----------------- Sensor_15_07_status_1         -----------
+semid          : 32768
+sem member     : 177
+ref count      : 1
+----------------- TempEvent_8                   -----------
+semid          : 32768
+sem member     : 60
+ref count      : 1
+----------------- Microcontroller_1_1           -----------
+semid          : 131075
+sem member     : 136
+ref count      : 1
+----------------- Microcontroller_1_2           -----------
+semid          : 131075
+sem member     : 137
+ref count      : 1
+----------------- TempEvent_2                   -----------
+semid          : 32768
+sem member     : 54
+ref count      : 1
+----------------- PSUTagDefinition              -----------
+semid          : 327689
+sem member     : 132
+ref count      : 1
+----------------- ComPS1                        -----------
+semid          : 491534
+sem member     : 145
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPS2                        -----------
+semid          : 491534
+sem member     : 146
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComHdd2-2                     -----------
+semid          : 655379
+sem member     : 59
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HddBPLinkTreeNode             -----------
+semid          : 622610
+sem member     : 45
+ref count      : 1
+----------------- NCBoard_Event_1               -----------
+semid          : 32768
+sem member     : 179
+ref count      : 1
+----------------- Memory130TreeNode             -----------
+semid          : 622610
+sem member     : 77
+ref count      : 1
+----------------- PowerCappingBaseMetric        -----------
+semid          : 327689
+sem member     : 118
+ref count      : 1
+----------------- VerChangeEvt_2                -----------
+semid          : 65537
+sem member     : 71
+ref count      : 1
+----------------- NCBoard_Event_2               -----------
+semid          : 32768
+sem member     : 180
+ref count      : 1
+----------------- VerChangeEvt_0                -----------
+semid          : 65537
+sem member     : 68
+ref count      : 1
+----------------- SecurityModuleAnchor-b        -----------
+semid          : 720917
+sem member     : 233
+ref count      : 1
+----------------- Memory030                     -----------
+semid          : 425996
+sem member     : 228
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory031                     -----------
+semid          : 425996
+sem member     : 230
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory110                     -----------
+semid          : 458765
+sem member     : 2
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory111                     -----------
+semid          : 458765
+sem member     : 4
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory061TreeNode             -----------
+semid          : 622610
+sem member     : 66
+ref count      : 1
+----------------- VerChangeEvt_3                -----------
+semid          : 65537
+sem member     : 72
+ref count      : 1
+----------------- Memory131TreeNode             -----------
+semid          : 622610
+sem member     : 78
+ref count      : 1
+----------------- Microcontroller_1_0           -----------
+semid          : 131075
+sem member     : 135
+ref count      : 1
+----------------- SysRestart_Event_7_9_0        -----------
+semid          : 32768
+sem member     : 212
+ref count      : 1
+----------------- SysRestart_Event_7_9_1        -----------
+semid          : 32768
+sem member     : 224
+ref count      : 1
+----------------- Payload:C                     -----------
+semid          : 884762
+sem member     : 98
+ref count      : 1
+----------------- ComSASPHY                     -----------
+semid          : 622610
+sem member     : 95
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComButton                     -----------
+semid          : 557072
+sem member     : 203
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HddBackCardAnchor-2           -----------
+semid          : 655379
+sem member     : 53
+ref count      : 1
+----------------- CPUDTSMetric                  -----------
+semid          : 327689
+sem member     : 136
+ref count      : 1
+----------------- PcieNicCard1                  -----------
+semid          : 786455
+sem member     : 247
+ref count      : 1
+----------------- RiserCard94OnSlot1            -----------
+semid          : 360458
+sem member     : 45
+ref count      : 1
+----------------- RiserCard94OnSlot2            -----------
+semid          : 360458
+sem member     : 49
+ref count      : 1
+----------------- PcieNicCard3                  -----------
+semid          : 786455
+sem member     : 249
+ref count      : 1
+----------------- fan3TreeNode                  -----------
+semid          : 622610
+sem member     : 90
+ref count      : 1
+----------------- CPUCoreRemMetric              -----------
+semid          : 327689
+sem member     : 135
+ref count      : 1
+----------------- PcieNicCard2                  -----------
+semid          : 786455
+sem member     : 248
+ref count      : 1
+----------------- ComHdd18-2                    -----------
+semid          : 720917
+sem member     : 11
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SysRestart_Event_7_9_8        -----------
+semid          : 32768
+sem member     : 236
+ref count      : 1
+----------------- SysRestart_Event_7_9_D        -----------
+semid          : 32768
+sem member     : 248
+ref count      : 1
+----------------- SysRestart_Event_7_9_E        -----------
+semid          : 65537
+sem member     : 10
+ref count      : 1
+----------------- SysRestart_Event_7_9_F        -----------
+semid          : 65537
+sem member     : 22
+ref count      : 1
+----------------- Memory040                     -----------
+semid          : 425996
+sem member     : 232
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- SSDSlot16Expression           -----------
+semid          : 819224
+sem member     : 6
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- fan4TreeNode                  -----------
+semid          : 622610
+sem member     : 91
+ref count      : 1
+----------------- Memory120                     -----------
+semid          : 458765
+sem member     : 6
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory041                     -----------
+semid          : 425996
+sem member     : 234
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- PcieHddTreeNode-202           -----------
+semid          : 1245218
+sem member     : 18
+ref count      : 1
+.ParentObj      : send event count: 1
+.SubTree        : send event count: 1
+.SN             : send event count: 1
+.HideRelationObj : send event count: 1
+.HideRelationObjStr : send event count: 1
+.UpdateMode     : send event count: 1
+.InnerTree      : send event count: 1
+.NodeType       : send event count: 1
+.Presence       : send event count: 1
+.OnlineTime     : send event count: 1
+.RefComponent   : send event count: 1
+.RefFruObj      : send event count: 1
+.PriorSN        : send event count: 1
+.ReplaceFlag    : send event count: 1
+----------------- Memory121                     -----------
+semid          : 458765
+sem member     : 8
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- PcieHddTreeNode-204           -----------
+semid          : 1245218
+sem member     : 170
+ref count      : 1
+.ParentObj      : send event count: 1
+.SubTree        : send event count: 1
+.SN             : send event count: 1
+.HideRelationObj : send event count: 1
+.HideRelationObjStr : send event count: 1
+.UpdateMode     : send event count: 1
+.InnerTree      : send event count: 1
+.NodeType       : send event count: 1
+.Presence       : send event count: 1
+.OnlineTime     : send event count: 1
+.RefComponent   : send event count: 1
+.RefFruObj      : send event count: 1
+.PriorSN        : send event count: 1
+.ReplaceFlag    : send event count: 1
+----------------- PcieHddTreeNode-203           -----------
+semid          : 1245218
+sem member     : 94
+ref count      : 1
+.ParentObj      : send event count: 1
+.SubTree        : send event count: 1
+.SN             : send event count: 1
+.HideRelationObj : send event count: 1
+.HideRelationObjStr : send event count: 1
+.UpdateMode     : send event count: 1
+.InnerTree      : send event count: 1
+.NodeType       : send event count: 1
+.Presence       : send event count: 1
+.OnlineTime     : send event count: 1
+.RefComponent   : send event count: 1
+.RefFruObj      : send event count: 1
+.PriorSN        : send event count: 1
+.ReplaceFlag    : send event count: 1
+----------------- PcieHddTreeNode-201           -----------
+semid          : 1212449
+sem member     : 191
+ref count      : 1
+.ParentObj      : send event count: 1
+.SubTree        : send event count: 1
+.SN             : send event count: 1
+.HideRelationObj : send event count: 1
+.HideRelationObjStr : send event count: 1
+.UpdateMode     : send event count: 1
+.InnerTree      : send event count: 1
+.NodeType       : send event count: 1
+.Presence       : send event count: 1
+.OnlineTime     : send event count: 1
+.RefComponent   : send event count: 1
+.RefFruObj      : send event count: 1
+.PriorSN        : send event count: 1
+.ReplaceFlag    : send event count: 1
+----------------- RaidCardAnchor-1              -----------
+semid          : 622610
+sem member     : 178
+ref count      : 1
+----------------- PCHPRIM1V05Metric             -----------
+semid          : 327689
+sem member     : 164
+ref count      : 1
+----------------- MngmntHealthEvent_5_0         -----------
+semid          : 65537
+sem member     : 63
+ref count      : 1
+----------------- MngmntHealthEvent_5_1         -----------
+semid          : 65537
+sem member     : 64
+ref count      : 1
+----------------- RiserCard3COnSlot3            -----------
+semid          : 360458
+sem member     : 55
+ref count      : 1
+----------------- EventDescp:C                  -----------
+semid          : 884762
+sem member     : 176
+ref count      : 1
+----------------- RearBPLinkTreeNode            -----------
+semid          : 622610
+sem member     : 46
+ref count      : 1
+----------------- MemHealthMetric               -----------
+semid          : 327689
+sem member     : 148
+ref count      : 1
+----------------- ComNICCard-3                  -----------
+semid          : 720917
+sem member     : 86
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- PSUIinMetric                  -----------
+semid          : 327689
+sem member     : 128
+ref count      : 1
+----------------- FdmWebConfig                  -----------
+semid          : 360458
+sem member     : 42
+ref count      : 1
+----------------- RiserTreeNode-9               -----------
+semid          : 753686
+sem member     : 98
+ref count      : 1
+----------------- CPUMEMTempMetric              -----------
+semid          : 327689
+sem member     : 140
+ref count      : 1
+----------------- RiserTreeNode-8               -----------
+semid          : 753686
+sem member     : 50
+ref count      : 1
+----------------- PowerCappingLimitMetric       -----------
+semid          : 327689
+sem member     : 116
+ref count      : 1
+----------------- CPUDDRVPP2Metric              -----------
+semid          : 327689
+sem member     : 146
+ref count      : 1
+----------------- ComHdd3-2                     -----------
+semid          : 655379
+sem member     : 60
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory050                     -----------
+semid          : 425996
+sem member     : 236
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory051                     -----------
+semid          : 425996
+sem member     : 238
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- HddHealthMetric               -----------
+semid          : 327689
+sem member     : 174
+ref count      : 1
+----------------- CPUHealthMetric               -----------
+semid          : 327689
+sem member     : 133
+ref count      : 1
+----------------- RaidTreeNode-1                -----------
+semid          : 655379
+sem member     : 42
+ref count      : 1
+----------------- ComPcieRiser2                 -----------
+semid          : 557072
+sem member     : 209
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPcieRiser3                 -----------
+semid          : 557072
+sem member     : 210
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory130                     -----------
+semid          : 458765
+sem member     : 10
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Hdd1TreeNode-2                -----------
+semid          : 720917
+sem member     : 43
+ref count      : 1
+----------------- CPUVDDQTempMetric             -----------
+semid          : 327689
+sem member     : 138
+ref count      : 1
+----------------- PwrCapStatus_Event_0          -----------
+semid          : 32768
+sem member     : 169
+ref count      : 1
+----------------- ComPcieCard-e01               -----------
+semid          : 1212449
+sem member     : 49
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComPcieRiser1                 -----------
+semid          : 557072
+sem member     : 208
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Terminator_Event_4_1          -----------
+semid          : 32768
+sem member     : 193
+ref count      : 1
+----------------- ComPort1-e01                  -----------
+semid          : 1212449
+sem member     : 25
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory131                     -----------
+semid          : 458765
+sem member     : 12
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- CPUVDDQ2Metric                -----------
+semid          : 327689
+sem member     : 143
+ref count      : 1
+----------------- No_SD_Event_1                 -----------
+semid          : 32768
+sem member     : 151
+ref count      : 1
+----------------- ComCable                      -----------
+semid          : 557072
+sem member     : 205
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- CPUDDRVPP1Metric              -----------
+semid          : 327689
+sem member     : 145
+ref count      : 1
+----------------- ComHdd19-2                    -----------
+semid          : 720917
+sem member     : 12
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory000TreeNode             -----------
+semid          : 622610
+sem member     : 53
+ref count      : 1
+----------------- PowerCappingTopMetric         -----------
+semid          : 327689
+sem member     : 120
+ref count      : 1
+----------------- MemUtiliseMetric              -----------
+semid          : 327689
+sem member     : 107
+ref count      : 1
+----------------- Memory060                     -----------
+semid          : 425996
+sem member     : 240
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory060TreeNode             -----------
+semid          : 622610
+sem member     : 65
+ref count      : 1
+----------------- RiserTreeNode-e               -----------
+semid          : 753686
+sem member     : 122
+ref count      : 1
+----------------- SYS3_3VMetric                 -----------
+semid          : 327689
+sem member     : 165
+ref count      : 1
+----------------- fan1TreeNode                  -----------
+semid          : 622610
+sem member     : 88
+ref count      : 1
+----------------- Memory140                     -----------
+semid          : 458765
+sem member     : 14
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- HddSATASMARTMetric            -----------
+semid          : 327689
+sem member     : 178
+ref count      : 1
+----------------- Memory061                     -----------
+semid          : 425996
+sem member     : 242
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- SSD1ComponmentType            -----------
+semid          : 819224
+sem member     : 0
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- Memory141                     -----------
+semid          : 458765
+sem member     : 16
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory001TreeNode             -----------
+semid          : 622610
+sem member     : 54
+ref count      : 1
+----------------- SelLogEvent_5                 -----------
+semid          : 131075
+sem member     : 132
+ref count      : 1
+----------------- MemEvent_10                   -----------
+semid          : 32768
+sem member     : 150
+ref count      : 1
+----------------- Component:C                   -----------
+semid          : 884762
+sem member     : 73
+ref count      : 1
+----------------- fan2TreeNode                  -----------
+semid          : 622610
+sem member     : 89
+ref count      : 1
+----------------- SelLogEvent_0                 -----------
+semid          : 131075
+sem member     : 131
+ref count      : 1
+----------------- ComHdd4-2                     -----------
+semid          : 655379
+sem member     : 61
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- Memory070                     -----------
+semid          : 425996
+sem member     : 244
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory071                     -----------
+semid          : 425996
+sem member     : 246
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory150                     -----------
+semid          : 458765
+sem member     : 18
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- Memory151                     -----------
+semid          : 458765
+sem member     : 20
+ref count      : 1
+.FDMFault       : listened by port : 131075, 
+.ReplaceFlag    : listened by port : 131075, 
+----------------- FanTagDefinition              -----------
+semid          : 327689
+sem member     : 161
+ref count      : 1
+----------------- ChassisPayload                -----------
+semid          : 458765
+sem member     : 48
+ref count      : 1
+.PwrOkSigDrop   : listened by port : 131075, 
+.PowerGd        : listened by port : 32768, 
+.BoardStableStatus : listened by port : 360458, 
+.AcpiStatus     : listened by port : 229382, 
+.ResetFlag      : recv event count: 1 : listened by port : 131075, 655379, 557072, 327689, 491534, 98306, 65537, 
+.PwrButtonFlag  : listened by port : 131075, 
+.SysResetFlag   : recv event count: 24 : listened by port : 688148, 655379, 557072, 589841, 720917, 327689, 491534, 131075, 98306, 65537, 
+.RestartValue   : listened by port : 131075, 557072, 
+.ChassisPowerState : recv event count: 3 : listened by port : 688148, 655379, 557072, 589841, 327689, 491534, 131075, 229382, 98306, 
+.AcpiValue      : listened by port : 131075, 
+----------------- AcpiEvent_0                   -----------
+semid          : 65537
+sem member     : 35
+ref count      : 1
+----------------- AcpiEvent_1                   -----------
+semid          : 65537
+sem member     : 36
+ref count      : 1
+----------------- AcpiEvent_2                   -----------
+semid          : 65537
+sem member     : 37
+ref count      : 1
+----------------- AcpiEvent_3                   -----------
+semid          : 65537
+sem member     : 38
+ref count      : 1
+----------------- AcpiEvent_4                   -----------
+semid          : 65537
+sem member     : 39
+ref count      : 1
+----------------- AcpiEvent_5                   -----------
+semid          : 65537
+sem member     : 40
+ref count      : 1
+----------------- AddInCard_Event_08_0          -----------
+semid          : 32768
+sem member     : 183
+ref count      : 1
+----------------- AddInCard_Event_08_1          -----------
+semid          : 32768
+sem member     : 184
+ref count      : 1
+----------------- AcpiEvent_6                   -----------
+semid          : 65537
+sem member     : 41
+ref count      : 1
+----------------- PcieSEC1                      -----------
+semid          : 819224
+sem member     : 48
+ref count      : 1
+----------------- PcieSEC2                      -----------
+semid          : 819224
+sem member     : 49
+ref count      : 1
+----------------- PcieSEC3                      -----------
+semid          : 819224
+sem member     : 50
+ref count      : 1
+----------------- AcpiEvent_7                   -----------
+semid          : 65537
+sem member     : 42
+ref count      : 1
+----------------- SysRestart_Event_0            -----------
+semid          : 32768
+sem member     : 196
+ref count      : 1
+----------------- SysRestart_Event_1            -----------
+semid          : 32768
+sem member     : 197
+ref count      : 1
+----------------- SysRestart_Event_2            -----------
+semid          : 32768
+sem member     : 198
+ref count      : 1
+----------------- SysRestart_Event_3            -----------
+semid          : 32768
+sem member     : 199
+ref count      : 1
+----------------- SysRestart_Event_4            -----------
+semid          : 32768
+sem member     : 200
+ref count      : 1
+----------------- SysRestart_Event_5            -----------
+semid          : 32768
+sem member     : 201
+ref count      : 1
+----------------- SysRestart_Event_6            -----------
+semid          : 32768
+sem member     : 202
+ref count      : 1
+----------------- Log_Event_7_8                 -----------
+semid          : 131075
+sem member     : 133
+ref count      : 1
+----------------- VersionChangeEvent_7          -----------
+semid          : 65537
+sem member     : 73
+ref count      : 1
+----------------- AcpiEvent_8                   -----------
+semid          : 65537
+sem member     : 43
+ref count      : 1
+----------------- AcpiEvent_9                   -----------
+semid          : 65537
+sem member     : 44
+ref count      : 1
+alias name: a:Component12b01, object name: ComSASPHY
+alias name: a:Component10f01, object name: ComRiserCard-8
+alias name: a:PcieAddrInfo2d40200, object name: PcieSAS3_1
+alias name: a:Component10f02, object name: ComRiserCard-9
+alias name: a:Component10f03, object name: ComRiserCard-e
+alias name: a:PcieAddrInfo1801000, object name: PcieSlot6
+alias name: a:Component103fe, object name: ComPS
+alias name: a:Component10101, object name: ComCPU1Memory
+alias name: a:Component10102, object name: ComCPU2Memory
+alias name: a:Component10103, object name: ComMemory010
+alias name: a:Component10104, object name: ComMemory011
+alias name: a:Component10401, object name: ComFan1
+alias name: a:Component10402, object name: ComFan2
+alias name: a:Component10403, object name: ComFan3
+alias name: a:Component10404, object name: ComFan4
+alias name: a:Component10106, object name: ComMemory021
+alias name: a:Component10107, object name: ComMemory030
+alias name: a:Component10108, object name: ComMemory031
+alias name: a:Component10109, object name: ComMemory040
+alias name: a:Component10105, object name: ComMemory020
+alias name: a:Memory1000200, object name: Memory120
+alias name: a:Memory1000201, object name: Memory121
+alias name: a:Component12902, object name: ComPort2-3
+alias name: a:Component12901, object name: ComPort1-3
+alias name: a:PcieAddrInfo1800c00, object name: PcieSlot8Or45
+alias name: a:PcieAddrInfo740100, object name: PcieSEC1
+alias name: a:Memory1000501, object name: Memory151
+alias name: a:Memory1000500, object name: Memory150
+alias name: a:Component12903, object name: ComPort3-3
+alias name: a:PcieAddrInfo740400, object name: PcieSAS1_2
+alias name: a:PcieAddrInfoc00, object name: PcieSlot3
+alias name: a:PcieAddrInfo1b40100, object name: PcieSEC2
+alias name: a:Component12904, object name: ComPort4-3
+alias name: a:PcieAddrInfo1b40400, object name: PcieSAS2_2
+alias name: a:Memory100, object name: Memory010
+alias name: a:Memory101, object name: Memory011
+alias name: a:Component10110, object name: ComMemory071
+alias name: a:Component10111, object name: ComMemory100
+alias name: a:Component10112, object name: ComMemory101
+alias name: a:Memory400, object name: Memory040
+alias name: a:Memory401, object name: Memory041
+alias name: a:Component10114, object name: ComMemory111
+alias name: a:Memory700, object name: Memory070
+alias name: a:Memory701, object name: Memory071
+alias name: a:PcieAddrInfo1800400, object name: PcieSlot5
+alias name: a:Component10113, object name: ComMemory110
+alias name: a:Component10117, object name: ComMemory130
+alias name: a:Component10118, object name: ComMemory131
+alias name: a:Component11101, object name: ComLcd
+alias name: a:PcieAddrInfo400, object name: PcieSlot2
+alias name: a:Component10115, object name: ComMemory120
+alias name: a:Component1010a, object name: ComMemory041
+alias name: a:Component1010b, object name: ComMemory050
+alias name: a:Component1010c, object name: ComMemory051
+alias name: a:Component1010d, object name: ComMemory060
+alias name: a:Component1010e, object name: ComMemory061
+alias name: a:Component1010f, object name: ComMemory070
+alias name: a:Component10119, object name: ComMemory140
+alias name: a:Component10116, object name: ComMemory121
+alias name: a:PcieAddrInfo2dc0000, object name: PcieNicCard3
+alias name: a:Component10120, object name: ComMemory171
+alias name: a:Component10d01, object name: ComNICCard-3
+alias name: a:PcieAddrInfo2d40000, object name: PcieZIP3
+alias name: a:Component12c00, object name: ComSystem
+alias name: a:PcieAddrInfo2d40300, object name: PcieSATA3
+alias name: a:Component101ff, object name: ComMemory
+alias name: a:Component14501, object name: ComRetimer2-9
+alias name: a:Component1011a, object name: ComMemory141
+alias name: a:Component1011b, object name: ComMemory150
+alias name: a:Component1011c, object name: ComMemory151
+alias name: a:Component1011d, object name: ComMemory160
+alias name: a:Component1011e, object name: ComMemory161
+alias name: a:Component1011f, object name: ComMemory170
+alias name: a:Component104fe, object name: ComFan
+alias name: a:Component10501, object name: ComHDDBackplane-2
+alias name: a:Component10208, object name: ComPcieCard-201
+alias name: a:Component10209, object name: ComPcieCard-202
+alias name: a:Memory1000000, object name: Memory100
+alias name: a:Memory1000001, object name: Memory101
+alias name: a:Component10807, object name: ComPcieCard-e01
+alias name: a:PcieAddrInfo1800a00, object name: PcieSlot46
+alias name: a:Memory1000300, object name: Memory130
+alias name: a:Memory1000301, object name: Memory131
+alias name: a:Component14901, object name: ComBMA
+alias name: a:Memory1000600, object name: Memory160
+alias name: a:PcieAddrInfo740200, object name: PcieSAS1_1
+alias name: a:Memory1000601, object name: Memory161
+alias name: a:Component11a01, object name: ComBMC
+alias name: a:PcieAddrInfo1b40200, object name: PcieSAS2_1
+alias name: a:Memory200, object name: Memory020
+alias name: a:Memory201, object name: Memory021
+alias name: a:Memory500, object name: Memory050
+alias name: a:Memory501, object name: Memory051
+alias name: a:PcieAddrInfo1800200, object name: PcieSSDSlot15
+alias name: a:PcieAddrInfo200, object name: PcieSSDSlot9
+alias name: a:PcieAddrInfo1800800, object name: PcieSlot7Or8Or44
+alias name: a:Component11201, object name: ComChassis
+alias name: a:Component13101, object name: ComButton
+alias name: a:Component1020a, object name: ComPcieCard-203
+alias name: a:PcieAddrInfo800, object name: RaidSlot1
+alias name: a:Component1020b, object name: ComPcieCard-204
+alias name: a:Cpu0, object name: Cpu1
+alias name: a:Cpu1, object name: Cpu2
+alias name: a:PcieAddrInfo2c00400, object name: IOBPcieSlot4
+alias name: a:PcieAddrInfo2d40100, object name: PcieSEC3
+alias name: a:PcieAddrInfo7c0000, object name: PcieNicCard1
+alias name: a:PcieAddrInfo2d40400, object name: PcieSAS3_2
+alias name: a:PcieAddrInfo1bc0000, object name: PcieNicCard2
+alias name: a:PcieAddrInfo1801200, object name: PcieSSDSlot19
+alias name: a:Component10001, object name: ComCpu1
+alias name: a:Component10002, object name: ComCpu2
+alias name: a:Component10301, object name: ComPowerSupply-5
+alias name: a:Component10302, object name: ComPowerSupply-6
+alias name: a:PcieAddrInfo0, object name: PcieSlot1Or2Or3
+alias name: a:Component12201, object name: ComSecurityModule-b
+alias name: a:Component10601, object name: ComRaidCard-1
+alias name: a:Memory1000100, object name: Memory110
+alias name: a:Memory1000101, object name: Memory111
+alias name: a:Component12801, object name: ComCable
+alias name: a:Memory1000400, object name: Memory140
+alias name: a:Memory1000401, object name: Memory141
+alias name: a:PcieAddrInfo740000, object name: PcieZIP1
+alias name: a:Memory1000700, object name: Memory170
+alias name: a:Memory1000701, object name: Memory171
+alias name: a:PcieAddrInfo1b40000, object name: PcieZIP2
+alias name: a:PcieAddrInfo1800e00, object name: PcieSlot47
+alias name: a:PcieAddrInfo740300, object name: PcieSATA1
+alias name: a:PcieAddrInfoe00, object name: PcieSSDSlot13
+alias name: a:PcieAddrInfo1b40300, object name: PcieSATA2
+alias name: a:Memory300, object name: Memory030
+alias name: a:Memory301, object name: Memory031
+alias name: a:PcieAddrInfo1800000, object name: PcieSlot4Or5Or6
+alias name: a:Memory600, object name: Memory060
+alias name: a:Memory601, object name: Memory061
+alias name: a:Component11000, object name: ComMotherBoard
+alias name: a:PcieAddrInfo1800600, object name: PcieSSDSlot17
+alias name: a:PcieAddrInfo600, object name: PcieSSDSlot11
+alias name: a:Memory0, object name: Memory000
+alias name: a:Memory1, object name: Memory001
+=====================method info=============================
+key=FdmWebConfig.PostSelToFdm, func=0xad6a8
+input para list:
+u u s ay output para list:
+
+key=DataAcquisitionService.ClearTable, func=0x2a8e0
+input para list:
+output para list:
+
+key=FdmConfig.FDMWriteBinLog, func=0x7e738
+input para list:
+y y s s y ay output para list:
+
+key=Cpu.CpuGetInfo, func=(nil)
+input para list:
+i u ay ay i output para list:
+
+key=FdmWebConfig.FDMFruTree, func=0x6b380
+input para list:
+y output para list:
+s i 
+key=Diagnose.GetBlackBox, func=0x1e25c
+input para list:
+output para list:
+s 
+key=FdmWebConfig.SetUpdateConfig, func=0x6bcb4
+input para list:
+y y y output para list:
+i 
+key=Diagnose.GetPort80, func=0x1e878
+input para list:
+output para list:
+ay i i 
+key=FdmConfig.FdmConfigSetFdmFault, func=0xb62c0
+input para list:
+y y ay output para list:
+
+key=FdmConfig.FruHotPlugCallback, func=0x64e08
+input para list:
+s y y y y output para list:
+
+key=FdmConfig.GetFdmLog, func=0xa2d14
+input para list:
+output para list:
+s 
+key=FdmWebConfig.SetFDMFruTree, func=0x6b794
+input para list:
+y y u output para list:
+i 
+key=Diagnose.SetBlackBoxState, func=0x1de18
+input para list:
+y output para list:
+
+key=DataAcquisitionService.ExportTable, func=0x2a998
+input para list:
+s output para list:
+s 
+key=DataAcquisitionService.SetServiceEnable, func=0x2ac60
+input para list:
+y output para list:
+
+key=Diagnose.GetSystemCom, func=0x1e500
+input para list:
+output para list:
+s 
+key=Diagnose.SetSolDataState, func=0x1e048
+input para list:
+i output para list:
+
+key=DataAcquisitionService.GetTableInfo, func=0x2acf8
+input para list:
+y y u u output para list:
+s 
+key=diagnose.connect_to_cli, func=0xb6c8aafc
+input para list:
+s s output para list:
+
+key=diagnose.save_dlog_cfg, func=0xb6c8a124
+input para list:
+output para list:
+
+key=diagnose.deconnect_to_cli, func=0xb6c8a608
+input para list:
+s output para list:
+
+key=diagnose.set_trace_cfg, func=0xb6c899e0
+input para list:
+s output para list:
+
+key=diagnose.dlog_outlvl, func=0xb6c8a28c
+input para list:
+s output para list:
+
+key=diagnose.dlog_outype, func=0xb6c8ada8
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=655379
+key=<Payload.ChassisPowerState, handler=0xa334c, state=1
+key=<Cpu.MirrorFailChMask, handler=0x841dc, state=0
+key=<SmBios.SmBiosStatus, handler=0xac3cc, state=1
+key=<Cpu.Error2, handler=0xa2284, state=0
+key=<Payload.ResetFlag, handler=0xa37ac, state=1
+key=<Hdd.Id, handler=0xa3cac, state=1
+key=<Cpu.IErr, handler=0xa2284, state=1
+key=<Cpu.McErr, handler=0xa2284, state=0
+key=<Payload.SysResetFlag, handler=0xa37ac, state=1
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50020
+my ipc id=655379
+sync sem4 id=917531
+module id=21
+=============================client end==========================
+=====================class info============================
+--------------------- PRODUCT             -----------------
+--------------------- Component           -----------------
+listened       : Health: 131075, 
+--------------------- Anchor              -----------------
+--------------------- PcieCard            -----------------
+listened       : Health: 131075, 
+               : FatalError: 131075, 
+               : FDMFault: 131075, 
+--------------------- NetCard             -----------------
+listened       : Health: 131075, 
+               : FDMFault: 131075, 
+--------------------- Cpu                 -----------------
+listened       : Version: 32768, 
+               : IErr: 655379, 688148, 
+               : McErr: 655379, 688148, 
+               : Error2: 655379, 
+               : MirrorFailChMask: 655379, 
+               : FDMFault: 131075, 
+--------------------- MeInfo              -----------------
+listened       : CpuTjmax: 32768, 
+--------------------- Payload             -----------------
+listened       : SysResetFlag: 65537, 98306, 131075, 491534, 327689, 720917, 589841, 557072, 655379, 688148, 
+               : ResetFlag: 65537, 98306, 491534, 327689, 557072, 655379, 131075, 
+               : ChassisPowerState: 98306, 229382, 131075, 491534, 327689, 589841, 557072, 655379, 688148, 
+               : AcpiStatus: 229382, 
+               : BoardStableStatus: 360458, 
+               : RestartValue: 557072, 131075, 
+               : AcpiValue: 131075, 
+               : PwrOkSigDrop: 131075, 
+               : PwrButtonFlag: 131075, 
+               : PowerGd: 32768, 
+--------------------- FdmWebConfig        -----------------
+--------------------- Diagnose            -----------------
+--------------------- ProcessorFamily     -----------------
+--------------------- DataAcquisitionService-----------------
+--------------------- BMC                 -----------------
+listened       : HostName: 229382, 131075, 
+--------------------- EventDescp          -----------------
+--------------------- DataAcquisitionMetric-----------------
+--------------------- PcieAddrInfo        -----------------
+--------------------- Condition           -----------------
+--------------------- PIPE                -----------------
+--------------------- Expression          -----------------
+listened       : Value: 131075, 
+--------------------- FdmConfig           -----------------
+--------------------- DataAcquisitionTagDefinition-----------------
+--------------------- Memory              -----------------
+listened       : ReplaceFlag: 131075, 
+               : FDMFault: 131075, 
+--------------------- PMEServiceConfig    -----------------
+--------------------- Hdd                 -----------------
+listened       : Id: 229382, 655379, 
+               : ReplaceFlag: 131075, 
+               : Presence: 131075, 
+               : RebuildState: 131075, 
+--------------------- Raid                -----------------
+listened       : Health: 131075, 
+--------------------- SmBios              -----------------
+listened       : FileChange: 98306, 
+               : SmBiosStatus: 327689, 753686, 655379, 
+--------------------- TreeNode            -----------------
+--------------------- Log                 -----------------
+--------------------- ExternalRefInfo     -----------------
+--------------------- RiserPcieCard       -----------------
+listened       : Health: 131075, 

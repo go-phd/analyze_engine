@@ -1,0 +1,6 @@
+------Current mctp compent control info------
+discover_flag(0x0), table_ok(0x0), me_eid(0x0), me_phy_addr(0x0), sys_status(0x0), bmc_eid(0x0), bmc_pcie_phy_addr(0x0), me_status(0x0)
+------Current mctp packet static info------
+packets_in(0), packets_out(3630801), packets_out_reg(3317411), packets_drop_len(0), packets_drop_crc(0), packets_drop_fifo(0), packets_drop_fifo1(0)
+------Current mctp route table content------
+the number of entry  in route table is 0

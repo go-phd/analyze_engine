@@ -1,0 +1,94 @@
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+4 S root         1     0  0  80   0 -   533 wait    2019 ?        00:00:00 init      
+1 S root         2     0  0  80   0 -     0 kthrea  2019 ?        00:00:03 [kthreadd]
+1 S root         3     2  0  80   0 -     0 smpboo  2019 ?        05:10:13 [ksoftirqd/0]
+1 S root         5     2  0  60 -20 -     0 worker  2019 ?        00:00:00 [kworker/0:0H]
+1 S root         7     2  0 -40   - -     0 smpboo  2019 ?        00:00:00 [migration/0]
+1 S root         8     2  0  80   0 -     0 rcu_gp  2019 ?        00:00:00 [rcu_bh]
+1 S root         9     2  0  80   0 -     0 rcu_gp  2019 ?        05:56:49 [rcu_sched]
+5 S root        10     2  0 -40   - -     0 smpboo  2019 ?        00:04:30 [watchdog/0]
+1 S root        11     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [khelper]
+5 S root        12     2  0  80   0 -     0 devtmp  2019 ?        00:00:00 [kdevtmpfs]
+1 S root        13     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [netns]
+1 S root       119     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [writeback]
+1 S root       122     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [bioset]
+1 S root       123     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [crypto]
+1 S root       125     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [kblockd]
+1 S root       136     2  0  80   0 -     0 hub_th  2019 ?        00:00:00 [khubd]
+1 S root       231     2  0  80   0 -     0 watchd  2019 ?        00:00:14 [khungtaskd]
+1 S root       237     2  0  80   0 -     0 kswapd  2019 ?        00:00:00 [kswapd0]
+1 S root       238     2  0  85   5 -     0 ksm_sc  2019 ?        00:00:00 [ksmd]
+1 S root       289     2  0  80   0 -     0 fsnoti  2019 ?        00:00:00 [fsnotify_mark]
+1 S root       513     2  0  80   0 -     0 worker 06:54 ?        00:00:00 [kworker/0:1]
+1 S root       901     2  0  80   0 -     0 kbox_c  2019 ?        00:00:00 [kboxd]
+1 S root       906     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [deferwq]
+1 S root       990     2  0  80   0 -     0 mmc_qu  2019 ?        01:32:42 [mmcqd/0]
+1 S root       991     2  0  80   0 -     0 mmc_qu  2019 ?        00:00:00 [mmcqd/0boot0]
+1 S root       992     2  0  80   0 -     0 mmc_qu  2019 ?        00:00:00 [mmcqd/0boot1]
+0 S root      1007  1465  0  80   0 -   762 hrtime 06:57 ?        00:00:00 sleep 60
+1 S root      1009     2  0  80   0 -     0 kjourn  2019 ?        00:00:00 [jbd2/mmcblk0p5-]
+1 S root      1010     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [ext4-dio-unwrit]
+0 S root      1013  1466  0  80   0 -   762 hrtime 06:57 ?        00:00:00 sleep 30
+0 S root      1018  1560  0  80   0 -   762 hrtime 06:57 ?        00:00:00 sleep 10
+0 S root      1020  1543  3  80   0 -   795 wait   06:57 ?        00:00:00 /bin/sh /opt/pme/script/dump.sh /tmp/dump_info_tmp/dump_info
+0 R root      1048  1020  0  80   0 -   655 -      06:57 ?        00:00:00 ps -elf
+1 S root      1070     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [gmac_queue]
+1 S root      1201     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [dwc_otg]
+1 S root      1210     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [dwc_otg]
+1 S root      1219     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [dwc_otg]
+0 S root      1224     1  0  80   0 -   451 hrtime  2019 ?        00:09:21 ./uart_flowoff
+1 S root      1250     2  0  80   0 -     0 kjourn  2019 ?        00:04:34 [jbd2/mmcblk0p7-]
+1 S root      1251     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [ext4-dio-unwrit]
+1 S root      1280     1  0  80   0 -   908 hrtime  2019 ?        00:05:01 crond
+1 S root      1339     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [rpciod]
+1 S root      1347     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [nfsiod]
+1 S root      1366     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [cifsiod]
+0 S root      1465     1  0  80   0 -   795 wait    2019 ?        00:52:21 bash /opt/pme/script/task_monitor.sh
+0 S root      1466     1  0  80   0 -   795 wait    2019 ?        04:38:51 bash /opt/pme/script/manual_oom_killer.sh
+4 S root      1527     1  7  80   0 - 27264 poll_s  2019 ?        11-08:12:09 ./dfm 23
+4 S root      1533     1  0  80   0 - 27904 poll_s  2019 ?        02:17:30 ./bios
+4 S root      1534     1  4  80   0 - 155475 poll_s 2019 ?        6-15:02:08 ./bmc_global
+4 S root      1535     1  1  80   0 - 37969 poll_s  2019 ?        2-15:03:20 ./cooling
+4 S root      1536     1  1  80   0 - 39951 poll_s  2019 ?        1-19:21:44 ./cpu_mem
+4 S root      1537     1  0  80   0 - 43624 poll_s  2019 ?        16:06:24 ./discovery
+4 S root      1538     1  0  80   0 - 29921 poll_s  2019 ?        02:19:30 ./dft
+4 S root      1539     1  0  80   0 - 42925 poll_s  2019 ?        04:07:23 ./diagnose
+4 S root      1540     1  1  80   0 - 26725 poll_s  2019 ?        2-16:08:36 ./file_manage_app
+4 S 96        1541     1  3  80   0 - 83991 poll_s  2019 ?        5-20:06:08 ./ipmi
+4 S kvm_user  1542     1  0  80   0 - 63542 poll_s  2019 ?        16:45:53 ./kvm_vmm
+4 S root      1543     1  0  80   0 - 43687 poll_s  2019 ?        04:27:11 ./maint_debug_mod
+4 S root      1544     1  2  80   0 - 52337 poll_s  2019 ?        3-21:56:18 ./card_manage
+4 S root      1545     1  1  80   0 - 41644 poll_s  2019 ?        2-19:44:57 ./power_mgnt
+4 S root      1546     1 17  80   0 - 110060 poll_s 2019 ?        27-18:04:28 ./sensor_alarm
+4 S root      1547     1  0  80   0 - 31493 poll_s  2019 ?        10:49:48 ./ui_manage
+4 S root      1548     1  0  80   0 - 32110 poll_s  2019 ?        03:12:43 ./upgrade
+4 S root      1549     1  3  80   0 - 37906 poll_s  2019 ?        5-16:18:58 ./user
+4 S root      1550     1  6  80   0 - 51553 poll_s  2019 ?        9-19:05:21 ./storage_mgnt
+4 S root      1551     1  0  80   0 - 44997 poll_s  2019 ?        03:37:23 ./redfish
+4 S root      1552     1  0  80   0 - 29130 poll_s  2019 ?        02:28:10 ./net_nat
+4 S root      1553     1  0  80   0 - 31677 poll_s  2019 ?        22:25:04 ./pcie_switch
+4 S root      1554     1  0  80   0 - 39502 poll_s  2019 ?        04:45:51 ./mctp
+4 S root      1555     1  0  80   0 - 29304 poll_s  2019 ?        02:18:59 ./license_mgnt
+1 S root      1560     1  0  80   0 -   795 wait    2019 ?        00:57:22 /bin/sh /opt/pme/sbin/xinetd_monitor.sh
+0 S root      1561     1  0  80   0 -   796 n_tty_  2019 ttyAMA0  00:00:00 /sbin/getty -L 115200 ttyAMA0 vt102
+4 S root      1563     1  0  80   0 -  1856 SyS_ep  2019 ?        00:11:46 /usr/sbin/syslog-ng -f /etc/syslog-ng/syslog-ng.conf -p /var/run/syslogd.pid -F -R /opt/pme/pram/sensor_alarm_syslog.persist
+4 S root      1564     1  0  80   0 -  7288 hrtime  2019 ?        02:22:23 /opt/pme/apps/fsync
+0 S root      1565     1  0  80   0 -  1943 poll_s  2019 ?        04:13:38 /usr/sbin/haveged -F -w 128
+1 S root      2164     2  0  60 -20 -     0 worker  2019 ?        00:00:00 [kworker/0:1H]
+1 S root      2227     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [kdmflush]
+1 S root      2228     2  0  60 -20 -     0 rescue  2019 ?        00:00:00 [bioset]
+5 S root      2345     1  0  80   0 -  8987 poll_s  2019 ?        02:33:54 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache    2355  2345  0  80   0 - 25948 SyS_se  2019 ?        00:02:29 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache    2356  2345  0  80   0 - 25947 SyS_se  2019 ?        00:00:24 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache    2357  2345  0  80   0 - 25948 poll_s  2019 ?        00:00:19 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache    2358  2345  0  80   0 - 25947 SyS_se  2019 ?        00:00:35 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S root      2393     1  0  80   0 -  8860 poll_s  2019 ?        02:32:12 /opt/pme/web/bin/httpd -k start
+5 S apache    2395  2393  0  80   0 -  8860 inet_c  2019 ?        00:00:00 /opt/pme/web/bin/httpd -k start
+1 S root      2441     2  0  80   0 -     0 kaudit  2019 ?        00:00:00 [kauditd]
+5 S root      6011     1  0  80   0 -   826 poll_s  2019 ?        00:00:00 /usr/sbin/xinetd -pidfile /var/run/xinetd.pid -stayalive
+1 S root      6129     1  0  80   0 -  1515 poll_s  2019 ?        00:00:11 /sbin/dhclient4_eth2 -4 eth2 -cf /etc/dhclient_ip.conf
+1 S root      7783     2  0  80   0 -     0 worker 05:02 ?        00:00:12 [kworker/0:2]
+1 S root     11674     2  0  80   0 -     0 worker  2019 ?        00:00:27 [kworker/u2:1]
+1 S root     27525     2  0  80   0 -     0 worker  2019 ?        00:00:25 [kworker/u2:0]
+1 S root     29904     2  0  80   0 -     0 worker 06:49 ?        00:00:00 [kworker/0:0]
+4 S 95       30532     1  0  80   0 - 25471 poll_s  2019 ?        02:34:24 /usr/sbin/snmpd -p /var/run/snmpd.pid -c /etc/snmp/snmpd.conf -g snmpd_user -u snmpd_user -I -icmp -f

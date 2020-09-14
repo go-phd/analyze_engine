@@ -1,0 +1,44 @@
+[Aug 23 2019 19:47:57] : Chassis control command action:power cycle.
+                                                          [Aug 24 2019 11:31:36] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 11:35:24] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 11:39:12] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 11:43:00] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 11:46:48] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 11:47:46] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 12:31:50] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 12:31:53] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 12:32:43] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 13:50:33] : Chassis control command action:power cycle.
+                                                          [Aug 24 2019 14:00:33] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 14:17:11] : Chassis control command action:power cycle.
+                                                          [Aug 24 2019 14:17:11] : CPU VR FAULT ASSERTED.
+                                                                               [Aug 24 2019 14:17:11] : CPU VR FAULT DEASSERTED.
+                                                                             [Aug 24 2019 14:17:12] : ME SEL: SensorType=0x16, SensorNum=0x16, EvtDirType=0x0A, Data:0x00, 0xFF, 0xFF
+                      [Aug 24 2019 14:19:28] : Chassis control command action:power reset.
+                                                          [Aug 24 2019 14:40:00] : Chassis control command action:power cycle.
+                                                          [Aug 24 2019 14:40:00] : CPU VR FAULT ASSERTED.
+                                                                               [Aug 24 2019 14:40:00] : CPU VR FAULT DEASSERTED.
+                                                                             [Aug 24 2019 14:40:01] : ME SEL: SensorType=0x16, SensorNum=0x16, EvtDirType=0x0A, Data:0x00, 0xFF, 0xFF
+                      [Aug 24 2019 14:42:28] : Chassis control command action:power reset.
+                                                          [Aug 25 2019 15:25:28] : Chassis control command action:power reset.
+                                                          [Aug 25 2019 15:25:32] : Chassis control command action:power reset.
+                                                          [Aug 25 2019 15:26:22] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:17:51] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:21:39] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:25:27] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:29:16] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:33:04] : Chassis control command action:power reset.
+                                                          [Aug 26 2019 10:45:24] : Chassis control command action:power reset.
+                                                          [Sep 02 2019 17:18:59] : Chassis control command action:power reset.
+                                                          [Sep 02 2019 19:37:31] : Chassis control command action:power reset.
+                                                          [Sep 03 2019 00:48:17] : Chassis control command action:power reset.
+                                                          [Nov 04 2019 21:48:51] : CPU VR FAULT ASSERTED.
+                                                                               [Nov 04 2019 21:48:51] : CPU VR FAULT DEASSERTED.
+                                                                             [Nov 04 2019 21:48:59] : ME SEL: SensorType=0x16, SensorNum=0x16, EvtDirType=0x0A, Data:0x00, 0xFF, 0xFF
+                      [Nov 05 2019 10:21:31] : Chassis control command action:power reset.
+                                                          [Nov 07 2019 09:44:11] : Chassis control command action:power reset.
+                                                          [Nov 07 2019 09:53:59] : Chassis control command action:power reset.
+                                                          [Nov 07 2019 23:47:22] : Chassis control command action:power reset.
+                                                          [Nov 07 2019 23:55:22] : Chassis control command action:power reset.
+                                                          
+[Jan 08 2020 10:10:51] : CPU VR FAULT ASSERTED.

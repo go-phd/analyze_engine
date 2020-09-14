@@ -1,0 +1,41 @@
+------------------ iBMC  INFO ------------------
+IPMC                CPU:           Hi1710
+IPMI            Version:           2.0
+CPLD            Version:           (U6076)0.14
+Active iBMC     Version:           (U68)3.55
+Active iBMC       Built:           01:47:14 Jul 25 2019
+Backup iBMC     Version:           3.55
+SDK             Version:           3.31
+SDK               Built:           12:47:16 Jun 19 2019
+Active Uboot    Version:           2.1.13 (Dec 24 2018 - 20:23:20)
+Backup Uboot    Version:           2.1.13 (Dec 24 2018 - 20:23:20)
+----------------- Product INFO -----------------
+Product              ID:           0x0001
+Product 			Name:			 TaiShan 2280 V2
+BIOS            Version:           (U75)0.88
+-------------- Mother Board INFO ---------------
+TaiShan 2280    BoardID:           0x00b9
+TaiShan 2280        PCB:           .A
+---------------- RAID Card INFO ----------------
+SR450C-M 2G     BoardID:           0x002a
+SR450C-M 2G         PCB:           .B
+--------------- Riser Card INFO ----------------
+BC82PRUD        BoardID:           0x0031
+BC82PRUD        BoardID:           0x0031
+BC82PRUF        BoardID:           0x0036
+-------------- HDD Backplane INFO --------------
+Disk BP1      BoardName:           BC11THBS
+Disk BP1        BoardID:           0x0048
+Disk BP1            PCB:           .A
+Disk BP1      CPLD Version:        (U7)1.06
+------------------- NIC INFO -------------------
+NIC 1 (TM210)  BoardID:           0x0068
+NIC 1 (TM210)      PCB:           .A
+-------------------- PS INFO -------------------
+PS1            Version:           DC:111 PFC:111
+PS2            Version:           DC:111 PFC:111
+------------- Security Module INFO -------------
+Specification     Type:           TPM
+Specification  Version:           2.0
+Manufacturer      Name:           NTZ
+Manufacturer   Version:           7.25

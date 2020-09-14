@@ -1,0 +1,917 @@
+2019-07-26 01:14:50 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+2019-07-26 01:14:52 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:15 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-07-26 05:49:11 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-26 05:49:17 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-26 05:49:17 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-26 05:49:22 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-26 05:49:22 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-26 05:49:26 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-26 05:49:26 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-26 05:49:30 INFO : SVR-0000000,Start c51 dev successed.
+1970-01-01 00:00:19 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:15 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:15 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-07-30 06:54:14 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-30 06:54:20 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-30 06:54:20 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-30 06:54:25 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-30 06:54:25 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-30 06:54:29 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-30 06:54:29 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-30 06:54:34 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-30 06:57:45 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-30 07:00:24 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-07-30 07:00:30 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-07-30 07:41:09 WARN : SVR-0015012,Available memory too small, clear tmp directory
+2019-07-30 07:44:17 WARN : SVR-0015012,Available memory too small, clear tmp directory
+2019-07-30 07:47:15 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-07-31 03:17:00 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-31 03:17:05 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-31 03:17:05 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-31 03:17:10 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-31 03:17:10 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-31 03:17:14 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-31 03:17:14 INFO : SVR-0000000,Stop c51 dev successed.
+2019-07-31 03:17:19 INFO : SVR-0000000,Start c51 dev successed.
+2019-07-31 03:18:36 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-07-31 03:27:56 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-31 03:33:29 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-31 03:42:05 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-31 03:47:37 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+2019-07-31 07:00:26 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-07-31 07:00:35 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-07-31 15:35:05 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-31 18:40:03 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-07-31 18:53:55 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:50 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:13 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:14 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-08-01 01:48:12 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:48:17 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:48:17 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:48:22 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:48:22 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:48:27 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:48:27 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:48:31 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:49:47 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+1970-01-01 00:00:18 INFO : SVR-0000000,Set uboot env 'ubootpwd_salt=' successfully.
+1970-01-01 00:00:51 INFO : SVR-0000000,The iBMC is running in ultimate mode.
+1970-01-01 00:01:15 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) start.
+1970-01-01 00:01:15 INFO : SVR-0000000,Upgrade chip configuration (clock_chip) from version 0x00 to 0xFF successfully
+2019-08-01 01:56:05 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:56:10 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:56:10 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:56:15 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:56:15 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:56:19 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:56:19 INFO : SVR-0000000,Stop c51 dev successed.
+2019-08-01 01:56:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-08-01 01:57:42 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-01 02:04:06 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-01 02:09:29 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-01 02:27:30 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-02 04:23:47 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-02 04:26:09 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-02 04:26:15 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-02 05:28:39 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-08-03 04:26:11 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-03 04:26:18 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-04 04:26:12 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-04 04:26:18 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-05 04:26:14 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-05 04:26:23 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-06 04:26:16 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-06 04:26:22 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-07 04:26:18 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-07 04:26:23 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-08 04:26:19 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-08 04:26:27 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-09 04:26:21 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-09 04:26:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-10 04:26:22 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-10 04:26:27 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-11 04:26:24 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-11 04:26:30 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-12 04:26:25 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-12 04:26:31 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-13 04:26:27 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-13 04:26:35 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-14 04:26:29 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-14 04:26:38 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-15 04:26:31 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-15 04:26:38 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-16 04:26:32 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-16 04:26:39 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-17 04:26:34 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-17 04:26:40 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-18 04:26:36 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-18 04:26:44 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-19 04:26:37 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-19 04:26:43 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-20 04:26:38 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-20 04:26:45 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-21 04:26:40 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-21 04:26:47 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-22 04:26:41 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-22 04:26:46 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-23 04:26:43 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-23 04:26:49 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-24 04:26:45 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-24 04:26:54 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-25 04:26:48 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-25 04:26:54 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-26 04:26:50 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-26 04:26:57 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-27 04:26:52 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-27 04:27:00 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-28 04:26:54 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-28 04:27:02 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-29 04:26:56 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-29 04:27:01 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-30 04:26:57 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-30 04:27:04 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-08-31 04:26:58 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-08-31 04:27:04 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-01 04:26:59 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-01 04:27:05 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-02 04:27:00 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-02 04:27:09 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-03 04:27:02 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-03 04:27:08 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-04 04:27:03 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-04 04:27:09 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-05 04:27:05 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-05 04:27:11 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-06 04:27:06 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-06 04:27:12 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-07 04:27:07 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-07 04:27:13 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-08 04:27:09 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-08 04:27:15 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-09 04:27:10 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-09 04:27:18 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-10 04:27:12 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-10 04:27:18 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-11 04:27:14 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-11 04:27:20 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-12 04:27:15 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-12 04:27:21 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-13 04:27:16 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-13 04:27:23 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-14 04:27:18 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-14 04:27:24 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-15 04:27:19 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-15 04:27:25 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-16 04:27:20 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-16 04:27:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-17 04:27:21 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-17 04:27:27 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-18 04:27:22 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-18 04:27:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-19 04:27:24 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-19 04:27:30 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-20 04:27:27 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-20 04:27:35 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-21 04:27:28 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-21 04:27:34 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-22 04:27:29 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-22 04:27:37 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-23 04:27:34 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-23 04:27:40 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-24 04:27:36 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-24 04:27:45 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-25 04:27:38 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-25 04:27:44 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-26 04:27:39 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-26 04:27:45 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-27 04:27:41 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-27 04:27:48 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-28 04:27:42 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-28 04:27:48 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-29 04:27:44 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-29 04:27:50 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-09-30 04:27:45 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-09-30 04:27:50 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-01 04:27:46 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-01 04:27:52 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-02 04:27:48 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-02 04:27:55 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-03 04:27:49 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-03 04:27:54 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-04 04:27:51 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-04 04:27:58 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-05 04:27:52 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-05 04:27:58 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-06 04:27:53 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-06 04:27:58 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-07 04:27:54 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-07 04:28:02 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-08 04:27:56 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-08 04:28:03 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-09 04:27:58 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-09 04:28:04 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-10 04:28:00 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-10 04:28:07 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-11 04:28:02 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-11 04:28:08 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-12 04:28:03 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-12 04:28:10 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-13 04:28:04 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-13 04:28:10 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-14 04:28:06 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-14 04:28:12 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-15 04:28:08 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-15 04:28:13 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-16 04:28:10 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-16 04:28:16 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-17 04:28:12 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-17 04:28:20 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-18 04:28:13 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-18 04:28:19 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-19 04:28:14 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-19 04:28:20 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-20 04:28:16 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-20 04:28:23 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-21 04:28:17 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-21 04:28:22 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-22 04:28:19 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-22 04:28:24 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-23 04:28:20 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-23 04:28:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-24 04:28:21 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-24 04:28:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-25 04:28:23 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-25 04:28:29 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-26 04:28:25 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-26 04:28:31 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-27 04:28:27 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-27 04:28:33 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-28 04:28:29 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-28 04:28:38 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-29 04:28:31 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-29 04:28:36 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-30 04:28:32 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-30 04:28:37 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-10-31 04:28:33 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-10-31 04:28:39 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-01 04:28:34 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-01 04:28:40 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-02 04:28:36 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-02 04:28:42 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-03 04:28:37 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-03 04:28:46 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-04 04:28:38 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-04 04:28:44 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-05 04:28:40 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-05 04:28:45 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-06 04:28:42 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-06 04:28:48 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-07 04:28:44 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-07 04:28:50 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-08 04:28:45 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-08 04:28:51 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-09 04:28:47 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-09 04:28:54 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-10 04:28:48 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-10 04:28:53 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-11 04:28:50 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-11 04:28:55 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-12 04:28:51 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-12 04:28:59 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-13 04:28:52 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-13 04:29:00 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-13 04:35:41 WARN : SVR-0000000,[2019-11-13 04:35:40]  CPU 1 VDDAVS voltage (0.860 V) is lower than the undervoltage threshold (0.860 V) (SN:30A821D303205210). 0x00000065 1. Exchange the positions of the alarmed CPU and a normal CPU to determine the faulty component.@#AB;2. Replace the CPU or the mainboard.
+2019-11-13 04:37:20 WARN : SVR-0000000,[2019-11-13 04:37:20]  CPU 1 VDDAVS voltage (0.890 V) is lower than the undervoltage threshold (0.860 V) (SN:30A821D303205210). 0x00000066 1. Exchange the positions of the alarmed CPU and a normal CPU to determine the faulty component.@#AB;2. Replace the CPU or the mainboard.
+2019-11-14 04:28:53 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-14 04:28:59 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-15 04:28:54 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-15 04:29:01 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-16 04:28:56 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-16 04:29:03 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-17 04:28:57 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-17 04:29:03 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-18 04:28:59 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-18 04:29:05 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-19 04:29:01 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-19 04:29:06 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-20 04:29:03 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-20 04:29:11 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-21 04:29:05 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-21 04:29:11 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-22 04:29:06 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-22 04:29:11 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-23 04:29:07 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-23 04:29:15 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-24 04:29:08 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-24 04:29:13 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-25 04:29:10 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-25 04:29:16 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-26 04:29:12 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-26 04:29:17 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-27 04:29:14 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-27 04:29:22 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-28 04:29:16 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-28 04:29:22 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-29 04:29:17 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-29 04:29:22 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-11-30 04:29:19 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-11-30 04:29:26 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-01 04:29:21 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-01 04:29:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-02 04:29:23 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-02 04:29:28 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-03 04:29:25 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-03 04:29:30 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-04 04:29:26 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-04 04:29:32 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-05 04:29:29 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-05 04:29:35 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-06 04:29:30 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-06 04:29:36 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-06 04:49:08 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 04:49:13 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 04:49:13 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 04:49:18 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 04:49:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 04:49:22 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 04:49:22 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 04:49:26 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:45:39 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:45:45 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:45:45 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:45:50 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:45:50 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:45:54 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:45:54 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:45:58 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:54:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:54:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:54:23 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:54:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:54:28 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:54:33 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 05:54:33 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 05:54:37 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:04:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:04:24 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:04:24 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:04:29 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:04:29 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:04:33 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:04:33 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:04:37 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:14:40 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:14:46 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:14:46 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:14:51 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:14:51 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:14:55 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:14:55 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:15:00 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:30:00 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:30:05 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:30:05 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:30:10 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:30:10 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:30:14 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:30:14 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:30:18 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:46:08 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:46:13 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:46:13 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:46:18 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:46:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:46:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 06:46:23 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 06:46:27 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:41:09 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:41:14 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:41:14 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:41:20 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:41:20 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:41:24 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:41:24 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:41:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:51:27 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:51:32 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:51:32 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:51:37 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:51:37 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:51:42 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 07:51:42 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 07:51:46 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:10:09 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:10:14 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:10:14 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:10:20 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:10:20 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:10:24 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:10:24 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:10:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:20:58 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:21:03 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:21:03 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:21:08 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:21:08 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:21:12 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:21:12 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:21:17 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:35:53 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:35:59 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:35:59 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:36:04 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:36:04 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:36:08 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:36:08 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:36:12 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:45:31 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:45:36 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:45:36 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:45:41 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:45:41 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:45:46 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:45:46 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:45:50 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:53:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:53:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:53:23 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:53:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:53:28 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:53:32 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 08:53:32 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 08:53:36 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:05:13 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:05:18 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:05:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:05:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:05:23 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:05:27 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:05:27 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:05:31 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:24:13 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:24:18 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:24:18 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:24:23 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:24:23 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:24:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:24:28 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:24:32 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:31:57 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:32:03 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:32:03 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:32:08 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:32:08 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:32:12 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 09:32:12 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 09:32:16 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 10:18:43 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-12-06 11:22:22 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:22:28 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:22:28 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:22:33 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:22:33 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:22:38 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:22:38 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:22:42 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:37:41 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:37:47 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:37:47 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:37:52 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:37:52 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:37:56 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:37:56 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:38:00 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:52:37 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:52:42 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:52:42 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:52:47 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:52:47 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:52:51 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-06 11:52:51 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-06 11:52:55 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-07 04:29:32 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-07 04:29:41 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-08 04:29:34 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-08 04:29:41 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-09 04:29:36 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-09 04:29:41 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-10 03:28:35 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-10 03:28:35 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-10 03:28:36 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-10 03:28:37 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-10 03:28:39 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM071 CE overflow, rank num is 0.
+2019-12-10 04:29:37 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-10 04:29:42 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-11 03:07:41 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-11 03:07:41 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 03:07:41 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:07:42 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 03:07:42 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:07:43 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:07:43 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 03:07:44 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM071 CE overflow, rank num is 0.
+2019-12-11 03:07:44 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 03:07:44 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:44:18 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:44:19 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM071 CE overflow, rank num is 0.
+2019-12-11 03:44:19 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 03:51:56 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM071 CE overflow, rank num is 0.
+2019-12-11 03:53:59 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-11 04:29:39 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-11 04:29:44 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-11 07:37:55 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 07:41:55 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 07:43:09 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 07:45:00 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 07:46:31 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 07:51:11 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:04:01 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:07:38 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:10:49 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:11:01 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:11:05 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:14:41 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:14:52 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:14:54 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:15:04 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:16:25 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:17:09 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:18:07 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:19:25 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:22:44 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:23:05 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:23:16 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:24:33 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:25:30 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:25:55 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:26:05 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:27:23 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:30:34 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:33:58 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:38:12 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:39:15 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:41:01 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:44:10 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:44:33 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:46:59 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:47:33 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-11 08:50:28 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-12 04:29:41 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-12 04:29:46 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-12 08:15:17 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-12 09:20:44 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-12 09:20:49 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-12 09:20:49 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-12 09:20:54 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-12 09:20:54 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-12 09:20:58 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-12 09:20:58 INFO : SVR-0000000,Stop c51 dev successed.
+2019-12-12 09:21:02 INFO : SVR-0000000,Start c51 dev successed.
+2019-12-13 04:29:42 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-13 04:29:48 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-13 05:49:03 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-12-13 07:36:05 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM001 CE overflow, rank num is 0.
+2019-12-13 08:07:44 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-12-13 08:11:50 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-14 04:29:43 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-14 04:29:50 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-15 04:29:45 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-15 04:29:51 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-16 04:29:47 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-16 04:29:55 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-17 04:29:48 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-17 04:29:55 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-18 04:29:49 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-18 04:29:54 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-19 04:29:50 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-19 04:29:56 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-20 04:29:52 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-20 04:29:57 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-21 04:29:53 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-21 04:30:01 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-22 04:29:55 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-22 04:30:02 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-23 04:29:57 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-23 04:30:04 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-24 04:29:59 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-24 04:30:05 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-25 04:30:01 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-25 04:30:07 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-25 12:25:36 INFO : SVR-0000000,Set security module self test result to (pass) successfully
+2019-12-25 12:40:34 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-25 12:40:36 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-25 12:40:39 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM031 CE overflow, rank num is 0.
+2019-12-25 12:40:39 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM011 CE overflow, rank num is 0.
+2019-12-25 12:40:39 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM071 CE overflow, rank num is 0.
+2019-12-25 12:40:39 WARN : SVR-0029017,BIOS, Memory, mainboard DIMM051 CE overflow, rank num is 0.
+2019-12-26 04:30:03 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-26 04:30:08 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-27 04:30:04 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-27 04:30:10 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-28 04:30:05 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-28 04:30:10 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-29 04:30:07 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-29 04:30:13 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-30 04:30:09 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-30 04:30:17 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2019-12-31 04:30:10 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2019-12-31 04:30:19 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2020-01-01 04:30:11 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2020-01-01 04:30:17 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2020-01-01 12:43:08 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:43:15 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:43:15 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:43:20 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:43:20 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:43:24 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:43:24 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:43:28 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:51:42 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:51:48 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:51:48 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:51:53 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:51:53 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:51:57 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-01 12:51:57 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-01 12:52:01 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-02 04:30:12 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2020-01-02 04:30:19 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2020-01-02 11:33:06 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-02 11:33:12 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-02 11:33:12 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-02 11:33:18 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-02 11:33:18 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-02 11:33:22 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-02 11:33:22 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-02 11:33:26 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 04:30:13 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2020-01-03 04:30:20 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2020-01-03 06:37:03 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:37:08 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:37:08 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:37:13 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:37:13 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:37:17 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:37:17 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:37:22 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:42:34 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:42:39 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:42:39 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:42:44 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:42:44 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:42:48 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:42:48 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:42:52 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:48:53 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:48:59 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:48:59 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:49:04 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:49:04 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:49:08 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:49:09 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:49:13 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:54:51 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:54:56 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:54:56 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:55:01 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:55:01 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:55:05 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 06:55:05 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 06:55:10 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:00:43 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:00:48 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:00:48 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:00:53 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:00:53 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:00:57 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:00:57 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:01:02 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:14:10 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:14:14 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:14:14 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:14:20 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:14:20 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:14:24 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:14:24 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:14:28 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:21:00 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:21:05 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:21:05 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:21:10 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:21:10 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:21:15 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:21:15 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:21:18 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:32:33 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:32:38 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:32:38 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:32:43 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:32:43 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:32:47 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:32:47 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:32:51 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:40:25 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:40:29 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:40:29 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:40:34 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:40:34 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:40:39 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:40:39 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:40:43 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:46:28 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:46:33 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:46:33 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:46:39 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:46:39 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:46:43 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:46:43 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:46:47 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:51:49 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:51:53 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:51:53 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:51:58 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:51:58 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:52:02 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 07:52:02 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 07:52:07 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:36:13 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:36:18 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:36:18 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:36:23 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:36:23 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:36:27 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:36:27 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:36:31 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:41:23 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:41:29 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:41:29 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:41:34 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:41:34 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:41:38 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:41:38 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:41:42 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:55:17 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:55:23 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:55:23 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:55:28 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:55:28 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:55:32 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 08:55:32 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 08:55:36 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:03:06 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:03:11 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:03:11 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:03:16 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:03:16 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:03:20 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:03:20 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:03:24 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:11:56 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:12:01 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:12:01 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:12:05 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:12:05 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:12:09 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:12:09 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:12:13 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:20:03 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:20:08 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:20:08 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:20:13 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:20:13 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:20:17 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:20:17 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:20:22 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:27:05 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:27:10 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:27:10 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:27:15 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:27:15 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:27:20 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 09:27:20 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 09:27:24 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 23:51:59 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 23:52:04 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 23:52:04 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 23:52:09 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 23:52:09 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 23:52:13 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-03 23:52:13 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-03 23:52:17 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:16:37 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:16:42 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:16:42 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:16:47 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:16:47 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:16:51 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:16:51 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:16:55 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:25:17 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:25:22 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:25:22 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:25:27 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:25:27 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:25:31 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:25:32 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:25:36 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:32:43 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:32:48 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:32:49 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:32:54 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:32:54 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:32:58 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:32:58 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:33:02 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:39:59 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:40:04 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:40:04 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:40:09 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:40:09 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:40:14 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 00:40:14 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 00:40:18 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 01:07:52 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 01:07:57 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 01:07:57 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 01:08:02 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 01:08:02 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 01:08:07 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 01:08:07 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 01:08:11 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 04:30:15 INFO : SVR-0000000,Collecting physical drive log from OOB started.
+2020-01-04 04:30:23 INFO : SVR-0000000,Collecting physical drive log from OOB ended.
+2020-01-04 06:31:31 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:31:36 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:31:36 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:31:41 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:31:41 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:31:45 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:31:45 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:31:49 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:38:34 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:38:39 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:38:39 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:38:44 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:38:44 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:38:47 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:38:47 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:38:51 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:44:33 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:44:38 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:44:38 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:44:43 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:44:43 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:44:47 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:44:47 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:44:52 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:49:31 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:49:37 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:49:37 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:49:42 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:49:42 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:49:46 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:49:46 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:49:50 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:54:44 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:54:49 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:54:49 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:54:54 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:54:54 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:54:59 INFO : SVR-0000000,Start c51 dev successed.
+2020-01-04 06:54:59 INFO : SVR-0000000,Stop c51 dev successed.
+2020-01-04 06:55:03 INFO : SVR-0000000,Start c51 dev successed.

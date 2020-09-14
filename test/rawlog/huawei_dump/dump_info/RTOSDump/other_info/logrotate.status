@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/var/log/pme/LSI_RAID_Controller_Log" 2019-7-30
+"/opt/pme/web/logs/error_log" 2019-7-30
+"/var/log/pme/remote_log" 2019-7-30
+"/var/log/pme/dfm_debug_log" 2020-1-2
+"/var/log/pme/atop_log" 2019-7-30
+"/var/log/pme/security_log" 2019-7-30
+"/var/log/pme/linux_kernel_log" 2019-7-31
+"/var/log/pme/fdm_output" 2019-7-30
+"/var/log/pme/app_debug_log_all" 2019-12-28
+"/opt/pme/web/logs/access_log" 2020-1-4
+"/var/log/pme/agentless_driver_log" 2019-7-30
+"/var/log/pme/ps_black_box.log" 2020-1-4

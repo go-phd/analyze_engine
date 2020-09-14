@@ -1,0 +1,2744 @@
+==========================object===========================
+----------------- Dimm101                       -----------
+semid          : 360458
+sem member     : 179
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu1                          -----------
+semid          : 425996
+sem member     : 214
+ref count      : 1
+.Error2         : listened by port : 655379, 
+.FDMFault       : listened by port : 131075, 
+.Version        : recv event count: 2 : listened by port : 32768, 
+.McErr          : listened by port : 688148, 655379, 
+.MirrorFailChMask : listened by port : 655379, 
+.IErr           : listened by port : 688148, 655379, 
+----------------- Cpu2                          -----------
+semid          : 425996
+sem member     : 215
+ref count      : 1
+.Error2         : listened by port : 655379, 
+.FDMFault       : listened by port : 131075, 
+.Version        : recv event count: 2 : listened by port : 32768, 
+.McErr          : listened by port : 688148, 655379, 
+.MirrorFailChMask : listened by port : 655379, 
+.IErr           : listened by port : 688148, 655379, 
+----------------- RearBkpPresExp                -----------
+semid          : 851993
+sem member     : 235
+ref count      : 1
+.X              : send event count: 1
+.Y              : send event count: 1
+.Value          : listened by port : 131075, 
+----------------- Dimm031                       -----------
+semid          : 360458
+sem member     : 169
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm000                       -----------
+semid          : 360458
+sem member     : 162
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- CLASSFANTYPE:C                -----------
+semid          : 884762
+sem member     : 144
+ref count      : 1
+----------------- Dimm110                       -----------
+semid          : 360458
+sem member     : 180
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RaidCardConnect               -----------
+semid          : 360458
+sem member     : 19
+ref count      : 1
+----------------- dft_item_pca9555_raid-1       -----------
+semid          : 622610
+sem member     : 220
+ref count      : 1
+----------------- RTCTime                       -----------
+semid          : 622610
+sem member     : 173
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm111                       -----------
+semid          : 360458
+sem member     : 181
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm030                       -----------
+semid          : 360458
+sem member     : 168
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComVPDConnect10-2             -----------
+semid          : 655379
+sem member     : 237
+ref count      : 1
+----------------- NotTS2280v2-1                 -----------
+semid          : 622610
+sem member     : 215
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- Cpu2HighPerCoreTempThermal    -----------
+semid          : 851993
+sem member     : 172
+ref count      : 1
+----------------- SysRestart                    -----------
+semid          : 360458
+sem member     : 199
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- cpld1                         -----------
+semid          : 327689
+sem member     : 240
+ref count      : 1
+----------------- PwrOkSigDrop                  -----------
+semid          : 360458
+sem member     : 212
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- localbus1                     -----------
+semid          : 327689
+sem member     : 241
+ref count      : 1
+----------------- dft_item_pca9545-e            -----------
+semid          : 753686
+sem member     : 114
+ref count      : 1
+----------------- CustomizedModeCondition       -----------
+semid          : 851993
+sem member     : 188
+ref count      : 1
+----------------- EepromSelfTest                -----------
+semid          : 458765
+sem member     : 104
+ref count      : 1
+----------------- DiskArrayDynamicConnector     -----------
+semid          : 557072
+sem member     : 200
+ref count      : 1
+----------------- ComSSDConnect12-2             -----------
+semid          : 655379
+sem member     : 246
+ref count      : 1
+----------------- PRODUCT:C                     -----------
+semid          : 884762
+sem member     : 190
+ref count      : 1
+----------------- RiserCard37OnSlot3            -----------
+semid          : 360458
+sem member     : 53
+ref count      : 1
+----------------- CoolingCondition:C            -----------
+semid          : 884762
+sem member     : 138
+ref count      : 1
+----------------- 2280CoolingPolicy-1           -----------
+semid          : 622610
+sem member     : 217
+ref count      : 1
+----------------- Cpu1NosisyCoreTempThermal     -----------
+semid          : 851993
+sem member     : 170
+ref count      : 1
+----------------- Disk13-2                      -----------
+semid          : 688148
+sem member     : 75
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan4FStatusThermal            -----------
+semid          : 851993
+sem member     : 202
+ref count      : 1
+----------------- Dimm040                       -----------
+semid          : 360458
+sem member     : 170
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm041                       -----------
+semid          : 360458
+sem member     : 171
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- LomCard1Connect               -----------
+semid          : 360458
+sem member     : 23
+ref count      : 1
+----------------- Fan1Fspeed                    -----------
+semid          : 819224
+sem member     : 90
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- KeyboardTest                  -----------
+semid          : 458765
+sem member     : 30
+ref count      : 1
+----------------- Fan3FStatus                   -----------
+semid          : 819224
+sem member     : 100
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm121                       -----------
+semid          : 360458
+sem member     : 183
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Port2Test-3                   -----------
+semid          : 720917
+sem member     : 89
+ref count      : 1
+----------------- DftItem:C                     -----------
+semid          : 884762
+sem member     : 77
+ref count      : 1
+----------------- RaidCardTemp-1                -----------
+semid          : 622610
+sem member     : 180
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PcieStatus                    -----------
+semid          : 360458
+sem member     : 195
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- FruPayload                    -----------
+semid          : 458765
+sem member     : 46
+ref count      : 1
+----------------- Disk9-2                       -----------
+semid          : 688148
+sem member     : 71
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm120                       -----------
+semid          : 360458
+sem member     : 182
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- LowNoisyModeCondition         -----------
+semid          : 851993
+sem member     : 184
+ref count      : 1
+----------------- ComSSDConnect9-2              -----------
+semid          : 655379
+sem member     : 231
+ref count      : 1
+----------------- link_status_2-3               -----------
+semid          : 720917
+sem member     : 129
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PolicySfpTemp                 -----------
+semid          : 622610
+sem member     : 164
+ref count      : 1
+----------------- Fan4PresenceThermal           -----------
+semid          : 851993
+sem member     : 203
+ref count      : 1
+----------------- LedTubeIntelligenceDftTest    -----------
+semid          : 393227
+sem member     : 5
+ref count      : 1
+----------------- ConditionGroup:C              -----------
+semid          : 884762
+sem member     : 121
+ref count      : 1
+----------------- Cpu1MemTemp                   -----------
+semid          : 360458
+sem member     : 148
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RaidPcieError-1               -----------
+semid          : 622610
+sem member     : 182
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- dft_item_cpu1mem01_volt       -----------
+semid          : 786455
+sem member     : 15
+ref count      : 1
+----------------- ComSSDConnect2-2              -----------
+semid          : 655379
+sem member     : 196
+ref count      : 1
+----------------- ComVPDConnect4-2              -----------
+semid          : 655379
+sem member     : 207
+ref count      : 1
+----------------- fantech11accessor             -----------
+semid          : 819224
+sem member     : 65
+ref count      : 1
+----------------- Dimm050                       -----------
+semid          : 360458
+sem member     : 172
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- FanGroup:C                    -----------
+semid          : 884762
+sem member     : 61
+ref count      : 1
+----------------- V_1822_0V8-e01                -----------
+semid          : 1212449
+sem member     : 108
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Dimm051                       -----------
+semid          : 360458
+sem member     : 173
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ThresholdSensor:C             -----------
+semid          : 884762
+sem member     : 47
+ref count      : 1
+----------------- Dimm130                       -----------
+semid          : 360458
+sem member     : 184
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm131                       -----------
+semid          : 360458
+sem member     : 185
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- CPDefault8038+                -----------
+semid          : 851993
+sem member     : 193
+ref count      : 1
+----------------- Mem2DefaultThermalPolicy      -----------
+semid          : 851993
+sem member     : 211
+ref count      : 1
+----------------- RaidPres                      -----------
+semid          : 360458
+sem member     : 247
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PowerButton                   -----------
+semid          : 360458
+sem member     : 198
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fantech0                      -----------
+semid          : 819224
+sem member     : 119
+ref count      : 1
+----------------- ComVPDConnect11-2             -----------
+semid          : 655379
+sem member     : 242
+ref count      : 1
+----------------- PolicyCpu2Corem               -----------
+semid          : 851993
+sem member     : 175
+ref count      : 1
+----------------- dft_item_vcc_12v0             -----------
+semid          : 753686
+sem member     : 159
+ref count      : 1
+----------------- dft_item_vcc_12v2             -----------
+semid          : 753686
+sem member     : 178
+ref count      : 1
+----------------- dft_item_vcc_12v3             -----------
+semid          : 753686
+sem member     : 197
+ref count      : 1
+----------------- dft_item_vcc_12v4             -----------
+semid          : 753686
+sem member     : 216
+ref count      : 1
+----------------- BBUCoolingPolicy-1            -----------
+semid          : 655379
+sem member     : 52
+ref count      : 1
+----------------- dft_item_vcc_12v5             -----------
+semid          : 753686
+sem member     : 235
+ref count      : 1
+----------------- FanType8038+                  -----------
+semid          : 851993
+sem member     : 166
+ref count      : 1
+----------------- BOARD                         -----------
+semid          : 327689
+sem member     : 245
+ref count      : 1
+----------------- PolicyFrontDiskTemp           -----------
+semid          : 851993
+sem member     : 225
+ref count      : 1
+----------------- Cpu1VrdTempThermal            -----------
+semid          : 851993
+sem member     : 206
+ref count      : 1
+----------------- DiskArrayConnector-1          -----------
+semid          : 622610
+sem member     : 213
+ref count      : 1
+----------------- FANClass:C                    -----------
+semid          : 884762
+sem member     : 161
+ref count      : 1
+----------------- Mem1HighPerThermalPolicy      -----------
+semid          : 851993
+sem member     : 209
+ref count      : 1
+----------------- SensorConnect                 -----------
+semid          : 524303
+sem member     : 56
+ref count      : 1
+----------------- dft_item_cpu2mem01_volt       -----------
+semid          : 786455
+sem member     : 17
+ref count      : 1
+----------------- Fan11PresentAccessor          -----------
+semid          : 819224
+sem member     : 79
+ref count      : 1
+----------------- ComSSDConnect13-2             -----------
+semid          : 688148
+sem member     : 1
+ref count      : 1
+----------------- Dimm061                       -----------
+semid          : 360458
+sem member     : 175
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- LowNoisyMarginObjTemp         -----------
+semid          : 851993
+sem member     : 190
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- dft_item_rtc_volt             -----------
+semid          : 753686
+sem member     : 144
+ref count      : 1
+----------------- CondiCondBIOS_M               -----------
+semid          : 851993
+sem member     : 221
+ref count      : 1
+----------------- SPITest                       -----------
+semid          : 425996
+sem member     : 159
+ref count      : 1
+----------------- Power-6                       -----------
+semid          : 720917
+sem member     : 193
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PolicyRearDiskTemp            -----------
+semid          : 851993
+sem member     : 239
+ref count      : 1
+----------------- PolicyPSUDiskTemp             -----------
+semid          : 851993
+sem member     : 229
+ref count      : 1
+----------------- TPMCardPresenceTest           -----------
+semid          : 425996
+sem member     : 167
+ref count      : 1
+----------------- RiserCard31OnSlot1            -----------
+semid          : 360458
+sem member     : 47
+ref count      : 1
+.IsTrue         : send event count: 1
+----------------- RiserCard31OnSlot2            -----------
+semid          : 360458
+sem member     : 52
+ref count      : 1
+.IsTrue         : send event count: 1
+----------------- HddBackCardConnect            -----------
+semid          : 360458
+sem member     : 22
+ref count      : 1
+----------------- Cpu2VddqTempThermal           -----------
+semid          : 851993
+sem member     : 205
+ref count      : 1
+----------------- Mem2NosisyThermalPolicy       -----------
+semid          : 851993
+sem member     : 213
+ref count      : 1
+----------------- FCPortConnector               -----------
+semid          : 557072
+sem member     : 196
+ref count      : 1
+----------------- Fan1FPresence                 -----------
+semid          : 819224
+sem member     : 102
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- MidPowCardEnvThermal          -----------
+semid          : 851993
+sem member     : 195
+ref count      : 1
+----------------- SysDisksMaxTmp                -----------
+semid          : 360458
+sem member     : 155
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- IsTS2280v2-1                  -----------
+semid          : 622610
+sem member     : 214
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- NoInnerDiskTempExp            -----------
+semid          : 851993
+sem member     : 231
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- RiserPcieCard:C               -----------
+semid          : 884762
+sem member     : 203
+ref count      : 1
+----------------- IsTS2280v2-5                  -----------
+semid          : 720917
+sem member     : 185
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- Fan8PresentAccessor           -----------
+semid          : 819224
+sem member     : 76
+ref count      : 1
+----------------- LpcTest                       -----------
+semid          : 425996
+sem member     : 170
+ref count      : 1
+----------------- LogicalDriveDynamicConnector  -----------
+semid          : 557072
+sem member     : 197
+ref count      : 1
+----------------- dft_item_lm75_outlet_temp     -----------
+semid          : 458765
+sem member     : 99
+ref count      : 1
+----------------- Cpu2VrdTemp                   -----------
+semid          : 786455
+sem member     : 82
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Ddr3Test                      -----------
+semid          : 425996
+sem member     : 161
+ref count      : 1
+----------------- PatchCardOnSlot1              -----------
+semid          : 360458
+sem member     : 56
+ref count      : 1
+----------------- Dimm070                       -----------
+semid          : 360458
+sem member     : 176
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm071                       -----------
+semid          : 360458
+sem member     : 177
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PatchCardOnSlot4              -----------
+semid          : 360458
+sem member     : 57
+ref count      : 1
+----------------- ComSSDConnect3-2              -----------
+semid          : 655379
+sem member     : 201
+ref count      : 1
+----------------- Fan1PresenceThermal           -----------
+semid          : 851993
+sem member     : 197
+ref count      : 1
+----------------- ComVPDConnect5-2              -----------
+semid          : 655379
+sem member     : 212
+ref count      : 1
+----------------- InBkpPresAccessor             -----------
+semid          : 851993
+sem member     : 230
+ref count      : 1
+----------------- Dimm151                       -----------
+semid          : 360458
+sem member     : 189
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Port3Test-3                   -----------
+semid          : 720917
+sem member     : 90
+ref count      : 1
+----------------- dft_item_lm75_temp-e          -----------
+semid          : 753686
+sem member     : 134
+ref count      : 1
+----------------- BootError                     -----------
+semid          : 360458
+sem member     : 200
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm150                       -----------
+semid          : 360458
+sem member     : 188
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ClockConnector                -----------
+semid          : 360458
+sem member     : 12
+ref count      : 1
+----------------- Riser3Card                    -----------
+semid          : 360458
+sem member     : 236
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- IsTS2280v2-6                  -----------
+semid          : 720917
+sem member     : 231
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- RiserCard2Connect             -----------
+semid          : 524303
+sem member     : 119
+ref count      : 1
+----------------- Fan2Fspeed                    -----------
+semid          : 819224
+sem member     : 91
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Connector:C                   -----------
+semid          : 884762
+sem member     : 230
+ref count      : 1
+----------------- CondiGroupBIOS_L_8038+        -----------
+semid          : 851993
+sem member     : 216
+ref count      : 1
+----------------- NICTemp-3                     -----------
+semid          : 720917
+sem member     : 126
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan2FPresence                 -----------
+semid          : 819224
+sem member     : 104
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComVPDConnect12-2             -----------
+semid          : 655379
+sem member     : 247
+ref count      : 1
+----------------- CondiGroupFan_8038+           -----------
+semid          : 851993
+sem member     : 219
+ref count      : 1
+----------------- InnerCondiGroup               -----------
+semid          : 851993
+sem member     : 232
+ref count      : 1
+----------------- EnergySavePolicyOutletTemp    -----------
+semid          : 851993
+sem member     : 176
+ref count      : 1
+----------------- HDDBackplanePresenceAccessor  -----------
+semid          : 491534
+sem member     : 32
+ref count      : 1
+----------------- HddBPStatus                   -----------
+semid          : 360458
+sem member     : 214
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RearBackplanePresenceAccessor -----------
+semid          : 491534
+sem member     : 39
+ref count      : 1
+----------------- Dimm141                       -----------
+semid          : 360458
+sem member     : 187
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- BMCBootup                     -----------
+semid          : 524303
+sem member     : 45
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk3-2                       -----------
+semid          : 688148
+sem member     : 65
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan2FStatusThermal            -----------
+semid          : 851993
+sem member     : 198
+ref count      : 1
+----------------- pwm1accessor                  -----------
+semid          : 819224
+sem member     : 83
+ref count      : 1
+----------------- Mem1NosisyThermalPolicy       -----------
+semid          : 851993
+sem member     : 210
+ref count      : 1
+----------------- RaidControllerConnector       -----------
+semid          : 557072
+sem member     : 194
+ref count      : 1
+----------------- InnerCoolingCondition         -----------
+semid          : 851993
+sem member     : 233
+ref count      : 1
+----------------- PysicalLedIntelligenceTest    -----------
+semid          : 425996
+sem member     : 199
+ref count      : 1
+----------------- ComSSDConnect14-2             -----------
+semid          : 688148
+sem member     : 6
+ref count      : 1
+----------------- Dimm160                       -----------
+semid          : 360458
+sem member     : 190
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Condition:C                   -----------
+semid          : 884762
+sem member     : 28
+ref count      : 1
+----------------- PolicyCpu1Corem               -----------
+semid          : 851993
+sem member     : 174
+ref count      : 1
+----------------- DefaultInletPolicy            -----------
+semid          : 851993
+sem member     : 179
+ref count      : 1
+----------------- RearCoolingCondition          -----------
+semid          : 851993
+sem member     : 238
+ref count      : 1
+----------------- 12_0V_VCC_2                   -----------
+semid          : 753686
+sem member     : 160
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu1DefaultCoreTempThermal    -----------
+semid          : 851993
+sem member     : 168
+ref count      : 1
+----------------- PowerSupply1Connect           -----------
+semid          : 360458
+sem member     : 31
+ref count      : 1
+----------------- CondiGroupBIOS_M              -----------
+semid          : 851993
+sem member     : 220
+ref count      : 1
+----------------- PatchCard2288HV5-8            -----------
+semid          : 753686
+sem member     : 40
+ref count      : 1
+----------------- PatchCard2288HV5-9            -----------
+semid          : 753686
+sem member     : 88
+ref count      : 1
+----------------- Fan3FPresence                 -----------
+semid          : 819224
+sem member     : 106
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RaidCardCoolingPlc-1          -----------
+semid          : 622610
+sem member     : 216
+ref count      : 1
+----------------- Cpu2NosisyCoreTempThermal     -----------
+semid          : 851993
+sem member     : 173
+ref count      : 1
+----------------- NoPSUDiskTempExp              -----------
+semid          : 851993
+sem member     : 226
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- LowNoisyInletPolicy           -----------
+semid          : 851993
+sem member     : 183
+ref count      : 1
+----------------- JTAGTest                      -----------
+semid          : 425996
+sem member     : 172
+ref count      : 1
+----------------- PolicyNICTemp-3               -----------
+semid          : 720917
+sem member     : 127
+ref count      : 1
+----------------- CondiGroupBIOS_H              -----------
+semid          : 851993
+sem member     : 214
+ref count      : 1
+----------------- Cpu1Memory                    -----------
+semid          : 360458
+sem member     : 160
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- I2CTest-8                     -----------
+semid          : 753686
+sem member     : 26
+ref count      : 1
+----------------- I2CTest-9                     -----------
+semid          : 753686
+sem member     : 74
+ref count      : 1
+----------------- 12_0V_VCC_5                   -----------
+semid          : 753686
+sem member     : 217
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RaidCardBBUTemp-1             -----------
+semid          : 655379
+sem member     : 46
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PRODUCT                       -----------
+semid          : 851993
+sem member     : 147
+ref count      : 1
+----------------- link_status_3-3               -----------
+semid          : 720917
+sem member     : 130
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- 12_0V_VCC_3                   -----------
+semid          : 753686
+sem member     : 179
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu1CoreRem                   -----------
+semid          : 360458
+sem member     : 144
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- MeInfo:C                      -----------
+semid          : 884762
+sem member     : 157
+ref count      : 1
+----------------- HighPerformMarginObjTemp      -----------
+semid          : 851993
+sem member     : 191
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- MngmntHealth                  -----------
+semid          : 360458
+sem member     : 210
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- SystemError                   -----------
+semid          : 360458
+sem member     : 157
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fantech1accessor              -----------
+semid          : 819224
+sem member     : 55
+ref count      : 1
+----------------- dft_item_cpu1mem23_volt       -----------
+semid          : 786455
+sem member     : 16
+ref count      : 1
+----------------- ComSSDConnect4-2              -----------
+semid          : 655379
+sem member     : 206
+ref count      : 1
+----------------- Power-5                       -----------
+semid          : 720917
+sem member     : 147
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComVPDConnect6-2              -----------
+semid          : 655379
+sem member     : 217
+ref count      : 1
+----------------- RiserCard3COnSlot3            -----------
+semid          : 360458
+sem member     : 55
+ref count      : 1
+----------------- EnergyEfficicyModeCondition   -----------
+semid          : 851993
+sem member     : 182
+ref count      : 1
+.IsTrue         : send event count: 1
+----------------- VCCIO_CPU1                    -----------
+semid          : 786455
+sem member     : 121
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- VCCIO_CPU2                    -----------
+semid          : 786455
+sem member     : 122
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- MeInfo                        -----------
+semid          : 491534
+sem member     : 117
+ref count      : 1
+.CpuTjmax       : listened by port : 32768, 
+----------------- Fan4FPresence                 -----------
+semid          : 819224
+sem member     : 108
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan3Fspeed                    -----------
+semid          : 819224
+sem member     : 92
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- 12_0V_VCC_6                   -----------
+semid          : 753686
+sem member     : 236
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- SystemNotice                  -----------
+semid          : 360458
+sem member     : 156
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- HDD_BP_status                 -----------
+semid          : 360458
+sem member     : 230
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- hddbp_48_PcieAddr_Connector   -----------
+semid          : 589841
+sem member     : 200
+ref count      : 1
+----------------- Dimm060                       -----------
+semid          : 360458
+sem member     : 174
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PsTempStatus-6                -----------
+semid          : 720917
+sem member     : 197
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan1FStatus                   -----------
+semid          : 819224
+sem member     : 98
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- 12_0V_VCC_4                   -----------
+semid          : 753686
+sem member     : 198
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- AcpiStatus                    -----------
+semid          : 360458
+sem member     : 196
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- HighPowCardEnvThermal         -----------
+semid          : 851993
+sem member     : 194
+ref count      : 1
+----------------- Mem1DefaultThermalPolicy      -----------
+semid          : 851993
+sem member     : 208
+ref count      : 1
+----------------- CoolingCondition2             -----------
+semid          : 851993
+sem member     : 215
+ref count      : 1
+----------------- dft_item_lm75_inlet_temp      -----------
+semid          : 458765
+sem member     : 98
+ref count      : 1
+----------------- Port0Test-3                   -----------
+semid          : 720917
+sem member     : 87
+ref count      : 1
+----------------- CCondi_fantype_8038+          -----------
+semid          : 851993
+sem member     : 218
+ref count      : 1
+----------------- ComVPDConnect13-2             -----------
+semid          : 688148
+sem member     : 2
+ref count      : 1
+----------------- Dimm170                       -----------
+semid          : 360458
+sem member     : 192
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCard94OnSlot1            -----------
+semid          : 360458
+sem member     : 45
+ref count      : 1
+----------------- RiserCard94OnSlot2            -----------
+semid          : 360458
+sem member     : 49
+ref count      : 1
+----------------- Riser1Card                    -----------
+semid          : 360458
+sem member     : 232
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- OperationLogFull              -----------
+semid          : 524303
+sem member     : 57
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- I2CTest-e                     -----------
+semid          : 753686
+sem member     : 117
+ref count      : 1
+----------------- Dimm161                       -----------
+semid          : 360458
+sem member     : 191
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComSSDConnect15-2             -----------
+semid          : 688148
+sem member     : 11
+ref count      : 1
+----------------- PsCoolingPolicy3-5            -----------
+semid          : 720917
+sem member     : 186
+ref count      : 1
+----------------- PsCoolingPolicy3-6            -----------
+semid          : 720917
+sem member     : 232
+ref count      : 1
+----------------- PsTempStatus-5                -----------
+semid          : 720917
+sem member     : 151
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- dft_item_cpu2mem23_volt       -----------
+semid          : 786455
+sem member     : 18
+ref count      : 1
+----------------- Cpu2VddqTemp                  -----------
+semid          : 786455
+sem member     : 80
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PwrOnTimeOut                  -----------
+semid          : 360458
+sem member     : 213
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ADCConnector                  -----------
+semid          : 589841
+sem member     : 196
+ref count      : 1
+----------------- Fan4PresentAccessor           -----------
+semid          : 819224
+sem member     : 72
+ref count      : 1
+----------------- PcieCard-e01                  -----------
+semid          : 884762
+sem member     : 243
+ref count      : 1
+.Health         : listened by port : 131075, 
+.FatalError     : listened by port : 131075, 
+.FDMFault       : listened by port : 131075, 
+----------------- Disk16-2                      -----------
+semid          : 688148
+sem member     : 78
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm171                       -----------
+semid          : 360458
+sem member     : 193
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- pwm6accessor                  -----------
+semid          : 819224
+sem member     : 88
+ref count      : 1
+----------------- OutletTemp                    -----------
+semid          : 360458
+sem member     : 140
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan3PresenceThermal           -----------
+semid          : 851993
+sem member     : 201
+ref count      : 1
+----------------- PsVin-5                       -----------
+semid          : 720917
+sem member     : 148
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PsVin-6                       -----------
+semid          : 720917
+sem member     : 194
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk14-2                      -----------
+semid          : 688148
+sem member     : 76
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- VSA_VOLT_CPU1                 -----------
+semid          : 786455
+sem member     : 119
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- VSA_VOLT_CPU2                 -----------
+semid          : 786455
+sem member     : 120
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Hi1822Temp-e01                -----------
+semid          : 1212449
+sem member     : 0
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Cpu1Status                    -----------
+semid          : 360458
+sem member     : 158
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- CdTest                        -----------
+semid          : 458765
+sem member     : 32
+ref count      : 1
+----------------- BoardMismatch-2               -----------
+semid          : 688148
+sem member     : 102
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- CondiThermalLevel0            -----------
+semid          : 851993
+sem member     : 217
+ref count      : 1
+----------------- PMEServiceConfig:C            -----------
+semid          : 884762
+sem member     : 12
+ref count      : 1
+----------------- SASCable_sen                  -----------
+semid          : 360458
+sem member     : 243
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- link_status_4-3               -----------
+semid          : 720917
+sem member     : 131
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu2Memory                    -----------
+semid          : 360458
+sem member     : 161
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk5-2                       -----------
+semid          : 688148
+sem member     : 67
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ptas                          -----------
+semid          : 589841
+sem member     : 3
+ref count      : 1
+----------------- EepromSelfTest-8              -----------
+semid          : 753686
+sem member     : 15
+ref count      : 1
+----------------- EepromSelfTest-9              -----------
+semid          : 753686
+sem member     : 63
+ref count      : 1
+----------------- DrivePartitionConnector       -----------
+semid          : 557072
+sem member     : 198
+ref count      : 1
+----------------- pwm5accessor                  -----------
+semid          : 819224
+sem member     : 87
+ref count      : 1
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- LomCard2Connect               -----------
+semid          : 360458
+sem member     : 24
+ref count      : 1
+----------------- ComSSDConnect5-2              -----------
+semid          : 655379
+sem member     : 211
+ref count      : 1
+----------------- ComVPDConnect7-2              -----------
+semid          : 655379
+sem member     : 222
+ref count      : 1
+----------------- VLANConnector                 -----------
+semid          : 557072
+sem member     : 199
+ref count      : 1
+----------------- dft_item_pca9555_nic-3        -----------
+semid          : 720917
+sem member     : 85
+ref count      : 1
+----------------- BaseboardConnector            -----------
+semid          : 327689
+sem member     : 242
+ref count      : 1
+----------------- NandFlashTest                 -----------
+semid          : 360458
+sem member     : 21
+ref count      : 1
+----------------- SSDTemp-202                   -----------
+semid          : 1212449
+sem member     : 222
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Fan4FStatus                   -----------
+semid          : 819224
+sem member     : 101
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- UidButton                     -----------
+semid          : 360458
+sem member     : 211
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fan1                          -----------
+semid          : 819224
+sem member     : 51
+ref count      : 1
+.FSpeed         : send event count: 1605039
+.ExpectPWM      : send event count: 50
+.PresenceR      : send event count: 1
+.PWMHW          : send event count: 51
+.FRPM           : send event count: 1605037
+.RRPM           : send event count: 1605037
+.RSpeed         : send event count: 1605036
+.Presence       : send event count: 1
+.Model          : send event count: 1
+.PWM            : send event count: 52
+.PartNum        : send event count: 1
+----------------- fan2                          -----------
+semid          : 819224
+sem member     : 52
+ref count      : 1
+.FSpeed         : send event count: 673044
+.ExpectPWM      : send event count: 50
+.PresenceR      : send event count: 1
+.PWMHW          : send event count: 51
+.FRPM           : send event count: 673042
+.RRPM           : send event count: 673042
+.RSpeed         : send event count: 673045
+.Presence       : send event count: 1
+.Model          : send event count: 1
+.PWM            : send event count: 52
+.PartNum        : send event count: 1
+----------------- fan3                          -----------
+semid          : 819224
+sem member     : 53
+ref count      : 1
+.FSpeed         : send event count: 624939
+.ExpectPWM      : send event count: 50
+.PresenceR      : send event count: 1
+.PWMHW          : send event count: 51
+.FRPM           : send event count: 624937
+.RRPM           : send event count: 624937
+.RSpeed         : send event count: 624936
+.Presence       : send event count: 1
+.Model          : send event count: 1
+.PWM            : send event count: 52
+.PartNum        : send event count: 1
+----------------- fan4                          -----------
+semid          : 819224
+sem member     : 54
+ref count      : 1
+.FSpeed         : send event count: 1910133
+.ExpectPWM      : send event count: 50
+.PresenceR      : send event count: 1
+.PWMHW          : send event count: 51
+.FRPM           : send event count: 1910131
+.RRPM           : send event count: 1910131
+.RSpeed         : send event count: 1910130
+.Presence       : send event count: 1
+.Model          : send event count: 1
+.PWM            : send event count: 52
+.PartNum        : send event count: 1
+----------------- RiserCard90OnSlot1            -----------
+semid          : 360458
+sem member     : 44
+ref count      : 1
+----------------- RiserCard90OnSlot2            -----------
+semid          : 360458
+sem member     : 48
+ref count      : 1
+----------------- FCCardConnector               -----------
+semid          : 557072
+sem member     : 195
+ref count      : 1
+----------------- ComVPDConnect0-2              -----------
+semid          : 655379
+sem member     : 187
+ref count      : 1
+----------------- PSInletTemp-5                 -----------
+semid          : 720917
+sem member     : 184
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fantech0_bus                  -----------
+semid          : 819224
+sem member     : 120
+ref count      : 1
+----------------- RiserCard36OnSlot3            -----------
+semid          : 360458
+sem member     : 54
+ref count      : 1
+.IsTrue         : send event count: 1
+----------------- Fan3FStatusThermal            -----------
+semid          : 851993
+sem member     : 200
+ref count      : 1
+----------------- ComVPDConnect14-2             -----------
+semid          : 688148
+sem member     : 7
+ref count      : 1
+----------------- Cpu1HighPerCoreTempThermal    -----------
+semid          : 851993
+sem member     : 169
+ref count      : 1
+----------------- Cpu2MemTemp                   -----------
+semid          : 360458
+sem member     : 149
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- LowNosisyPolicyOutletTemp     -----------
+semid          : 851993
+sem member     : 178
+ref count      : 1
+----------------- LogicalDriveConnector-1       -----------
+semid          : 622610
+sem member     : 212
+ref count      : 1
+----------------- CertOverDue                   -----------
+semid          : 622610
+sem member     : 101
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PSInletTemp-6                 -----------
+semid          : 720917
+sem member     : 230
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCardAnchor-9             -----------
+semid          : 753686
+sem member     : 54
+ref count      : 1
+----------------- V_1822_1V8-e01                -----------
+semid          : 1212449
+sem member     : 101
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Fan2FStatus                   -----------
+semid          : 819224
+sem member     : 99
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu1VddqTempThermal           -----------
+semid          : 851993
+sem member     : 204
+ref count      : 1
+----------------- NMISwitchTest                 -----------
+semid          : 491534
+sem member     : 245
+ref count      : 1
+----------------- Disk15-2                      -----------
+semid          : 688148
+sem member     : 77
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PsStatus-6                    -----------
+semid          : 720917
+sem member     : 195
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Port1Test-3                   -----------
+semid          : 720917
+sem member     : 88
+ref count      : 1
+----------------- FrontCoolingCondition         -----------
+semid          : 851993
+sem member     : 224
+ref count      : 1
+----------------- Dimm140                       -----------
+semid          : 360458
+sem member     : 186
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fantech5accessor              -----------
+semid          : 819224
+sem member     : 59
+ref count      : 1
+----------------- InnerHddId1Accessor           -----------
+semid          : 491534
+sem member     : 34
+ref count      : 1
+----------------- Disk17-2                      -----------
+semid          : 688148
+sem member     : 79
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk4-2                       -----------
+semid          : 688148
+sem member     : 66
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCardAnchor-8             -----------
+semid          : 753686
+sem member     : 6
+ref count      : 1
+----------------- InnerHddId2Accessor           -----------
+semid          : 491534
+sem member     : 35
+ref count      : 1
+----------------- Disk8-2                       -----------
+semid          : 688148
+sem member     : 70
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- NoFrontDiskTempExp            -----------
+semid          : 851993
+sem member     : 222
+ref count      : 1
+.Z              : send event count: 1
+.Value          : send event count: 20 : listened by port : 131075, 
+----------------- 1_2V_VDDQ1                    -----------
+semid          : 786455
+sem member     : 75
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- 1_2V_VDDQ2                    -----------
+semid          : 786455
+sem member     : 76
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan1PresentAccessor           -----------
+semid          : 819224
+sem member     : 69
+ref count      : 1
+----------------- 1_2V_VDDQ4                    -----------
+semid          : 786455
+sem member     : 78
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- 1_2V_VDDQ3                    -----------
+semid          : 786455
+sem member     : 77
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk10-2                      -----------
+semid          : 688148
+sem member     : 72
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- fangroup0                     -----------
+semid          : 589841
+sem member     : 4
+ref count      : 1
+----------------- fangroup1                     -----------
+semid          : 589841
+sem member     : 5
+ref count      : 1
+----------------- PMEServiceConfig              -----------
+semid          : 491534
+sem member     : 242
+ref count      : 1
+----------------- MeTest                        -----------
+semid          : 458765
+sem member     : 102
+ref count      : 1
+----------------- EnergySaveMarginObjTemp       -----------
+semid          : 851993
+sem member     : 189
+ref count      : 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- BbuModuleConnect              -----------
+semid          : 622610
+sem member     : 109
+ref count      : 1
+----------------- Payload:C                     -----------
+semid          : 884762
+sem member     : 98
+ref count      : 1
+----------------- ChassisPayload                -----------
+semid          : 458765
+sem member     : 48
+ref count      : 1
+.PwrOkSigDrop   : listened by port : 131075, 
+.PowerGd        : recv event count: 2 : listened by port : 32768, 
+.BoardStableStatus : listened by port : 360458, 
+.AcpiStatus     : listened by port : 229382, 
+.ResetFlag      : listened by port : 131075, 655379, 557072, 327689, 491534, 98306, 65537, 
+.PwrButtonFlag  : listened by port : 131075, 
+.SysResetFlag   : listened by port : 688148, 655379, 557072, 589841, 720917, 327689, 491534, 131075, 98306, 65537, 
+.RestartValue   : listened by port : 131075, 557072, 
+.ChassisPowerState : listened by port : 688148, 655379, 557072, 589841, 327689, 491534, 131075, 229382, 98306, 
+.AcpiValue      : listened by port : 131075, 
+----------------- OpticalModuleTemp-e01         -----------
+semid          : 1212449
+sem member     : 7
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- VRDConnector                  -----------
+semid          : 589841
+sem member     : 197
+ref count      : 1
+----------------- Disk6-2                       -----------
+semid          : 688148
+sem member     : 68
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCardAnchor-e             -----------
+semid          : 753686
+sem member     : 102
+ref count      : 1
+----------------- LowlevelCondition             -----------
+semid          : 851993
+sem member     : 181
+ref count      : 1
+----------------- Cpu:C                         -----------
+semid          : 884762
+sem member     : 193
+ref count      : 1
+----------------- FANConnector                  -----------
+semid          : 622610
+sem member     : 97
+ref count      : 1
+----------------- ComSSDConnect6-2              -----------
+semid          : 655379
+sem member     : 216
+ref count      : 1
+----------------- ComVPDConnect8-2              -----------
+semid          : 655379
+sem member     : 227
+ref count      : 1
+----------------- Cpu2VrdTempThermal            -----------
+semid          : 851993
+sem member     : 207
+ref count      : 1
+----------------- PsFanStatus-6                 -----------
+semid          : 720917
+sem member     : 196
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- BMAHeartBeat                  -----------
+semid          : 524303
+sem member     : 63
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCard32OnSlot2            -----------
+semid          : 360458
+sem member     : 51
+ref count      : 1
+----------------- BBUStatus-1                   -----------
+semid          : 622610
+sem member     : 191
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- SSDTemp-201                   -----------
+semid          : 1212449
+sem member     : 145
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- SSDTemp-203                   -----------
+semid          : 1245218
+sem member     : 48
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Cooling:C                     -----------
+semid          : 884762
+sem member     : 62
+ref count      : 1
+----------------- PSUCoolingCondition           -----------
+semid          : 851993
+sem member     : 228
+ref count      : 1
+----------------- ComVPDConnect1-2              -----------
+semid          : 655379
+sem member     : 192
+ref count      : 1
+----------------- PysicalLedTest                -----------
+semid          : 425996
+sem member     : 198
+ref count      : 1
+----------------- V_1822_3V3-e01                -----------
+semid          : 1212449
+sem member     : 87
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- SelStatus                     -----------
+semid          : 524303
+sem member     : 52
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComVPDConnect15-2             -----------
+semid          : 688148
+sem member     : 12
+ref count      : 1
+----------------- LedTubeDftTest                -----------
+semid          : 393227
+sem member     : 4
+ref count      : 1
+----------------- FlashTest                     -----------
+semid          : 425996
+sem member     : 160
+ref count      : 1
+----------------- UidButtonTest                 -----------
+semid          : 425996
+sem member     : 184
+ref count      : 1
+----------------- SecurityLogFull               -----------
+semid          : 524303
+sem member     : 58
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- needfan-202                   -----------
+semid          : 1212449
+sem member     : 221
+ref count      : 1
+.flag           : send event count: 1
+----------------- needfan-203                   -----------
+semid          : 1245218
+sem member     : 47
+ref count      : 1
+.flag           : send event count: 1
+----------------- SSDTemp-204                   -----------
+semid          : 1245218
+sem member     : 124
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- I2C4Test                      -----------
+semid          : 425996
+sem member     : 169
+ref count      : 1
+----------------- needfan-204                   -----------
+semid          : 1245218
+sem member     : 123
+ref count      : 1
+.flag           : send event count: 1
+----------------- Eth2Test                      -----------
+semid          : 458765
+sem member     : 43
+ref count      : 1
+----------------- fantech0accessor              -----------
+semid          : 819224
+sem member     : 118
+ref count      : 1
+----------------- PolicyInnerDiskTemp           -----------
+semid          : 851993
+sem member     : 234
+ref count      : 1
+----------------- CPLDTest                      -----------
+semid          : 425996
+sem member     : 162
+ref count      : 1
+----------------- PsStatus-5                    -----------
+semid          : 720917
+sem member     : 149
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PolicyDiskTemp                -----------
+semid          : 851993
+sem member     : 192
+ref count      : 1
+----------------- PSUCondiGroup                 -----------
+semid          : 851993
+sem member     : 227
+ref count      : 1
+----------------- RiserCard3Connect             -----------
+semid          : 524303
+sem member     : 120
+ref count      : 1
+----------------- InnerBackplaneConnect         -----------
+semid          : 491534
+sem member     : 66
+ref count      : 1
+----------------- BaseboardId                   -----------
+semid          : 327689
+sem member     : 235
+ref count      : 1
+----------------- PsTest                        -----------
+semid          : 458765
+sem member     : 101
+ref count      : 1
+----------------- ComSSDConnect10-2             -----------
+semid          : 655379
+sem member     : 236
+ref count      : 1
+----------------- VDDFIX_VOLT_CPU1              -----------
+semid          : 786455
+sem member     : 207
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu1VrdTemp                   -----------
+semid          : 786455
+sem member     : 81
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RearBackplaneConnect          -----------
+semid          : 491534
+sem member     : 116
+ref count      : 1
+----------------- BbuStatus                     -----------
+semid          : 327689
+sem member     : 247
+ref count      : 1
+----------------- VDDFIX_VOLT_CPU2              -----------
+semid          : 786455
+sem member     : 208
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk11-2                      -----------
+semid          : 688148
+sem member     : 73
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PolicyHi1822Temp-e01          -----------
+semid          : 1212449
+sem member     : 2
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+----------------- risercard-8                   -----------
+semid          : 753686
+sem member     : 27
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- risercard-9                   -----------
+semid          : 753686
+sem member     : 75
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- SSDTempThermal-202            -----------
+semid          : 1212449
+sem member     : 229
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+----------------- SSDTempThermal-201            -----------
+semid          : 1212449
+sem member     : 152
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+----------------- SSDTempThermal-204            -----------
+semid          : 1245218
+sem member     : 131
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+----------------- SSDTempThermal-203            -----------
+semid          : 1245218
+sem member     : 55
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+----------------- Fan1FStatusThermal            -----------
+semid          : 851993
+sem member     : 196
+ref count      : 1
+----------------- Disk18-2                      -----------
+semid          : 688148
+sem member     : 80
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- NAVS_VOLT_CPU1                -----------
+semid          : 786455
+sem member     : 189
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Cpu2DefaultCoreTempThermal    -----------
+semid          : 851993
+sem member     : 171
+ref count      : 1
+----------------- NAVS_VOLT_CPU2                -----------
+semid          : 786455
+sem member     : 190
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- SecurityModuleConnect         -----------
+semid          : 524303
+sem member     : 6
+ref count      : 1
+----------------- SysSFPMaxTmp                  -----------
+semid          : 622610
+sem member     : 163
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm001                       -----------
+semid          : 360458
+sem member     : 163
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RiserCard1Connect             -----------
+semid          : 524303
+sem member     : 118
+ref count      : 1
+----------------- Disk7-2                       -----------
+semid          : 688148
+sem member     : 69
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PowerSupply2Connect           -----------
+semid          : 360458
+sem member     : 32
+ref count      : 1
+----------------- ComSSDConnect7-2              -----------
+semid          : 655379
+sem member     : 221
+ref count      : 1
+----------------- ComVPDConnect9-2              -----------
+semid          : 655379
+sem member     : 232
+ref count      : 1
+----------------- FpTest                        -----------
+semid          : 458765
+sem member     : 33
+ref count      : 1
+----------------- fantech9accessor              -----------
+semid          : 819224
+sem member     : 63
+ref count      : 1
+----------------- SysFwProgress                 -----------
+semid          : 360458
+sem member     : 197
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- DiscreteSensor:C              -----------
+semid          : 884762
+sem member     : 59
+ref count      : 1
+----------------- Cpu1VddqTemp                  -----------
+semid          : 786455
+sem member     : 79
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk0-2                       -----------
+semid          : 688148
+sem member     : 62
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- OSEthConnector                -----------
+semid          : 557072
+sem member     : 193
+ref count      : 1
+----------------- PsFanStatus-5                 -----------
+semid          : 720917
+sem member     : 150
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- V_RaidCardConnect             -----------
+semid          : 360458
+sem member     : 20
+ref count      : 1
+----------------- FrontCondiGroup               -----------
+semid          : 851993
+sem member     : 223
+ref count      : 1
+----------------- ComSSDConnect0-2              -----------
+semid          : 655379
+sem member     : 186
+ref count      : 1
+----------------- ComVPDConnect2-2              -----------
+semid          : 655379
+sem member     : 197
+ref count      : 1
+----------------- SysTotalPower                 -----------
+semid          : 360458
+sem member     : 154
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- AirCoolingConfigConnector     -----------
+semid          : 360458
+sem member     : 0
+ref count      : 1
+----------------- PcieCard:C                    -----------
+semid          : 1212449
+sem member     : 115
+ref count      : 1
+----------------- RtcBattery                    -----------
+semid          : 753686
+sem member     : 146
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PSRedundancy                  -----------
+semid          : 524303
+sem member     : 42
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- IpmbTest                      -----------
+semid          : 425996
+sem member     : 171
+ref count      : 1
+----------------- Cooling                       -----------
+semid          : 327689
+sem member     : 249
+ref count      : 1
+.Level          : send event count: 1
+.IdentifiedFanTypeIndex : send event count: 1
+----------------- Cpu2CoreRem                   -----------
+semid          : 360458
+sem member     : 145
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Fan4Fspeed                    -----------
+semid          : 819224
+sem member     : 93
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm010                       -----------
+semid          : 360458
+sem member     : 164
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- InletTemp                     -----------
+semid          : 360458
+sem member     : 139
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm011                       -----------
+semid          : 360458
+sem member     : 165
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- risercard-e                   -----------
+semid          : 753686
+sem member     : 118
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- V_1822_1V2-e01                -----------
+semid          : 1212449
+sem member     : 94
+ref count      : 1
+.Health         : recv event count: 1 : listened by port : 32768, 131075, 
+----------------- Fan2PresenceThermal           -----------
+semid          : 851993
+sem member     : 199
+ref count      : 1
+----------------- Hi1710Test                    -----------
+semid          : 491534
+sem member     : 248
+ref count      : 1
+----------------- ComFan3                       -----------
+semid          : 491534
+sem member     : 183
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- HighPerPolicyOutletTemp       -----------
+semid          : 851993
+sem member     : 177
+ref count      : 1
+----------------- CustomizedInletPolicy         -----------
+semid          : 851993
+sem member     : 187
+ref count      : 1
+----------------- PcieSlot1Connect-e            -----------
+semid          : 753686
+sem member     : 119
+ref count      : 1
+----------------- Mem2HighPerThermalPolicy      -----------
+semid          : 851993
+sem member     : 212
+ref count      : 1
+----------------- Disk19-2                      -----------
+semid          : 688148
+sem member     : 81
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Disk2-2                       -----------
+semid          : 688148
+sem member     : 64
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComSSDConnect11-2             -----------
+semid          : 655379
+sem member     : 241
+ref count      : 1
+----------------- HighPerformModeInletPlc       -----------
+semid          : 851993
+sem member     : 185
+ref count      : 1
+----------------- VceTest                       -----------
+semid          : 458765
+sem member     : 31
+ref count      : 1
+----------------- RaidCardStatus-1              -----------
+semid          : 622610
+sem member     : 181
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- HighPerformanceModeCondition  -----------
+semid          : 851993
+sem member     : 186
+ref count      : 1
+----------------- ComFan1                       -----------
+semid          : 491534
+sem member     : 181
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- needfan-201                   -----------
+semid          : 1212449
+sem member     : 144
+ref count      : 1
+.flag           : send event count: 1
+----------------- Disk12-2                      -----------
+semid          : 688148
+sem member     : 74
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ComFan4                       -----------
+semid          : 491534
+sem member     : 184
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- ComFan2                       -----------
+semid          : 491534
+sem member     : 182
+ref count      : 1
+.Health         : listened by port : 131075, 
+----------------- BMCTimeHopping                -----------
+semid          : 524303
+sem member     : 48
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ExternConnector               -----------
+semid          : 360458
+sem member     : 14
+ref count      : 1
+----------------- RiserCard3BOnSlot1            -----------
+semid          : 360458
+sem member     : 46
+ref count      : 1
+----------------- RiserCard3BOnSlot2            -----------
+semid          : 360458
+sem member     : 50
+ref count      : 1
+----------------- pwm3accessor                  -----------
+semid          : 819224
+sem member     : 85
+ref count      : 1
+----------------- Dimm021                       -----------
+semid          : 360458
+sem member     : 167
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- BbuStatusExp                  -----------
+semid          : 327689
+sem member     : 248
+ref count      : 1
+.X              : send event count: 1
+.Value          : send event count: 1 : listened by port : 131075, 
+----------------- NTPSyncTime                   -----------
+semid          : 524303
+sem member     : 50
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PcieSlot2Connect-e            -----------
+semid          : 753686
+sem member     : 120
+ref count      : 1
+----------------- Dimm020                       -----------
+semid          : 360458
+sem member     : 166
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- PowerButtonTest               -----------
+semid          : 425996
+sem member     : 185
+ref count      : 1
+----------------- dft_item_pca9545-8            -----------
+semid          : 753686
+sem member     : 23
+ref count      : 1
+----------------- dft_item_pca9545-9            -----------
+semid          : 753686
+sem member     : 71
+ref count      : 1
+----------------- link_status_1-3               -----------
+semid          : 720917
+sem member     : 128
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Dimm100                       -----------
+semid          : 360458
+sem member     : 178
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- Policy1Class:C                -----------
+semid          : 851993
+sem member     : 248
+ref count      : 1
+----------------- ComSSDConnect8-2              -----------
+semid          : 655379
+sem member     : 226
+ref count      : 1
+----------------- Watchdog2                     -----------
+semid          : 360458
+sem member     : 209
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- NoRearDiskTempExp             -----------
+semid          : 851993
+sem member     : 236
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- SramTest                      -----------
+semid          : 458765
+sem member     : 103
+ref count      : 1
+----------------- Disk1-2                       -----------
+semid          : 688148
+sem member     : 63
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- dft_item_lm75_MB_temp         -----------
+semid          : 458765
+sem member     : 100
+ref count      : 1
+----------------- PSeventConnector              -----------
+semid          : 622610
+sem member     : 100
+ref count      : 1
+----------------- Cpu2Status                    -----------
+semid          : 360458
+sem member     : 159
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- ProductConnector              -----------
+semid          : 327689
+sem member     : 244
+ref count      : 1
+----------------- ComSSDConnect1-2              -----------
+semid          : 655379
+sem member     : 191
+ref count      : 1
+----------------- ComVPDConnect3-2              -----------
+semid          : 655379
+sem member     : 202
+ref count      : 1
+----------------- Riser2Card                    -----------
+semid          : 360458
+sem member     : 234
+ref count      : 1
+.Health         : listened by port : 32768, 131075, 
+----------------- RearCondiGroup                -----------
+semid          : 851993
+sem member     : 237
+ref count      : 1
+----------------- PTAS:C                        -----------
+semid          : 884762
+sem member     : 112
+ref count      : 1
+----------------- PolicyOPTemp-e01              -----------
+semid          : 1212449
+sem member     : 8
+ref count      : 1
+.ConditionIndex : send event count: 1
+.Hsis           : send event count: 1
+.Tmax           : send event count: 1
+.SensorName     : send event count: 1
+.FAN            : send event count: 1
+.IsValid        : send event count: 1
+.FanID          : send event count: 1
+.EnvRangeSpdH   : send event count: 1
+.Index          : send event count: 1
+.EnvRangeRdH    : send event count: 1
+.EnvRangeSpdL   : send event count: 1
+.TYPE           : send event count: 1
+.EnvRangeRdL    : send event count: 1
+.AlarmSpeed     : send event count: 1
+.FailedValue    : send event count: 1
+.Tobj           : send event count: 1
+.Type           : send event count: 1
+.DisabledValue  : send event count: 1
+alias name: a:FANClass404, object name: fan4
+alias name: a:FANClass303, object name: fan3
+alias name: a:FANClass202, object name: fan2
+alias name: a:FanGroup0, object name: fangroup0
+alias name: a:FANClass101, object name: fan1
+alias name: a:FanGroup1, object name: fangroup1
+===========================has object===========================
+BbuStatus, InnerHddId2Accessor, Fan4PresentAccessor, localbus1, fantech11accessor, InnerHddId1Accessor, cpld1, RearBackplanePresenceAccessor, Fan11PresentAccessor, fantech0, InBkpPresAccessor, Fan8PresentAccessor, fantech0accessor, fantech1accessor, fantech9accessor, pwm3accessor, fantech5accessor, Fan1PresentAccessor, pwm5accessor, pwm6accessor, pwm1accessor, fantech0_bus, HDDBackplanePresenceAccessor, 
+=====================method info=============================
+key=Cooling.SetCoolingMode, func=0x1b7b0
+input para list:
+y u output para list:
+i 
+key=Policy1Class.SetEnvTempSpd, func=0x1fb14
+input para list:
+ay ay output para list:
+
+key=Cooling.SetThermalSrcState, func=0x1b480
+input para list:
+y y output para list:
+
+key=Cooling.SetSingleFanLevel, func=0x1b694
+input para list:
+y y output para list:
+
+key=Cooling.SetOutletTobj, func=0x2007c
+input para list:
+y output para list:
+
+key=Cooling.SetCpuTobj, func=0x1fc20
+input para list:
+y output para list:
+
+key=Cooling.GetTotolFanPower, func=0x1a1e8
+input para list:
+output para list:
+d 
+key=Cooling.GetCpuThermalInfo, func=0x19900
+input para list:
+y output para list:
+y y y y 
+key=Cooling.SetCoolingMedium, func=0x1c2a8
+input para list:
+y output para list:
+
+key=PTAS.SetServerTag, func=0x2050c
+input para list:
+u output para list:
+
+key=Cooling.SetCoolingPowerMode, func=0x1b8b8
+input para list:
+y output para list:
+
+key=Cooling.SetSmartCoolingMode, func=0x1f908
+input para list:
+y output para list:
+
+key=Cooling.SetFanLevel, func=0x1b5e0
+input para list:
+y output para list:
+
+key=cooling_app.set_trace_cfg, func=0xb6d6a9e0
+input para list:
+s output para list:
+
+key=cooling_app.dlog_outlvl, func=0xb6d6b28c
+input para list:
+s output para list:
+
+key=cooling_app.dlog_outype, func=0xb6d6bda8
+input para list:
+s output para list:
+
+key=cooling_app.save_dlog_cfg, func=0xb6d6b124
+input para list:
+output para list:
+
+key=cooling_app.connect_to_cli, func=0xb6d6bafc
+input para list:
+s s output para list:
+
+key=cooling_app.deconnect_to_cli, func=0xb6d6b608
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=32768
+key=<MeInfo.CpuTjmax, handler=0x181d0, state=0
+key=<ThresholdSensor.Health, handler=0x10280, state=1
+key=<Cpu.Version, handler=0x19e20, state=1
+key=<DiscreteSensor.Health, handler=0x10280, state=0
+key=<Payload.PowerGd, handler=0x10818, state=1
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50001
+my ipc id=32768
+sync sem4 id=917531
+module id=2
+=============================client end==========================
+=====================class info============================
+--------------------- Payload             -----------------
+listened       : SysResetFlag: 65537, 98306, 131075, 491534, 327689, 720917, 589841, 557072, 655379, 688148, 
+               : ResetFlag: 65537, 98306, 491534, 327689, 557072, 655379, 131075, 
+               : ChassisPowerState: 98306, 229382, 131075, 491534, 327689, 589841, 557072, 655379, 688148, 
+               : AcpiStatus: 229382, 
+               : BoardStableStatus: 360458, 
+               : RestartValue: 557072, 131075, 
+               : AcpiValue: 131075, 
+               : PwrOkSigDrop: 131075, 
+               : PwrButtonFlag: 131075, 
+               : PowerGd: 32768, 
+--------------------- PRODUCT             -----------------
+--------------------- CpuPowTempMap       -----------------
+--------------------- CLASSFANTYPE        -----------------
+--------------------- RiserPcieCard       -----------------
+listened       : Health: 131075, 
+--------------------- FANClass            -----------------
+--------------------- LocalBusMmap        -----------------
+--------------------- PMEServiceConfig    -----------------
+--------------------- Log                 -----------------
+--------------------- Condition           -----------------
+--------------------- ThresholdSensor     -----------------
+listened       : Health: 131075, 32768, 
+--------------------- MeInfo              -----------------
+listened       : CpuTjmax: 32768, 
+--------------------- Cpu                 -----------------
+listened       : Version: 32768, 
+               : IErr: 655379, 688148, 
+               : McErr: 655379, 688148, 
+               : Error2: 655379, 
+               : MirrorFailChMask: 655379, 
+               : FDMFault: 131075, 
+--------------------- PcieCard            -----------------
+listened       : Health: 131075, 
+               : FatalError: 131075, 
+               : FDMFault: 131075, 
+--------------------- Fantech             -----------------
+--------------------- Connector           -----------------
+--------------------- Chip                -----------------
+--------------------- Cooling             -----------------
+--------------------- BladeCoolingPolicy  -----------------
+--------------------- BladeCpuThermal     -----------------
+--------------------- Component           -----------------
+listened       : Health: 131075, 
+--------------------- Accessor            -----------------
+--------------------- FanGroup            -----------------
+--------------------- CoolingCondition    -----------------
+--------------------- Anchor              -----------------
+--------------------- DftItem             -----------------
+--------------------- BOARD               -----------------
+--------------------- DiscreteSensor      -----------------
+listened       : Health: 131075, 32768, 
+--------------------- Expression          -----------------
+listened       : Value: 131075, 
+--------------------- Policy1Class        -----------------
+--------------------- FruPayload          -----------------
+--------------------- ConditionGroup      -----------------
+--------------------- PTASPolicy          -----------------
+--------------------- AdditionalFan       -----------------
+--------------------- PTAS                -----------------

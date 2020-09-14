@@ -1,0 +1,91 @@
+Module                  Size  Used by
+iptable_filter          1512  1 
+ip_tables              11844  1 iptable_filter
+vfat                    8863  1 
+fat                    52971  1 vfat
+xt_tcpudp               2966  12 
+ip6table_filter         1461  1 
+ip6_tables             11104  1 ip6table_filter
+xt_limit                1563  9 
+x_tables               17779  6 ip6table_filter,ip_tables,xt_tcpudp,xt_limit,iptable_filter,ip6_tables
+dm_mod                 73795  3 
+isofs                  21303  0 
+mctp_drv               15312  2 
+cifs                  217425  0 
+sha256_generic          8980  0 
+md4                     3199  0 
+hmac                    2626  0 
+ecb                     1871  0 
+nfsv3                  25578  0 
+nfs                   153532  1 nfsv3
+lockd                  66682  2 nfs,nfsv3
+nfs_acl                 2624  1 nfsv3
+sunrpc                222184  4 nfs,lockd,nfsv3,nfs_acl
+oid_registry            2703  0 
+cachefiles             44168  1 
+fscache                75389  3 nfs,cifs,cachefiles
+usb_device_1710         2085  0 
+ohci_hcd_1710          30714  0 
+ehci_hcd_1710          51478  0 
+c51_drv                30963  2 
+pramdisk                4358  1 
+bmc_veth_drv           23683  0 
+bmc_cdev_drv            5699  5 
+bmc_edma_drv           26454  2 bmc_veth_drv,bmc_cdev_drv
+virtual_cd             12246  0 
+dwc_otg_cd            131001  1 virtual_cd
+virtual_mouse_keyboard    12195  1 
+dwc_otg_keyboard      130460  1 virtual_mouse_keyboard
+virtual_fp             12109  0 
+dwc_otg_fp            130485  1 virtual_fp
+cpld_drv               75207  0 
+spi_drv                13240  1 cpld_drv
+dfx_drv                19104  0 
+localbus_drv            4265  0 
+wdi_drv                 1816  0 
+peci_drv                4672  0 
+uartconnect_drv         6372  1 
+uart_drv                8918  0 
+nand                   52544  0 
+nand_ecc                3925  1 nand
+nand_ids                5099  1 nand
+rtc_drv                 3078  0 
+adc_drv                 3922  2 
+pwm_drv                10833  1 
+dboot_drv               5079  1 
+sfc_drv                34577  0 
+sram_drv                3109  0 
+rsvmem_drv              3058  0 
+sol_drv                 5222  1 
+bt_drv                 10079  1 
+p80_drv                 5297  1 
+ipmb_drv               16779  1 
+i2c_drv                79517  9 
+dmac_drv                8835  0 
+wdt_drv                 3452  1 
+gmac_drv               71281  0 
+mdio_drv                6069  2 gmac_drv
+gpio_drv               22803  9 i2c_drv,sfc_drv,cpld_drv,wdt_drv
+sys_info_drv           17136  44 i2c_drv,sol_drv,gmac_drv,rsvmem_drv,bmc_veth_drv,bmc_cdev_drv,gpio_drv,bmc_edma_drv
+8021q                  18388  0 
+ipv6                  288614  31 
+sdio_drv               27207  1 
+comm_drv                6964  102 pwm_drv,dfx_drv,i2c_drv,p80_drv,ipmb_drv,c51_drv,dboot_drv,uart_drv,sol_drv,spi_drv,sram_drv,bt_drv,rsvmem_drv,uartconnect_drv,sdio_drv,virtual_cd,virtual_fp,adc_drv,cpld_drv,dmac_drv,bmc_cdev_drv,peci_drv,mdio_drv,mctp_drv,wdi_drv,wdt_drv,localbus_drv,sys_info_drv,virtual_mouse_keyboard,gpio_drv
+log_drv                 5341  33 pwm_drv,dfx_drv,i2c_drv,p80_drv,ipmb_drv,c51_drv,sfc_drv,rtc_drv,dboot_drv,uart_drv,sol_drv,spi_drv,gmac_drv,sram_drv,bt_drv,rsvmem_drv,uartconnect_drv,comm_drv,sdio_drv,virtual_cd,virtual_fp,adc_drv,cpld_drv,dmac_drv,peci_drv,mdio_drv,mctp_drv,wdi_drv,wdt_drv,localbus_drv,sys_info_drv,virtual_mouse_keyboard,gpio_drv
+ext4                  467128  2 
+jbd2                  102569  1 ext4
+crc16                   1517  1 ext4
+mmc_block              24253  4 
+mmc_core              121413  2 mmc_block,sdio_drv
+cramfs                 39199  0 
+jffs2                 130527  0 
+cfi_cmdset_0002        52837  0 
+cfi_cmdset_0001        41284  0 
+cfi_probe               5387  0 
+cfi_util               11711  3 cfi_probe,cfi_cmdset_0001,cfi_cmdset_0002
+chipreg                 2470  1 cfi_probe
+gen_probe               2747  1 cfi_probe
+cmdlinepart             2879  0 
+mtdblock                4407  0 
+mtd_blkdevs             7516  1 mtdblock
+mtd                    49204  15 nand,mtdblock,jffs2,cmdlinepart,cfi_cmdset_0001,cfi_cmdset_0002,sfc_drv,mtd_blkdevs

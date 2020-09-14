@@ -1,0 +1,1116 @@
+==========================object===========================
+----------------- gpio72_bus                    -----------
+semid          : 425996
+sem member     : 149
+ref count      : 1
+----------------- VirtualSSDModelChip-201       -----------
+semid          : 1212449
+sem member     : 139
+ref count      : 1
+----------------- Riser2Card9555                -----------
+semid          : 524303
+sem member     : 97
+ref count      : 1
+----------------- gpio63                        -----------
+semid          : 360458
+sem member     : 78
+ref count      : 1
+----------------- gpio64                        -----------
+semid          : 360458
+sem member     : 80
+ref count      : 1
+----------------- Bios                          -----------
+semid          : 425996
+sem member     : 150
+ref count      : 1
+.StartOption    : send event count: 2 : listened by port : 688148, 
+.PcieDiskBDF    : send event count: 19 : listened by port : 327689, 
+.BiosBootStage  : send event count: 19 : listened by port : 327689, 
+.MenuChangeFlag : listened by port : 327689, 
+.PcieCardBDF    : send event count: 19 : listened by port : 327689, 
+.SystemStartupState : send event count: 39
+.LastStartOption : send event count: 1
+.StartOptionFlag : send event count: 2
+.RegistryVersion : send event count: 1
+.StartOptionFlagExt : send event count: 2
+----------------- PRODUCT:C                     -----------
+semid          : 884762
+sem member     : 190
+ref count      : 1
+----------------- VirtualSSDModelChip-204       -----------
+semid          : 1245218
+sem member     : 118
+ref count      : 1
+----------------- PRODUCT                       -----------
+semid          : 851993
+sem member     : 147
+ref count      : 1
+----------------- VirtualSSDModelChip-203       -----------
+semid          : 1245218
+sem member     : 42
+ref count      : 1
+----------------- adc_volt_chip                 -----------
+semid          : 753686
+sem member     : 136
+ref count      : 1
+----------------- SmBios                        -----------
+semid          : 425996
+sem member     : 151
+ref count      : 1
+.FileChange     : send event count: 10 : listened by port : 98306, 
+.SmBiosUpdatedFlag : send event count: 1
+.SmBiosStatus   : send event count: 39 : listened by port : 655379, 753686, 327689, 
+----------------- gpio62                        -----------
+semid          : 425996
+sem member     : 164
+ref count      : 1
+----------------- pca9545_chan2-e               -----------
+semid          : 753686
+sem member     : 108
+ref count      : 1
+----------------- gpio139                       -----------
+semid          : 425996
+sem member     : 193
+ref count      : 1
+----------------- RiserCardAnchor-8             -----------
+semid          : 753686
+sem member     : 6
+ref count      : 1
+----------------- reset_pca9545-e               -----------
+semid          : 753686
+sem member     : 111
+ref count      : 1
+----------------- localbus1                     -----------
+semid          : 327689
+sem member     : 241
+ref count      : 1
+----------------- RiserCardAnchor-9             -----------
+semid          : 753686
+sem member     : 54
+ref count      : 1
+----------------- Raid9555                      -----------
+semid          : 360458
+sem member     : 82
+ref count      : 1
+----------------- i2c1_Riser3_pca9545_chip      -----------
+semid          : 524303
+sem member     : 98
+ref count      : 1
+----------------- VirtualSSDModelChip-202       -----------
+semid          : 1212449
+sem member     : 216
+ref count      : 1
+----------------- gpio62_bus                    -----------
+semid          : 425996
+sem member     : 165
+ref count      : 1
+----------------- BMC                           -----------
+semid          : 65537
+sem member     : 178
+ref count      : 1
+.HostName       : listened by port : 131075, 229382, 
+----------------- OutletTemp_category_chip      -----------
+semid          : 524303
+sem member     : 15
+ref count      : 1
+----------------- reset_i2c6_pca9545            -----------
+semid          : 524303
+sem member     : 94
+ref count      : 1
+----------------- fantech0_bus                  -----------
+semid          : 819224
+sem member     : 120
+ref count      : 1
+----------------- reset_pca9545_Exp-e           -----------
+semid          : 753686
+sem member     : 110
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- gpio57_bus                    -----------
+semid          : 360458
+sem member     : 77
+ref count      : 1
+----------------- CpldValidate                  -----------
+semid          : 425996
+sem member     : 158
+ref count      : 1
+----------------- RearBackplanePca9555          -----------
+semid          : 491534
+sem member     : 109
+ref count      : 1
+----------------- i2c1_pca9545_chip             -----------
+semid          : 524303
+sem member     : 89
+ref count      : 1
+----------------- gpio73                        -----------
+semid          : 524303
+sem member     : 122
+ref count      : 1
+----------------- Eeprom:C                      -----------
+semid          : 884762
+sem member     : 56
+ref count      : 1
+----------------- VirtualSSDChip-201            -----------
+semid          : 1212449
+sem member     : 137
+ref count      : 1
+----------------- gpio102_bus                   -----------
+semid          : 360458
+sem member     : 75
+ref count      : 1
+----------------- gpio72                        -----------
+semid          : 425996
+sem member     : 148
+ref count      : 1
+----------------- riser2_pca9545_chip           -----------
+semid          : 524303
+sem member     : 95
+ref count      : 1
+----------------- PMEServiceConfig:C            -----------
+semid          : 884762
+sem member     : 12
+ref count      : 1
+----------------- gpio121_bus                   -----------
+semid          : 360458
+sem member     : 90
+ref count      : 1
+----------------- CpldUpgrdChip-1               -----------
+semid          : 622610
+sem member     : 209
+ref count      : 1
+----------------- CpldUpgradeChip               -----------
+semid          : 425996
+sem member     : 154
+ref count      : 1
+----------------- pca9545_chan3-2               -----------
+semid          : 688148
+sem member     : 16
+ref count      : 1
+----------------- pca9555_raid_chip-1           -----------
+semid          : 622610
+sem member     : 218
+ref count      : 1
+----------------- ssdChip-201                   -----------
+semid          : 1212449
+sem member     : 161
+ref count      : 1
+----------------- RiserCard9555-8               -----------
+semid          : 753686
+sem member     : 13
+ref count      : 1
+----------------- RiserCard9555-9               -----------
+semid          : 753686
+sem member     : 61
+ref count      : 1
+----------------- FirmwarePCIeChip-202          -----------
+semid          : 1212449
+sem member     : 213
+ref count      : 1
+----------------- ssdChip-202                   -----------
+semid          : 1212449
+sem member     : 238
+ref count      : 1
+----------------- FirmwarePCIeChip-201          -----------
+semid          : 1212449
+sem member     : 136
+ref count      : 1
+----------------- VirtualSSDChip-202            -----------
+semid          : 1212449
+sem member     : 214
+ref count      : 1
+----------------- RaidChip-1                    -----------
+semid          : 622610
+sem member     : 208
+ref count      : 1
+----------------- reset_i2c5_pca9545            -----------
+semid          : 524303
+sem member     : 92
+ref count      : 1
+----------------- ssdChip-204                   -----------
+semid          : 1245218
+sem member     : 140
+ref count      : 1
+----------------- RiserCardAnchor-e             -----------
+semid          : 753686
+sem member     : 102
+ref count      : 1
+----------------- FirmwarePCIeChip-204          -----------
+semid          : 1245218
+sem member     : 115
+ref count      : 1
+----------------- ssdChip-203                   -----------
+semid          : 1245218
+sem member     : 64
+ref count      : 1
+----------------- InnerBackplanePca9555         -----------
+semid          : 491534
+sem member     : 63
+ref count      : 1
+----------------- adc_bus_0                     -----------
+semid          : 753686
+sem member     : 135
+ref count      : 1
+----------------- i2c4_pca9545_chip             -----------
+semid          : 524303
+sem member     : 91
+ref count      : 1
+----------------- FirmwarePCIeChip-203          -----------
+semid          : 1245218
+sem member     : 39
+ref count      : 1
+----------------- VirtualSSDChip-203            -----------
+semid          : 1245218
+sem member     : 40
+ref count      : 1
+----------------- cpld1                         -----------
+semid          : 327689
+sem member     : 240
+ref count      : 1
+----------------- PciePCA9555-e01               -----------
+semid          : 1212449
+sem member     : 67
+ref count      : 1
+----------------- NetCardEeprom-e01             -----------
+semid          : 1212449
+sem member     : 66
+ref count      : 1
+----------------- VirtualSSDChip-204            -----------
+semid          : 1245218
+sem member     : 116
+ref count      : 1
+----------------- EepromChip-1                  -----------
+semid          : 622610
+sem member     : 228
+ref count      : 1
+----------------- EepromChip-2                  -----------
+semid          : 655379
+sem member     : 68
+ref count      : 1
+----------------- gpio139_bus                   -----------
+semid          : 425996
+sem member     : 194
+ref count      : 1
+----------------- EepromChip-8                  -----------
+semid          : 753686
+sem member     : 11
+ref count      : 1
+----------------- EepromChip-9                  -----------
+semid          : 753686
+sem member     : 59
+ref count      : 1
+----------------- Hi1822Chip-e01                -----------
+semid          : 1212449
+sem member     : 1
+ref count      : 1
+----------------- RiserCard9555-e               -----------
+semid          : 753686
+sem member     : 105
+ref count      : 1
+----------------- i2c_1                         -----------
+semid          : 360458
+sem member     : 34
+ref count      : 1
+----------------- i2c_4                         -----------
+semid          : 360458
+sem member     : 85
+ref count      : 1
+----------------- i2c_5                         -----------
+semid          : 360458
+sem member     : 86
+ref count      : 1
+----------------- i2c_6                         -----------
+semid          : 360458
+sem member     : 87
+ref count      : 1
+----------------- 4NVME_exp                     -----------
+semid          : 524303
+sem member     : 86
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- clock_chip                    -----------
+semid          : 851993
+sem member     : 240
+ref count      : 1
+----------------- FrontBackplanePca9555         -----------
+semid          : 491534
+sem member     : 108
+ref count      : 1
+----------------- pca9545_chip-8                -----------
+semid          : 753686
+sem member     : 21
+ref count      : 1
+----------------- pca9545_chip-9                -----------
+semid          : 753686
+sem member     : 69
+ref count      : 1
+----------------- CpldValidateChip              -----------
+semid          : 425996
+sem member     : 157
+ref count      : 1
+----------------- Bbu9555                       -----------
+semid          : 360458
+sem member     : 16
+ref count      : 1
+----------------- InletTemp_category_chip       -----------
+semid          : 524303
+sem member     : 11
+ref count      : 1
+----------------- pca9545_chan1-2               -----------
+semid          : 688148
+sem member     : 14
+ref count      : 1
+----------------- pca9545_chan4-2               -----------
+semid          : 688148
+sem member     : 17
+ref count      : 1
+----------------- Serdes2Lom9555                -----------
+semid          : 360458
+sem member     : 30
+ref count      : 1
+----------------- pca9545_chan1-8               -----------
+semid          : 753686
+sem member     : 16
+ref count      : 1
+----------------- pca9545_chan1-9               -----------
+semid          : 753686
+sem member     : 64
+ref count      : 1
+----------------- CmosAccessor                  -----------
+semid          : 425996
+sem member     : 146
+ref count      : 1
+----------------- RaidCpldChip-1                -----------
+semid          : 622610
+sem member     : 190
+ref count      : 1
+----------------- gpio102                       -----------
+semid          : 360458
+sem member     : 74
+ref count      : 1
+----------------- riser1_pca9545_chip           -----------
+semid          : 524303
+sem member     : 93
+ref count      : 1
+----------------- Riser1Card9555                -----------
+semid          : 524303
+sem member     : 96
+ref count      : 1
+----------------- Hi1710                        -----------
+semid          : 327689
+sem member     : 238
+ref count      : 1
+----------------- pca9545_chip-e                -----------
+semid          : 753686
+sem member     : 112
+ref count      : 1
+----------------- pca9545_chan2                 -----------
+semid          : 524303
+sem member     : 82
+ref count      : 1
+----------------- pca9545_chan3                 -----------
+semid          : 524303
+sem member     : 83
+ref count      : 1
+----------------- pca9545_chan4                 -----------
+semid          : 524303
+sem member     : 84
+ref count      : 1
+----------------- gpio64_bus                    -----------
+semid          : 360458
+sem member     : 81
+ref count      : 1
+----------------- pca9545_chan1                 -----------
+semid          : 524303
+sem member     : 81
+ref count      : 1
+----------------- Bios:C                        -----------
+semid          : 884762
+sem member     : 154
+ref count      : 1
+----------------- Pca9555:C                     -----------
+semid          : 884762
+sem member     : 46
+ref count      : 1
+----------------- Payload:C                     -----------
+semid          : 884762
+sem member     : 98
+ref count      : 1
+----------------- reset_i2c1_pca9545            -----------
+semid          : 524303
+sem member     : 88
+ref count      : 1
+----------------- pca9555_nic_chip-3            -----------
+semid          : 720917
+sem member     : 82
+ref count      : 1
+----------------- pca9545_chan1-e               -----------
+semid          : 753686
+sem member     : 107
+ref count      : 1
+----------------- ChassisPayload                -----------
+semid          : 458765
+sem member     : 48
+ref count      : 1
+.PwrOkSigDrop   : listened by port : 131075, 
+.PowerGd        : listened by port : 32768, 
+.BoardStableStatus : listened by port : 360458, 
+.AcpiStatus     : listened by port : 229382, 
+.ResetFlag      : recv event count: 1 : listened by port : 131075, 655379, 557072, 327689, 491534, 98306, 65537, 
+.PwrButtonFlag  : listened by port : 131075, 
+.SysResetFlag   : recv event count: 24 : listened by port : 688148, 655379, 557072, 589841, 720917, 327689, 491534, 131075, 98306, 65537, 
+.RestartValue   : recv event count: 20 : listened by port : 131075, 557072, 
+.ChassisPowerState : recv event count: 3 : listened by port : 688148, 655379, 557072, 589841, 327689, 491534, 131075, 229382, 98306, 
+.AcpiValue      : listened by port : 131075, 
+----------------- TempChip-201                  -----------
+semid          : 1212449
+sem member     : 150
+ref count      : 1
+----------------- Chip:C                        -----------
+semid          : 884762
+sem member     : 129
+ref count      : 1
+----------------- TempChip-202                  -----------
+semid          : 1212449
+sem member     : 227
+ref count      : 1
+----------------- gpio123_bus                   -----------
+semid          : 458765
+sem member     : 39
+ref count      : 1
+----------------- TempChip-204                  -----------
+semid          : 1245218
+sem member     : 129
+ref count      : 1
+----------------- TempChip-203                  -----------
+semid          : 1245218
+sem member     : 53
+ref count      : 1
+----------------- fantech0                      -----------
+semid          : 819224
+sem member     : 119
+ref count      : 1
+----------------- 4NVME_accessor                -----------
+semid          : 524303
+sem member     : 85
+ref count      : 1
+----------------- SmBios:C                      -----------
+semid          : 884762
+sem member     : 26
+ref count      : 1
+----------------- gpio73_bus                    -----------
+semid          : 524303
+sem member     : 123
+ref count      : 1
+----------------- pca9545_chip0-2               -----------
+semid          : 688148
+sem member     : 18
+ref count      : 1
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- rear9545_chan                 -----------
+semid          : 524303
+sem member     : 87
+ref count      : 1
+----------------- eeprom0                       -----------
+semid          : 360458
+sem member     : 84
+ref count      : 1
+----------------- pca9545_chan2-2               -----------
+semid          : 688148
+sem member     : 15
+ref count      : 1
+----------------- reset_i2c4_pca9545            -----------
+semid          : 524303
+sem member     : 90
+ref count      : 1
+----------------- eeprom0-3                     -----------
+semid          : 720917
+sem member     : 101
+ref count      : 1
+----------------- gpio63_bus                    -----------
+semid          : 360458
+sem member     : 79
+ref count      : 1
+----------------- reset_pca9545-8               -----------
+semid          : 753686
+sem member     : 20
+ref count      : 1
+----------------- Riser3Card9555                -----------
+semid          : 524303
+sem member     : 99
+ref count      : 1
+----------------- Hi1710IBus                    -----------
+semid          : 327689
+sem member     : 239
+ref count      : 1
+----------------- gpio57                        -----------
+semid          : 360458
+sem member     : 76
+ref count      : 1
+----------------- Serdes1Lom9555                -----------
+semid          : 360458
+sem member     : 29
+ref count      : 1
+----------------- reset_pca9545-9               -----------
+semid          : 753686
+sem member     : 68
+ref count      : 1
+----------------- gpio121                       -----------
+semid          : 360458
+sem member     : 89
+ref count      : 1
+----------------- gpio123                       -----------
+semid          : 458765
+sem member     : 38
+ref count      : 1
+----------------- reset_pca9545_Exp-8           -----------
+semid          : 753686
+sem member     : 19
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- reset_pca9545_Exp-9           -----------
+semid          : 753686
+sem member     : 67
+ref count      : 1
+.Value          : listened by port : 131075, 
+----------------- CpldLoad                      -----------
+semid          : 425996
+sem member     : 155
+ref count      : 1
+----------------- PMEServiceConfig              -----------
+semid          : 491534
+sem member     : 242
+ref count      : 1
+alias name: a:Bios1010201, object name: Bios
+alias name: a:SmBios1010202, object name: SmBios
+===========================has object===========================
+pca9545_chan1-e, i2c1_Riser3_pca9545_chip, ssdChip-203, i2c_1, reset_i2c6_pca9545, gpio64_bus, i2c_4, i2c_5, i2c_6, pca9545_chip-8, gpio63_bus, pca9545_chip-9, reset_pca9545-e, pca9545_chan2-2, gpio62_bus, gpio139, RiserCard9555-e, reset_i2c4_pca9545, reset_i2c5_pca9545, RaidChip-1, gpio139_bus, pca9545_chip0-2, Bbu9555, VirtualSSDModelChip-204, i2c4_pca9545_chip, CpldLoad, gpio57_bus, TempChip-201, fantech0, VirtualSSDChip-201, EepromChip-1, EepromChip-2, Hi1710IBus, pca9545_chan4-2, TempChip-203, VirtualSSDChip-202, gpio102, EepromChip-8, EepromChip-9, TempChip-204, VirtualSSDChip-203, OutletTemp_category_chip, gpio102_bus, riser2_pca9545_chip, Riser3Card9555, fantech0_bus, Hi1822Chip-e01, TempChip-202, reset_i2c1_pca9545, CpldValidate, gpio57, CpldUpgrdChip-1, pca9545_chip-e, FirmwarePCIeChip-202, riser1_pca9545_chip, adc_bus_0, RaidCpldChip-1, FirmwarePCIeChip-201, Riser1Card9555, Riser2Card9555, FirmwarePCIeChip-204, 4NVME_accessor, pca9545_chan2-e, pca9555_nic_chip-3, pca9545_chan1-2, adc_volt_chip, VirtualSSDChip-204, FirmwarePCIeChip-203, eeprom0, pca9545_chan1-8, pca9545_chan1-9, RiserCard9555-9, Hi1710, PciePCA9555-e01, rear9545_chan, i2c1_pca9545_chip, gpio62, gpio63, gpio64, ssdChip-202, ssdChip-201, Serdes2Lom9555, reset_pca9545-8, reset_pca9545-9, gpio123_bus, RearBackplanePca9555, pca9545_chan3-2, InletTemp_category_chip, clock_chip, Serdes1Lom9555, ssdChip-204, CpldValidateChip, pca9555_raid_chip-1, gpio73_bus, gpio121_bus, localbus1, cpld1, gpio121, gpio72_bus, pca9545_chan1, gpio123, pca9545_chan3, pca9545_chan4, pca9545_chan2, CmosAccessor, NetCardEeprom-e01, Raid9555, gpio72, gpio73, RiserCard9555-8, eeprom0-3, FrontBackplanePca9555, InnerBackplanePca9555, VirtualSSDModelChip-201, CpldUpgradeChip, VirtualSSDModelChip-203, VirtualSSDModelChip-202, 
+=====================method info=============================
+key=Bios.SetBiosBootModeSw, func=0x208bc
+input para list:
+y output para list:
+
+key=Bios.GetBootOrder, func=0x20d58
+input para list:
+output para list:
+ay 
+key=Bios.SetBiosDynamicConfig, func=0x2343c
+input para list:
+y ay output para list:
+ay 
+key=Bios.SetSystemStartupState, func=0x217b8
+input para list:
+y output para list:
+
+key=SmBios.SetFamily, func=0x21560
+input para list:
+s output para list:
+
+key=Bios.SetBiosBootMode, func=0x20a18
+input para list:
+y output para list:
+
+key=Bios.ClearSMBIOS, func=0x157f4
+input para list:
+output para list:
+
+key=Bios.SetBiosBootModeSwEnable, func=0x207c4
+input para list:
+y output para list:
+
+key=Bios.GetBIOSConfig, func=0x1def0
+input para list:
+s output para list:
+
+key=Bios.SetBIOSJsonFile, func=0x21c90
+input para list:
+s s output para list:
+* 
+key=Bios.SetBIOSConfig, func=0x1ec24
+input para list:
+s output para list:
+s 
+key=Bios.ResetBIOS, func=0x223dc
+input para list:
+output para list:
+
+key=SmBios.SetVersion, func=0x210a8
+input para list:
+s output para list:
+
+key=Bios.SetBootOrder, func=0x1fea4
+input para list:
+ay output para list:
+
+key=Bios.SetStartOptionFlag, func=0x15884
+input para list:
+y output para list:
+
+key=Bios.SetBiosPrintFlag, func=0x15d60
+input para list:
+y output para list:
+
+key=Bios.GetBIOSJsonFile, func=0x21978
+input para list:
+s output para list:
+s 
+key=Bios.RevokeBiosSetting, func=0x22490
+input para list:
+output para list:
+
+key=Bios.ClearCmos, func=0x15720
+input para list:
+output para list:
+
+key=Bios.SetBiosEnergySavingEnable, func=0x23be0
+input para list:
+y output para list:
+
+key=Bios.GetClpResponse, func=0x32530
+input para list:
+q s s output para list:
+s 
+key=Bios.SetStartOption, func=0x15af4
+input para list:
+y output para list:
+
+key=Bios.NotifyPCIeInfo, func=0x21934
+input para list:
+aq output para list:
+
+key=Bios.SetClpConfig, func=0x33210
+input para list:
+q s s y output para list:
+s 
+key=Bios.SetStartOptionFlagExt, func=0x15a58
+input para list:
+y output para list:
+
+key=SmBios.SetSKUNumber, func=0x21308
+input para list:
+s output para list:
+
+key=BIOS.deconnect_to_cli, func=0xb6d21608
+input para list:
+s output para list:
+
+key=BIOS.connect_to_cli, func=0xb6d21afc
+input para list:
+s s output para list:
+
+key=BIOS.save_dlog_cfg, func=0xb6d21124
+input para list:
+output para list:
+
+key=BIOS.dlog_outlvl, func=0xb6d2128c
+input para list:
+s output para list:
+
+key=BIOS.dlog_outype, func=0xb6d21da8
+input para list:
+s output para list:
+
+key=BIOS.set_trace_cfg, func=0xb6d209e0
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=557072
+key=<Payload.ResetFlag, handler=0x1dbd8, state=1
+key=<Payload.ChassisPowerState, handler=0x1dbd8, state=1
+key=<Payload.SysResetFlag, handler=0x1dbd8, state=1
+key=<Payload.RestartValue, handler=0x1daec, state=1
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50017
+my ipc id=557072
+sync sem4 id=917531
+module id=18
+=============================client end==========================
+=====================class info============================
+--------------------- Wave                -----------------
+--------------------- Eeprom              -----------------
+--------------------- Fantech             -----------------
+--------------------- Anchor              -----------------
+--------------------- LocalBusMmap        -----------------
+--------------------- PMEServiceConfig    -----------------
+--------------------- Chip                -----------------
+--------------------- Gpio                -----------------
+--------------------- BMC                 -----------------
+listened       : HostName: 229382, 131075, 
+--------------------- Bus                 -----------------
+--------------------- AdcBus              -----------------
+--------------------- I2c                 -----------------
+--------------------- Accessor            -----------------
+--------------------- OscaPort            -----------------
+--------------------- Pca9545             -----------------
+--------------------- Bios                -----------------
+listened       : PcieCardBDF: 327689, 
+               : PcieDiskBDF: 327689, 
+               : MenuChangeFlag: 327689, 
+               : BiosBootStage: 327689, 
+               : StartOption: 688148, 
+--------------------- Pca9555             -----------------
+--------------------- PRODUCT             -----------------
+--------------------- Expression          -----------------
+listened       : Value: 131075, 
+--------------------- SmBios              -----------------
+listened       : FileChange: 98306, 
+               : SmBiosStatus: 327689, 753686, 655379, 
+--------------------- Jtag                -----------------
+--------------------- InnerBus            -----------------
+--------------------- Log                 -----------------
+--------------------- Payload             -----------------
+listened       : SysResetFlag: 65537, 98306, 131075, 491534, 327689, 720917, 589841, 557072, 655379, 688148, 
+               : ResetFlag: 65537, 98306, 491534, 327689, 557072, 655379, 131075, 
+               : ChassisPowerState: 98306, 229382, 131075, 491534, 327689, 589841, 557072, 655379, 688148, 
+               : AcpiStatus: 229382, 
+               : BoardStableStatus: 360458, 
+               : RestartValue: 557072, 131075, 
+               : AcpiValue: 131075, 
+               : PwrOkSigDrop: 131075, 
+               : PwrButtonFlag: 131075, 
+               : PowerGd: 32768, 

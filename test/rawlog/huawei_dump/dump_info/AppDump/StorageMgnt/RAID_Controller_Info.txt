@@ -1,0 +1,270 @@
+Current SmBiosStatus = 3
+==============================
+Current BiosBootStage = 1
+==============================
+RAID Controller #0 Information
+==============================
+Controller Name                               : SAS3508
+Controller Type                               : LSI SAS3508
+Component Name                                : RAID Card1
+Support Out-of-Band Management                : Yes
+Controller Mode                               : Non-RAID
+Controller Health                             : Normal
+Firmware Version                              : 5.060.00-2262
+NVDATA Version                                : 5.0600.03-0013
+Memory Size                                   : 2048 MB
+Device Interface                              : SAS_12G
+SAS Address                                   : 59c741a63b93e000
+Minimum Strip Size Supported                  : 64 KB
+Maximum Strip Size Supported                  : 1 MB
+Controller Cache Is Pinned                    : No
+Maintain PD Fail History across Reboot        : Yes
+Copyback Enabled                              : Yes
+Copyback Enabled on SMART error               : Yes
+JBOD Enabled                                  : No
+DDR ECC Count                                 : 0
+
+BBU Status                                    : Present
+BBU Type                                      : CVPM05
+BBU Health                                    : Normal
+
+PHY Status                                    : 
+	PHY #0 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #1 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #2 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #3 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #4 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #5 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #6 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #7 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+
+Logical Drive Information
+-------------------------
+Not Found Logical Drive.
+
+
+Disk Array Information
+--------------------------
+Not Found Disk Array.
+Physical Drives Information
+--------------------------
+ID                                       : 0
+Device Name                              : Disk0
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0M516789
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7304Q
+Health Status                            : Normal
+Firmware State                           : UNCONFIGURED GOOD
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 6.0 Gbps
+Drive Temperature                        : 25
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : 3799
+SAS Address(0)                           : 39c741a63b93e001
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 0
+
+
+
+ID                                       : 1
+Device Name                              : Disk1
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0M516794
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7304Q
+Health Status                            : Normal
+Firmware State                           : UNCONFIGURED GOOD
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 6.0 Gbps
+Drive Temperature                        : 25
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : 3799
+SAS Address(0)                           : 39c741a63b93e003
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 0
+
+
+
+ID                                       : 8
+Device Name                              : Disk8
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000261
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 29
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 9
+Device Name                              : Disk9
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000240
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 30
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 10
+Device Name                              : Disk10
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000006
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 31
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+
+ID                                       : 11
+Device Name                              : Disk11
+Manufacturer                             : Huawei
+Serial Number                            : 033FWH10K7000181
+Model                                    : HWE52P434T0L005N
+Firmware Version                         : 3220    
+Health Status                            : Normal
+Firmware State                           : N/A
+Power State                              : N/A
+Media Type                               : SSD
+Interface Type                           : PCIe
+Capable Speed                            : 32.0 Gbps
+Negotiated Speed                         : N/A
+Drive Temperature                        : 31
+Capacity                                 : N/A
+Hot Spare                                : N/A
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 100%
+Power-On Hours                           : N/A
+SAS Address(0)                           : N/A
+SAS Address(1)                           : N/A
+Location State                           : Off
+
+Media Error Count                        : N/A
+Prefail Error Count                      : N/A
+Other Error Count                        : N/A
+
+
+

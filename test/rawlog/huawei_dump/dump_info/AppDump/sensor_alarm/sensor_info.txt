@@ -1,0 +1,188 @@
+sensor id  | sensor name      | value      | unit         | status | lnr        | lc         | lnc        | unc      | uc         | unr        | phys   | nhys  
+0x1        | Inlet Temp       | 20.000     | degrees C    | ok     | na         | na         | na         | 46.000   | 48.000     | na         | 2.000  | 2.000 
+0x2        | Outlet Temp      | 35.000     | degrees C    | ok     | na         | na         | na         | 75.000   | na         | na         | 2.000  | 2.000 
+0x4        | CPU1 Core Rem    | 41.000     | degrees C    | ok     | na         | na         | na         | 105.000  | na         | na         | 0.000  | 0.000 
+0x5        | CPU2 Core Rem    | 43.000     | degrees C    | ok     | na         | na         | na         | 105.000  | na         | na         | 0.000  | 0.000 
+0xe        | CPU1 MEM Temp    | 34.000     | degrees C    | ok     | na         | na         | na         | 95.000   | na         | na         | 2.000  | 2.000 
+0xf        | CPU2 MEM Temp    | 36.000     | degrees C    | ok     | na         | na         | na         | 95.000   | na         | na         | 2.000  | 2.000 
+0x25       | Power            | 402.000    | Watts        | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x3        | Disks Temp       | 25.000     | degrees C    | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x6        | NIC OM Temp      | 0.000      | degrees C    | ok     | na         | na         | na         | 75.000   | na         | na         | 2.000  | 2.000 
+0x7        | RAID Temp        | 57.000     | degrees C    | ok     | na         | na         | na         | 105.000  | na         | na         | 2.000  | 2.000 
+0x9        | Raid BBU Temp    | 22.000     | degrees C    | ok     | na         | na         | na         | 65.000   | na         | na         | 2.000  | 2.000 
+0xa        | NIC1 Temp        | 37.000     | degrees C    | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x21       | Power1           | 186.000    | Watts        | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0xb        | PS1 VIN          | 216.000    | Volts        | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0xc        | PS1 Inlet Temp   | 34.000     | degrees C    | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x22       | Power2           | 216.000    | Watts        | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0xd        | PS2 VIN          | 216.000    | Volts        | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x10       | PS2 Inlet Temp   | 30.000     | degrees C    | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x11       | SYS 12V_2        | 12.120     | Volts        | ok     | na         | 10.800     | na         | na       | 13.200     | na         | 0.480  | 0.480 
+0x13       | SYS 12V_3        | 12.120     | Volts        | ok     | na         | 10.800     | na         | na       | 13.200     | na         | 0.480  | 0.480 
+0x14       | SYS 12V_4        | 12.060     | Volts        | ok     | na         | 10.800     | na         | na       | 13.200     | na         | 0.480  | 0.480 
+0x15       | SYS 12V_5        | 12.060     | Volts        | ok     | na         | 10.800     | na         | na       | 13.200     | na         | 0.480  | 0.480 
+0x16       | SYS 12V_6        | 12.180     | Volts        | ok     | na         | 10.800     | na         | na       | 13.200     | na         | 0.480  | 0.480 
+0x17       | CPU1 VDDQ_AB     | 1.220      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x18       | CPU1 VDDQ_CD     | 1.220      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x23       | CPU2 VDDQ_AB     | 1.220      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x24       | CPU2 VDDQ_CD     | 1.220      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x26       | CPU1 VDDQ Temp   | 32.000     | degrees C    | ok     | na         | na         | na         | 120.000  | na         | na         | 2.000  | 2.000 
+0x27       | CPU2 VDDQ Temp   | 31.000     | degrees C    | ok     | na         | na         | na         | 120.000  | na         | na         | 2.000  | 2.000 
+0x28       | CPU1 VRD Temp    | 32.000     | degrees C    | ok     | na         | na         | na         | 120.000  | na         | na         | 2.000  | 2.000 
+0x29       | CPU2 VRD Temp    | 31.000     | degrees C    | ok     | na         | na         | na         | 120.000  | na         | na         | 2.000  | 2.000 
+0x2a       | CPU1 VDDAVS      | 0.890      | Volts        | ok     | na         | 0.730      | na         | na       | 0.990      | na         | 0.020  | 0.020 
+0x2b       | CPU2 VDDAVS      | 0.910      | Volts        | ok     | na         | 0.730      | na         | na       | 0.990      | na         | 0.020  | 0.020 
+0x2c       | CPU1 HVCC        | 1.190      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x2d       | CPU2 HVCC        | 1.190      | Volts        | ok     | na         | 1.080      | na         | na       | 1.320      | na         | 0.020  | 0.020 
+0x2e       | CPU1 N_VDDAVS    | 0.850      | Volts        | ok     | na         | 0.770      | na         | na       | 0.940      | na         | 0.020  | 0.020 
+0x2f       | CPU2 N_VDDAVS    | 0.850      | Volts        | ok     | na         | 0.770      | na         | na       | 0.940      | na         | 0.020  | 0.020 
+0x30       | CPU1 VDDFIX      | 0.790      | Volts        | ok     | na         | 0.720      | na         | na       | 0.880      | na         | 0.020  | 0.020 
+0x31       | CPU2 VDDFIX      | 0.790      | Volts        | ok     | na         | 0.720      | na         | na       | 0.880      | na         | 0.020  | 0.020 
+0x19       | FAN1 Speed       | 5175.000   | RPM          | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x1b       | FAN2 Speed       | 5100.000   | RPM          | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x1d       | FAN3 Speed       | 5100.000   | RPM          | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x1f       | FAN4 Speed       | 5175.000   | RPM          | ok     | na         | na         | na         | na       | na         | na         | 0.000  | 0.000 
+0x9e       | PCIe NIC7 Temp   | 58.000     | degrees C    | ok     | na         | na         | na         | 105.000  | na         | na         | 2.000  | 2.000 
+0x9f       | PCIe7 OP Temp    | 41.000     | degrees C    | ok     | na         | na         | na         | 75.000   | na         | na         | 2.000  | 2.000 
+0xa0       | V_1822_3.3V      | 3.300      | Volts        | ok     | na         | 3.140      | na         | na       | 3.460      | na         | 0.040  | 0.040 
+0xa1       | V_1822_1.2V      | 1.180      | Volts        | ok     | na         | 1.140      | na         | na       | 1.260      | na         | 0.020  | 0.020 
+0xa2       | V_1822_1.8V      | 1.780      | Volts        | ok     | na         | 1.710      | na         | na       | 1.890      | na         | 0.020  | 0.020 
+0xa3       | V_1822_0.8V      | 0.790      | Volts        | ok     | na         | 0.760      | na         | na       | 0.840      | na         | 0.020  | 0.020 
+0xa4       | SSD Disk8 Temp   | 29.000     | degrees C    | ok     | na         | na         | na         | 85.000   | na         | na         | 2.000  | 2.000 
+0xa5       | SSD Disk9 Temp   | 30.000     | degrees C    | ok     | na         | na         | na         | 85.000   | na         | na         | 2.000  | 2.000 
+0xa6       | SSD Disk10 Temp  | 31.000     | degrees C    | ok     | na         | na         | na         | 85.000   | na         | na         | 2.000  | 2.000 
+0xa7       | SSD Disk11 Temp  | 31.000     | degrees C    | ok     | na         | na         | na         | 85.000   | na         | na         | 2.000  | 2.000 
+0x32       | System Notice    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x33       | System Error     | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x34       | CPU1 Status      | 0x0        | discrete     | 0x8080 | na         | na         | na         | na       | na         | na         | na     | na    
+0x35       | CPU2 Status      | 0x0        | discrete     | 0x8080 | na         | na         | na         | na       | na         | na         | na     | na    
+0x36       | CPU1 Memory      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x37       | CPU2 Memory      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x38       | DIMM000          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x39       | DIMM001          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3a       | DIMM010          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3b       | DIMM011          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3c       | DIMM020          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3d       | DIMM021          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3e       | DIMM030          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x3f       | DIMM031          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x40       | DIMM040          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x41       | DIMM041          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x42       | DIMM050          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x43       | DIMM051          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x44       | DIMM060          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x45       | DIMM061          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x46       | DIMM070          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x47       | DIMM071          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x48       | DIMM100          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x49       | DIMM101          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4a       | DIMM110          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4b       | DIMM111          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4c       | DIMM120          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4d       | DIMM121          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4e       | DIMM130          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x4f       | DIMM131          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x50       | DIMM140          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x51       | DIMM141          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x52       | DIMM150          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x53       | DIMM151          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x54       | DIMM160          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x55       | DIMM161          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x56       | DIMM170          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x57       | DIMM171          | 0x0        | discrete     | 0x8040 | na         | na         | na         | na       | na         | na         | na     | na    
+0x58       | PCIE Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x59       | ACPI State       | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5a       | SysFWProgress    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5b       | Power Button     | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5c       | SysRestart       | 0x0        | discrete     | 0x8080 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8        | Boot Error       | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5d       | Watchdog2        | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5e       | Mngmnt Health    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x5f       | UID Button       | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x60       | PwrOk Sig. Drop  | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x61       | PwrOn TimeOut    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x62       | HDD Backplane    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x63       | HDD BP Status    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x64       | Riser1 Card      | 0x0        | discrete     | 0x8002 | na         | na         | na         | na       | na         | na         | na     | na    
+0x65       | Riser2 Card      | 0x0        | discrete     | 0x8002 | na         | na         | na         | na       | na         | na         | na     | na    
+0x66       | Riser3 Card      | 0x0        | discrete     | 0x8002 | na         | na         | na         | na       | na         | na         | na     | na    
+0x67       | SAS Cable        | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x68       | RAID Presence    | 0x0        | discrete     | 0x8002 | na         | na         | na         | na       | na         | na         | na     | na    
+0x69       | PS Redundancy    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6a       | BMC Boot Up      | 0x0        | discrete     | 0x8002 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6b       | BMC Time Hopping | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6c       | NTP Sync Failed  | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6d       | SEL Status       | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6e       | Op. Log Full     | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x6f       | Sec. Log Full    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x70       | Host Loss        | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x71       | Cert OverDue     | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x72       | RTC Time         | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x73       | RAID Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x74       | RAID PCIE ERR    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x75       | RAID Card BBU    | 0x0        | discrete     | 0x8004 | na         | na         | na         | na       | na         | na         | na     | na    
+0x76       | DISK0            | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x77       | DISK1            | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x78       | DISK2            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x79       | DISK3            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7a       | DISK4            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7b       | DISK5            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7c       | DISK6            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7d       | DISK7            | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7e       | DISK8            | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x7f       | DISK9            | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x80       | DISK10           | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x81       | DISK11           | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x82       | DISK12           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x83       | DISK13           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x84       | DISK14           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x85       | DISK15           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x86       | DISK16           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x87       | DISK17           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x88       | DISK18           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x89       | DISK19           | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8a       | Board Mismatch   | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8b       | NIC1-1 Link Down | 0x0        | discrete     | 0x8100 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8c       | NIC1-2 Link Down | 0x0        | discrete     | 0x8100 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8d       | NIC1-3 Link Down | 0x0        | discrete     | 0x8100 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8e       | NIC1-4 Link Down | 0x0        | discrete     | 0x8100 | na         | na         | na         | na       | na         | na         | na     | na    
+0x8f       | PS1 Status       | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x90       | PS1 Fan Status   | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x91       | PS1 Temp Status  | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x92       | PS2 Status       | 0x0        | discrete     | 0x8001 | na         | na         | na         | na       | na         | na         | na     | na    
+0x93       | PS2 Fan Status   | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x94       | PS2 Temp Status  | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x95       | RTC Battery      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x96       | FAN1 Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x97       | FAN2 Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x98       | FAN3 Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x99       | FAN4 Status      | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x9a       | FAN1 Presence    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x9b       | FAN2 Presence    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x9c       | FAN3 Presence    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+0x9d       | FAN4 Presence    | 0x0        | discrete     | 0x8000 | na         | na         | na         | na       | na         | na         | na     | na    
+
+********** Detailed Voltage Object Information **********
+name                             | value     
+rtc_volt_monitor                 | 205       
+vcc_12v0_monitor                 | 202       
+vcc_12v0_monitor2                | 202       
+vcc_12v0_monitor3                | 201       
+vcc_12v0_monitor4                | 201       
+vcc_12v0_monitor5                | 203       
+cpu1mem012_volt_monitor          | 122       
+cpu1mem345_volt_monitor          | 122       
+cpu2mem012_volt_monitor          | 122       
+cpu2mem345_volt_monitor          | 122       
+cpu1_vsa_volt_monitor            | 89        
+cpu1_navs_volt_monitor           | 85        
+cpu2_vsa_volt_monitor            | 91        
+cpu2_navs_volt_monitor           | 85        
+cpu1_vddfix_volt_monitor         | 79        
+cpu2_vddfix_volt_monitor         | 79        
+cpu1_vccio_volt_monitor          | 119       
+cpu2_vccio_volt_monitor          | 119       
+ex_3v3_mon-e01                   | 165       
+ex_1v2_mon-e01                   | 118       
+ex_1v8_mon-e01                   | 178       
+ex_0v8_mon-e01                   | 79        

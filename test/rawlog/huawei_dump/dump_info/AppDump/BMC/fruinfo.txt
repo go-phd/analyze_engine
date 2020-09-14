@@ -1,0 +1,73 @@
+FRU Device Description : Builtin FRU Device (ID 0, Mainboard)
+ Chassis Type          : Unspecified
+ Board Mfg. Date       : 2019/07/24 Wed 22:52:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC82AMDD
+ Board Serial Number   : 026HRF10K7001601
+ Board Part Number     : 03026HRF
+ Board FRU File ID     : 3.55
+ Extend label          : Description=Function Module,TaiShan 2280 V2,TaiShan 2280 V2-ACMC,TaiShan 2280 V2(8SAS+12NVME HDD Chassis,2*Kunpeng 920,64 Core@2.6GHz)TaiShan 2280 V2
+                         IssueNumber=00
+                         CLEICode=Null
+                         BOM=Null
+ Product Manufacturer  : Huawei
+ Product Name          : TaiShan 2280 V2-ACMC
+ Product Part Number   : 02312QLQ
+ Product Serial Number : 2102312QLQ10K7000044
+ Product FRU File ID   : 3.55
+
+FRU Device Description : Builtin FRU Device (ID 1, SR450C-M 2G)
+ Board Mfg. Date       : 2019/07/16 Tue 21:39:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC11RLCB01
+ Board Serial Number   : 033EFT10K7002571
+ Board FRU File ID     : 3.12
+ Product Manufacturer  : Huawei
+ Product Name          : SR450C-M 2G
+ Product FRU File ID   : 3.12
+
+FRU Device Description : Builtin FRU Device (ID 2, Disk BP1)
+ Board Mfg. Date       : 2019/07/18 Thu 14:05:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC11THBS
+ Board Serial Number   : 025EUL10K5000245
+ Board FRU File ID     : 3.08
+ Product Manufacturer  : Huawei
+ Product FRU File ID   : 3.08
+
+FRU Device Description : Builtin FRU Device (ID 3, NIC 1 (TM210))
+ Board Mfg. Date       : 2019/07/21 Sun 09:33:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC82NICB
+ Board Serial Number   : 025VYQ10K7003690
+ Board FRU File ID     : 3.50
+ Product Manufacturer  : Huawei
+ Product FRU File ID   : 3.50
+
+FRU Device Description : Builtin FRU Device (ID 7, Riser Card1)
+ Board Mfg. Date       : 2019/07/02 Tue 07:05:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC82PRUD
+ Board Serial Number   : 025VYN10K6000276
+ Board FRU File ID     : 3.48
+ Product Manufacturer  : Huawei
+ Product FRU File ID   : 3.48
+
+FRU Device Description : Builtin FRU Device (ID 8, Riser Card2)
+ Board Mfg. Date       : 2019/07/02 Tue 07:22:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC82PRUD
+ Board Serial Number   : 025VYN10K6000145
+ Board FRU File ID     : 3.48
+ Product Manufacturer  : Huawei
+ Product FRU File ID   : 3.48
+
+FRU Device Description : Builtin FRU Device (ID 29, SP580)
+ Board Mfg. Date       : 2019/07/23 Tue 12:13:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC82ETHA
+ Board Serial Number   : 025WCN10K7002099
+ Board FRU File ID     : 3.50
+ Product Manufacturer  : Huawei
+ Product FRU File ID   : 3.50
+

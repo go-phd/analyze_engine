@@ -1,0 +1,4259 @@
+
+[Hardware Error Log Number]: 1    Time: 2019-07-30 07:03:48 GMT
+Collect: IMU(INT)    Serial Number: 23    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 2    Time: 2019-07-30 07:03:50 GMT
+Collect: IMU(INT)    Serial Number: 24    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 3    Time: 2019-07-30 07:49:47 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 4    Time: 2019-07-30 07:49:47 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 1    Time: 2019-07-31 03:49:57 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 2    Time: 2019-07-31 03:49:57 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 3    Time: 2019-07-31 18:42:38 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 4    Time: 2019-07-31 18:42:39 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 1    Time: 2019-08-02 04:26:35 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 2    Time: 2019-08-02 04:26:35 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 3    Time: 2019-08-02 05:31:27 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 4    Time: 2019-08-02 05:31:28 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 5    Time: 2019-12-06 05:44:41 GMT
+Collect: IMU(INT)    Serial Number: 191    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Bit(28) CE ;  Error Way:3, Error Index:4096.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X000080009000D000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 6    Time: 2019-12-06 05:53:22 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 7    Time: 2019-12-06 05:53:25 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 8    Time: 2019-12-06 06:03:15 GMT
+Collect: IMU(INT)    Serial Number: 76    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 9    Time: 2019-12-06 06:03:17 GMT
+Collect: IMU(INT)    Serial Number: 78    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 10    Time: 2019-12-06 06:14:09 GMT
+Collect: IMU(INT)    Serial Number: 160    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 11    Time: 2019-12-06 06:14:11 GMT
+Collect: IMU(INT)    Serial Number: 161    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 12    Time: 2019-12-06 06:27:26 GMT
+Collect: IMU(INT)    Serial Number: 5    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 13    Time: 2019-12-06 06:27:28 GMT
+Collect: IMU(INT)    Serial Number: 6    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 14    Time: 2019-12-06 06:38:35 GMT
+Collect: IMU(INT)    Serial Number: 91    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 15    Time: 2019-12-06 06:38:37 GMT
+Collect: IMU(INT)    Serial Number: 92    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 16    Time: 2019-12-06 07:39:29 GMT
+Collect: IMU(INT)    Serial Number: 36    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 17    Time: 2019-12-06 07:39:40 GMT
+Collect: IMU(INT)    Serial Number: 39    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 18    Time: 2019-12-06 07:40:22 GMT
+Collect: IMU(INT)    Serial Number: 45    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 19    Time: 2019-12-06 07:49:46 GMT
+Collect: IMU(INT)    Serial Number: 116    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 20    Time: 2019-12-06 07:49:48 GMT
+Collect: IMU(INT)    Serial Number: 117    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 21    Time: 2019-12-06 08:06:51 GMT
+Collect: IMU(INT)    Serial Number: 246    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 22    Time: 2019-12-06 08:06:56 GMT
+Collect: IMU(INT)    Serial Number: 247    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 23    Time: 2019-12-06 08:19:09 GMT
+Collect: IMU(INT)    Serial Number: 84    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 24    Time: 2019-12-06 08:19:11 GMT
+Collect: IMU(INT)    Serial Number: 85    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 25    Time: 2019-12-06 09:04:33 GMT
+Collect: IMU(INT)    Serial Number: 169    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Error Way:0, Error Index:0.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 26    Time: 2019-12-06 09:15:56 GMT
+Collect: BMC(IMU)    IMU Collect Number: 1    Error Number: 1/1    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemB    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Signaled or Recoverable error (UER)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(28)ErrReport    
+Arer_Address: 0X3FC959E8 [DDR physical address]
+MISC0: CE Counter: 32668; Bit(21) L1 DTag Multi Hit Error ;  Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Bit(29) UE ;  Error Way:1, Error Index:6632.
+MISC1: Bit(60) MISC1 Has Record an Error;  Bit(59) The Error Type is SEA;  Physical Address:0x3fc959e8.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000F6300007
+ERR_ADDR: 0X000000003FC959E8
+ERR_MISC0: 0X00007F9C202059E8
+ERR_MISC1: 0X100000003FC959E8
+
+[Hardware Error Log Number]: 27    Time: 2019-12-06 10:21:37 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 28    Time: 2019-12-06 10:21:37 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 30    Time: 2019-12-10 03:28:35 GMT
+Collect: IMU(INT)    Serial Number: 46    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X0 [DIMM010](Rank 0, BankGroup 0, Bank 0, Column 0, Row 0)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 30    Time: 2019-12-10 03:28:35 GMT
+Collect: IMU(INT)    Serial Number: 47    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X0 [DIMM030](Rank 0, BankGroup 0, Bank 0, Column 0, Row 0)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 32    Time: 2019-12-10 03:28:35 GMT
+Collect: IMU(INT)    Serial Number: 48    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X281700000000 [DIMM011](Rank 5, BankGroup 0, Bank 1, Column 0, Row 114688)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000281700000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 32    Time: 2019-12-10 03:28:35 GMT
+Collect: IMU(INT)    Serial Number: 48    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X286600000000 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000286600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 33    Time: 2019-12-10 03:28:36 GMT
+Collect: IMU(INT)    Serial Number: 50    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2866C43C03C0 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 960, Row 110863)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002866C43C03C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 34    Time: 2019-12-10 03:28:36 GMT
+Collect: IMU(INT)    Serial Number: 51    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2866C43C03C0 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 960, Row 110863)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002866C43C03C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 35    Time: 2019-12-10 03:28:37 GMT
+Collect: IMU(INT)    Serial Number: 52    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2876634400E0 [DIMM011](Rank 5, BankGroup 1, Bank 3, Column 224, Row 104657)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002876634400E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 36    Time: 2019-12-10 03:28:37 GMT
+Collect: IMU(INT)    Serial Number: 53    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2876A13C02E0 [DIMM011](Rank 5, BankGroup 1, Bank 3, Column 736, Row 108623)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002876A13C02E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 37    Time: 2019-12-10 03:28:39 GMT
+Collect: IMU(INT)    Serial Number: 54    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X0 [DIMM070](Rank 0, BankGroup 0, Bank 0, Column 0, Row 0)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 38    Time: 2019-12-10 03:28:39 GMT
+Collect: IMU(INT)    Serial Number: 55    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X205600000000 [DIMM071](Rank 4, BankGroup 1, Bank 1, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000205600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 41    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 173    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X28D6A13C02E0 [DIMM011](Rank 5, BankGroup 3, Bank 1, Column 736, Row 108623)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000028D6A13C02E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 41    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 174    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2866C43C03C0 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 960, Row 110863)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002866C43C03C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 41    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 174    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X0 [DIMM050](Rank 0, BankGroup 0, Bank 0, Column 0, Row 0)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 44    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 176    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X28D6BDE40220 [DIMM011](Rank 5, BankGroup 3, Bank 1, Column 544, Row 110457)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000028D6BDE40220
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 44    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 176    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2876C43C03C0 [DIMM031](Rank 5, BankGroup 1, Bank 3, Column 960, Row 110863)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002876C43C03C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 44    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 176    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X286600000000 [DIMM051](Rank 5, BankGroup 1, Bank 2, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000286600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 45    Time: 2019-12-11 03:07:41 GMT
+Collect: IMU(INT)    Serial Number: 178    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2876D7740240 [DIMM031](Rank 5, BankGroup 1, Bank 3, Column 576, Row 112093)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002876D7740240
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 47    Time: 2019-12-11 03:07:42 GMT
+Collect: IMU(INT)    Serial Number: 180    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2876D7740240 [DIMM031](Rank 5, BankGroup 1, Bank 3, Column 576, Row 112093)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002876D7740240
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 47    Time: 2019-12-11 03:07:42 GMT
+Collect: IMU(INT)    Serial Number: 180    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2096D5A40260 [DIMM051](Rank 4, BankGroup 2, Bank 1, Column 608, Row 111977)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002096D5A40260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 49    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 182    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2096DA7C0020 [DIMM051](Rank 4, BankGroup 2, Bank 1, Column 32, Row 112287)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002096DA7C0020
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 49    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 183    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X28F7D7740240 [DIMM031](Rank 5, BankGroup 3, Bank 3, Column 576, Row 128477)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000028F7D7740240
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 51    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 184    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2847DA7C0020 [DIMM051](Rank 5, BankGroup 1, Bank 0, Column 32, Row 128671)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002847DA7C0020
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 51    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 184    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X28F779F40340 [DIMM031](Rank 5, BankGroup 3, Bank 3, Column 832, Row 122493)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000028F779F40340
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 54    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 187    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2066F0940200 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 512, Row 113701)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002066F0940200
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 54    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 188    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X28F779F40340 [DIMM031](Rank 5, BankGroup 3, Bank 3, Column 832, Row 122493)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000028F779F40340
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 54    Time: 2019-12-11 03:07:43 GMT
+Collect: IMU(INT)    Serial Number: 188    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2847057C0260 [DIMM051](Rank 5, BankGroup 1, Bank 0, Column 608, Row 115039)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002847057C0260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 57    Time: 2019-12-11 03:07:45 GMT
+Collect: IMU(INT)    Serial Number: 190    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2066C7E402C0 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 704, Row 111097)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002066C7E402C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 57    Time: 2019-12-11 03:07:45 GMT
+Collect: IMU(INT)    Serial Number: 190    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X28F779F40340 [DIMM031](Rank 5, BankGroup 3, Bank 3, Column 832, Row 122493)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000028F779F40340
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 57    Time: 2019-12-11 03:07:45 GMT
+Collect: IMU(INT)    Serial Number: 190    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2847057C0260 [DIMM051](Rank 5, BankGroup 1, Bank 0, Column 608, Row 115039)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002847057C0260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 59    Time: 2019-12-11 03:44:18 GMT
+Collect: IMU(INT)    Serial Number: 209    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2847057C0260 [DIMM051](Rank 5, BankGroup 1, Bank 0, Column 608, Row 115039)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002847057C0260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 59    Time: 2019-12-11 03:44:18 GMT
+Collect: IMU(INT)    Serial Number: 210    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2066C7E402C0 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 704, Row 111097)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002066C7E402C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 61    Time: 2019-12-11 03:44:18 GMT
+Collect: IMU(INT)    Serial Number: 211    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X20F6057C0260 [DIMM051](Rank 4, BankGroup 3, Bank 3, Column 608, Row 98655)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000020F6057C0260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 61    Time: 2019-12-11 03:44:18 GMT
+Collect: IMU(INT)    Serial Number: 211    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X206623040280 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 640, Row 100545)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000206623040280
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 63    Time: 2019-12-11 03:44:19 GMT
+Collect: IMU(INT)    Serial Number: 213    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X20F69D240260 [DIMM051](Rank 4, BankGroup 3, Bank 3, Column 608, Row 108361)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000020F69D240260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 65    Time: 2019-12-11 03:44:19 GMT
+Collect: IMU(INT)    Serial Number: 214    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X206623040280 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 640, Row 100545)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000206623040280
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 65    Time: 2019-12-11 03:44:19 GMT
+Collect: IMU(INT)    Serial Number: 215    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X20F69D240260 [DIMM051](Rank 4, BankGroup 3, Bank 3, Column 608, Row 108361)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000020F69D240260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 65    Time: 2019-12-11 03:44:19 GMT
+Collect: IMU(INT)    Serial Number: 215    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X206623040280 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 640, Row 100545)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000206623040280
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 67    Time: 2019-12-11 03:51:56 GMT
+Collect: IMU(INT)    Serial Number: 17    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X206623040280 [DIMM071](Rank 4, BankGroup 1, Bank 2, Column 640, Row 100545)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000206623040280
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 67    Time: 2019-12-11 03:51:56 GMT
+Collect: IMU(INT)    Serial Number: 18    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X280523040280 [DIMM071](Rank 5, BankGroup 0, Bank 0, Column 640, Row 84161)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000280523040280
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 68    Time: 2019-12-11 03:53:59 GMT
+Collect: IMU(INT)    Serial Number: 34    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X20F69D240260 [DIMM051](Rank 4, BankGroup 3, Bank 3, Column 608, Row 108361)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000020F69D240260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 69    Time: 2019-12-11 03:53:59 GMT
+Collect: IMU(INT)    Serial Number: 35    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X28069D240260 [DIMM051](Rank 5, BankGroup 0, Bank 0, Column 608, Row 108361)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000028069D240260
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 70    Time: 2019-12-11 07:37:55 GMT
+Collect: IMU(INT)    Serial Number: 175    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X28F779F40340 [DIMM031](Rank 5, BankGroup 3, Bank 3, Column 832, Row 122493)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X000028F779F40340
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 71    Time: 2019-12-11 07:37:55 GMT
+Collect: IMU(INT)    Serial Number: 176    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X20C679F40340 [DIMM031](Rank 4, BankGroup 3, Bank 0, Column 832, Row 106109)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000020C679F40340
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 72    Time: 2019-12-11 07:41:55 GMT
+Collect: IMU(INT)    Serial Number: 207    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007C94C0300 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 768, Row 127571)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007C94C0300
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 73    Time: 2019-12-11 07:41:55 GMT
+Collect: IMU(INT)    Serial Number: 208    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 74    Time: 2019-12-11 07:43:09 GMT
+Collect: IMU(INT)    Serial Number: 218    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 75    Time: 2019-12-11 07:43:10 GMT
+Collect: IMU(INT)    Serial Number: 219    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 76    Time: 2019-12-11 07:45:00 GMT
+Collect: IMU(INT)    Serial Number: 234    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 77    Time: 2019-12-11 07:45:00 GMT
+Collect: IMU(INT)    Serial Number: 235    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 78    Time: 2019-12-11 07:46:30 GMT
+Collect: IMU(INT)    Serial Number: 247    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 79    Time: 2019-12-11 07:46:31 GMT
+Collect: IMU(INT)    Serial Number: 248    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 80    Time: 2019-12-11 07:51:11 GMT
+Collect: IMU(INT)    Serial Number: 28    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 81    Time: 2019-12-11 07:51:11 GMT
+Collect: IMU(INT)    Serial Number: 29    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 82    Time: 2019-12-11 08:04:01 GMT
+Collect: IMU(INT)    Serial Number: 126    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 83    Time: 2019-12-11 08:04:01 GMT
+Collect: IMU(INT)    Serial Number: 127    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 84    Time: 2019-12-11 08:07:38 GMT
+Collect: IMU(INT)    Serial Number: 155    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 85    Time: 2019-12-11 08:07:38 GMT
+Collect: IMU(INT)    Serial Number: 156    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 86    Time: 2019-12-11 08:10:49 GMT
+Collect: IMU(INT)    Serial Number: 181    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 87    Time: 2019-12-11 08:10:49 GMT
+Collect: IMU(INT)    Serial Number: 182    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 88    Time: 2019-12-11 08:11:00 GMT
+Collect: IMU(INT)    Serial Number: 185    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 89    Time: 2019-12-11 08:11:01 GMT
+Collect: IMU(INT)    Serial Number: 186    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 90    Time: 2019-12-11 08:11:05 GMT
+Collect: IMU(INT)    Serial Number: 187    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 91    Time: 2019-12-11 08:11:05 GMT
+Collect: IMU(INT)    Serial Number: 188    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 92    Time: 2019-12-11 08:14:41 GMT
+Collect: IMU(INT)    Serial Number: 216    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 93    Time: 2019-12-11 08:14:41 GMT
+Collect: IMU(INT)    Serial Number: 217    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 94    Time: 2019-12-11 08:14:52 GMT
+Collect: IMU(INT)    Serial Number: 219    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 95    Time: 2019-12-11 08:14:52 GMT
+Collect: IMU(INT)    Serial Number: 220    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 96    Time: 2019-12-11 08:14:54 GMT
+Collect: IMU(INT)    Serial Number: 222    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 97    Time: 2019-12-11 08:14:54 GMT
+Collect: IMU(INT)    Serial Number: 223    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 98    Time: 2019-12-11 08:15:04 GMT
+Collect: IMU(INT)    Serial Number: 225    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 99    Time: 2019-12-11 08:15:04 GMT
+Collect: IMU(INT)    Serial Number: 226    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 100    Time: 2019-12-11 08:16:25 GMT
+Collect: IMU(INT)    Serial Number: 237    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 101    Time: 2019-12-11 08:16:25 GMT
+Collect: IMU(INT)    Serial Number: 238    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 103    Time: 2019-12-11 08:17:09 GMT
+Collect: IMU(INT)    Serial Number: 244    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 103    Time: 2019-12-11 08:17:09 GMT
+Collect: IMU(INT)    Serial Number: 245    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 104    Time: 2019-12-11 08:18:07 GMT
+Collect: IMU(INT)    Serial Number: 254    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 105    Time: 2019-12-11 08:18:07 GMT
+Collect: IMU(INT)    Serial Number: 255    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 106    Time: 2019-12-11 08:19:24 GMT
+Collect: IMU(INT)    Serial Number: 9    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 107    Time: 2019-12-11 08:19:25 GMT
+Collect: IMU(INT)    Serial Number: 10    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 108    Time: 2019-12-11 08:22:44 GMT
+Collect: IMU(INT)    Serial Number: 36    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 109    Time: 2019-12-11 08:22:44 GMT
+Collect: IMU(INT)    Serial Number: 37    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 110    Time: 2019-12-11 08:23:05 GMT
+Collect: IMU(INT)    Serial Number: 41    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 111    Time: 2019-12-11 08:23:05 GMT
+Collect: IMU(INT)    Serial Number: 42    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 112    Time: 2019-12-11 08:23:16 GMT
+Collect: IMU(INT)    Serial Number: 44    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 113    Time: 2019-12-11 08:23:16 GMT
+Collect: IMU(INT)    Serial Number: 45    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 114    Time: 2019-12-11 08:24:33 GMT
+Collect: IMU(INT)    Serial Number: 56    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 115    Time: 2019-12-11 08:24:33 GMT
+Collect: IMU(INT)    Serial Number: 57    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 116    Time: 2019-12-11 08:25:30 GMT
+Collect: IMU(INT)    Serial Number: 65    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 117    Time: 2019-12-11 08:25:30 GMT
+Collect: IMU(INT)    Serial Number: 66    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 118    Time: 2019-12-11 08:25:54 GMT
+Collect: IMU(INT)    Serial Number: 70    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 119    Time: 2019-12-11 08:25:55 GMT
+Collect: IMU(INT)    Serial Number: 71    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 121    Time: 2019-12-11 08:26:06 GMT
+Collect: IMU(INT)    Serial Number: 73    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 121    Time: 2019-12-11 08:26:06 GMT
+Collect: IMU(INT)    Serial Number: 74    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 122    Time: 2019-12-11 08:27:23 GMT
+Collect: IMU(INT)    Serial Number: 85    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 123    Time: 2019-12-11 08:27:23 GMT
+Collect: IMU(INT)    Serial Number: 86    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 125    Time: 2019-12-11 08:30:34 GMT
+Collect: IMU(INT)    Serial Number: 111    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 125    Time: 2019-12-11 08:30:34 GMT
+Collect: IMU(INT)    Serial Number: 112    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 126    Time: 2019-12-11 08:33:58 GMT
+Collect: IMU(INT)    Serial Number: 138    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 127    Time: 2019-12-11 08:33:58 GMT
+Collect: IMU(INT)    Serial Number: 139    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 128    Time: 2019-12-11 08:38:12 GMT
+Collect: IMU(INT)    Serial Number: 172    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 129    Time: 2019-12-11 08:38:12 GMT
+Collect: IMU(INT)    Serial Number: 173    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 130    Time: 2019-12-11 08:39:15 GMT
+Collect: IMU(INT)    Serial Number: 182    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 131    Time: 2019-12-11 08:39:15 GMT
+Collect: IMU(INT)    Serial Number: 183    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 132    Time: 2019-12-11 08:41:01 GMT
+Collect: IMU(INT)    Serial Number: 197    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 133    Time: 2019-12-11 08:41:01 GMT
+Collect: IMU(INT)    Serial Number: 198    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 134    Time: 2019-12-11 08:44:10 GMT
+Collect: IMU(INT)    Serial Number: 223    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 135    Time: 2019-12-11 08:44:10 GMT
+Collect: IMU(INT)    Serial Number: 224    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 136    Time: 2019-12-11 08:44:32 GMT
+Collect: IMU(INT)    Serial Number: 227    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 137    Time: 2019-12-11 08:44:33 GMT
+Collect: IMU(INT)    Serial Number: 228    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 138    Time: 2019-12-11 08:46:59 GMT
+Collect: IMU(INT)    Serial Number: 248    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 139    Time: 2019-12-11 08:46:59 GMT
+Collect: IMU(INT)    Serial Number: 249    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 140    Time: 2019-12-11 08:47:32 GMT
+Collect: IMU(INT)    Serial Number: 254    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 141    Time: 2019-12-11 08:47:33 GMT
+Collect: IMU(INT)    Serial Number: 255    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 142    Time: 2019-12-11 08:50:28 GMT
+Collect: IMU(INT)    Serial Number: 22    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 143    Time: 2019-12-11 08:50:28 GMT
+Collect: IMU(INT)    Serial Number: 23    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2007FD1C02F8 [DIMM031](Rank 4, BankGroup 0, Bank 0, Column 760, Row 130887)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002007FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 144    Time: 2019-12-12 08:15:17 GMT
+Collect: IMU(INT)    Serial Number: 33    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2816BDE40220 [DIMM011](Rank 5, BankGroup 0, Bank 1, Column 544, Row 110457)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002816BDE40220
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 145    Time: 2019-12-12 08:15:17 GMT
+Collect: IMU(INT)    Serial Number: 34    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2816D44C0060 [DIMM011](Rank 5, BankGroup 0, Bank 1, Column 96, Row 111891)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000B0C
+ERR_ADDR: 0X00002816D44C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 146    Time: 2019-12-12 08:15:17 GMT
+Collect: IMU(INT)    Serial Number: 36    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2816D44C0060 [DIMM011](Rank 5, BankGroup 0, Bank 1, Column 96, Row 111891)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000F0C
+ERR_ADDR: 0X00002816D44C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 147    Time: 2019-12-12 08:45:36 GMT
+Collect: BIOS(INT)    Serial Number: 211    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X20B728BC0150 [DIMM131](Rank 4, BankGroup 2, Bank 3, Column 336, Row 117295)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X000020B728BC0150
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 148    Time: 2019-12-12 08:45:37 GMT
+Collect: BIOS(INT)    Serial Number: 212    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X20B728BC0150 [DIMM131](Rank 4, BankGroup 2, Bank 3, Column 336, Row 117295)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X000020B728BC0150
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 149    Time: 2019-12-12 08:49:59 GMT
+Collect: BIOS(INT)    Serial Number: 250    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X204728BC0150 [DIMM131](Rank 4, BankGroup 1, Bank 0, Column 336, Row 117295)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000204728BC0150
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 150    Time: 2019-12-12 08:53:16 GMT
+Collect: BIOS(INT)    Serial Number: 22    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X28E758E40250 [DIMM171](Rank 5, BankGroup 3, Bank 2, Column 592, Row 120377)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X000028E758E40250
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 151    Time: 2019-12-12 08:55:35 GMT
+Collect: BIOS(INT)    Serial Number: 41    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X202650040200 [DIMM131](Rank 4, BankGroup 0, Bank 2, Column 512, Row 103425)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000202650040200
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 152    Time: 2019-12-12 08:56:42 GMT
+Collect: BIOS(INT)    Serial Number: 51    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2826E42400A0 [DIMM151](Rank 5, BankGroup 0, Bank 2, Column 160, Row 112905)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002826E42400A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 153    Time: 2019-12-12 08:58:15 GMT
+Collect: BIOS(INT)    Serial Number: 65    Collect Integrity: Validate(0X00)
+CPU: 1(Socket: CPU2)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2887E42400A0 [DIMM151](Rank 5, BankGroup 2, Bank 0, Column 160, Row 129289)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000020009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002887E42400A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 154    Time: 2019-12-13 01:05:18 GMT
+Collect: BIOS(INT)    Serial Number: 130    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X47 (patrol scrubbing read correct error)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X000000006020470C
+ERR_ADDR: 0X00002816D44C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 155    Time: 2019-12-13 05:44:58 GMT
+Collect: BIOS(INT)    Serial Number: 175    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2086F45C0100 [DIMM071](Rank 4, BankGroup 2, Bank 0, Column 256, Row 113943)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002086F45C0100
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 156    Time: 2019-12-13 05:45:14 GMT
+Collect: IMU(INT)    Serial Number: 209    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 157    Time: 2019-12-13 05:45:15 GMT
+Collect: IMU(INT)    Serial Number: 210    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 158    Time: 2019-12-13 05:45:39 GMT
+Collect: BIOS(INT)    Serial Number: 0    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: PCIe_Device    Root Port: (0X00:0X00:0X00)[Disk8]    DEV: (0X00:0X00:0X00)(VID_0X0000,DID_0X0000)
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error    Error Code: ERR_COR Received    
+Error Type: Non-Fatal Error    Error Code: Non-fatal Error Messsage Received    
+Error Type: Corrected Error    Error Code: Receiver Error (70)    
+Error Type: Corrected Error    Error Code: Reserved(Bit:2)    
+Error Type: Corrected Error    Error Code: Reserved(Bit:5)    
+Error Type: Corrected Error    Error Code: Bad DLLP (72)    
+Error Type: Corrected Error    Error Code: Replay Num Rollover (74)    
+Error Type: Corrected Error    Error Code: Reserved(Bit:10)    
+Error Type: Corrected Error    Error Code: Advisory Non-fatal Error (78)    
+----------------------- ARM IIO PCIE REGISTER DUMP -----------------------
+PCIE_CE_STS: 0X00000000
+PCIE_UNF_STS: 0X00000000
+PCIE_UF_STS: 0X00000000
+PCIE_CE_CNT_CFG: 0X00000000
+PCIHDR_VID: 0X0000
+PCIHDR_DID: 0X0000
+PCIHDR_CMD: 0X0000
+PCIHDR_STS: 0X0000
+PCIHDR_SECND_STS: 0X0000
+PCIHDR_BRGCTRL: 0X0000
+DEVCTRL: 0X0000
+DEVSTS: 0X0000
+ROOTCTRL: 0X0000
+ROOTCAP: 0X0000
+AER_UCE_STS: 0X00000000
+AER_UCE_MSK: 0X00000000
+AER_UCE_SEV: 0X00000000
+AER_CE_STS: 0XA5A5A5A5
+AER_CER_MSK: 0XA5A5A5A5
+AER_ERRCAP: 0XA5A5A5A5
+AER_ROOT_ERR_CMD: 0XA5A5A5A5
+AER_ROOT_ERR_STS: 0XA5A5A5A5
+AER_TLP_LOG0: 0XA5A5A5A5
+AER_TLP_LOG1: 0XA5A5A5A5
+AER_TLP_LOG2: 0XA5A5A5A5
+
+[Hardware Error Log Number]: 159    Time: 2019-12-13 05:51:52 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 160    Time: 2019-12-13 05:51:53 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 161    Time: 2019-12-13 07:36:05 GMT
+Collect: IMU(INT)    Serial Number: 5    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemB    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X0 [DIMM000](Rank 0, BankGroup 0, Bank 0, Column 0, Row 0)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X0000000094D50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 162    Time: 2019-12-13 07:36:05 GMT
+Collect: IMU(INT)    Serial Number: 6    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemB    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X205600000000 [DIMM001](Rank 4, BankGroup 1, Bank 1, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X0000000094D50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000205600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 163    Time: 2019-12-13 07:48:58 GMT
+Collect: BIOS(INT)    Serial Number: 102    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2037DF140050 [DIMM071](Rank 4, BankGroup 0, Bank 3, Column 80, Row 128965)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002037DF140050
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 164    Time: 2019-12-13 07:49:38 GMT
+Collect: BIOS(INT)    Serial Number: 109    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU31    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was not corrected and deferred.(DE)
+SERRCODE: 0X06 (Data error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(26)MISCValid    
+MISC0: CE Counter: 32668; Bit(22) L1 Dcache Data RAM ;  Bit(23) Pipea ;  Bit(24) Store ;  Error Way:3, Error Index:12296.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009BF50000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X0000000044800006
+ERR_ADDR: 0X0000000000000000
+ERR_MISC0: 0X00007F9C8140F008
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 165    Time: 2019-12-13 07:49:38 GMT
+Collect: BIOS(INT)    Serial Number: 109    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2877C55C00E0 [DIMM051](Rank 5, BankGroup 1, Bank 3, Column 224, Row 127319)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002877C55C00E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 166    Time: 2019-12-13 07:49:39 GMT
+Collect: BIOS(INT)    Serial Number: 110    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 167    Time: 2019-12-13 07:49:39 GMT
+Collect: IMU(INT)    Serial Number: 108    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 168    Time: 2019-12-13 07:49:40 GMT
+Collect: BIOS(INT)    Serial Number: 112    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X287746A402A0 [DIMM051](Rank 5, BankGroup 1, Bank 3, Column 672, Row 119209)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000287746A402A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 169    Time: 2019-12-13 07:49:40 GMT
+Collect: IMU(INT)    Serial Number: 110    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X00200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 170    Time: 2019-12-13 07:49:40 GMT
+Collect: BIOS(INT)    Serial Number: 113    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 171    Time: 2019-12-13 07:49:40 GMT
+Collect: IMU(INT)    Serial Number: 111    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 172    Time: 2019-12-13 07:49:40 GMT
+Collect: IMU(INT)    Serial Number: 112    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X00200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 173    Time: 2019-12-13 07:49:41 GMT
+Collect: BIOS(INT)    Serial Number: 114    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X287746A402A0 [DIMM051](Rank 5, BankGroup 1, Bank 3, Column 672, Row 119209)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000287746A402A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 174    Time: 2019-12-13 07:49:41 GMT
+Collect: BIOS(INT)    Serial Number: 115    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 175    Time: 2019-12-13 07:49:41 GMT
+Collect: IMU(INT)    Serial Number: 113    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 176    Time: 2019-12-13 07:49:41 GMT
+Collect: IMU(INT)    Serial Number: 114    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X00200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 177    Time: 2019-12-13 07:49:41 GMT
+Collect: BIOS(INT)    Serial Number: 116    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X287746A402A0 [DIMM051](Rank 5, BankGroup 1, Bank 3, Column 672, Row 119209)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000287746A402A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 178    Time: 2019-12-13 07:49:42 GMT
+Collect: BIOS(INT)    Serial Number: 117    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 179    Time: 2019-12-13 07:49:42 GMT
+Collect: IMU(INT)    Serial Number: 115    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 180    Time: 2019-12-13 07:49:42 GMT
+Collect: IMU(INT)    Serial Number: 116    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X00200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 181    Time: 2019-12-13 07:49:42 GMT
+Collect: BIOS(INT)    Serial Number: 118    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 182    Time: 2019-12-13 07:49:43 GMT
+Collect: IMU(INT)    Serial Number: 117    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 183    Time: 2019-12-13 07:49:43 GMT
+Collect: IMU(INT)    Serial Number: 118    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X00200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 184    Time: 2019-12-13 07:49:43 GMT
+Collect: BIOS(INT)    Serial Number: 119    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 185    Time: 2019-12-13 07:49:44 GMT
+Collect: BIOS(INT)    Serial Number: 120    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 186    Time: 2019-12-13 07:49:45 GMT
+Collect: BIOS(INT)    Serial Number: 121    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 187    Time: 2019-12-13 07:49:45 GMT
+Collect: BIOS(INT)    Serial Number: 122    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 188    Time: 2019-12-13 07:49:46 GMT
+Collect: BIOS(INT)    Serial Number: 123    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 189    Time: 2019-12-13 07:49:47 GMT
+Collect: BIOS(INT)    Serial Number: 124    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 190    Time: 2019-12-13 07:49:48 GMT
+Collect: BIOS(INT)    Serial Number: 126    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 191    Time: 2019-12-13 07:49:48 GMT
+Collect: BIOS(INT)    Serial Number: 127    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 192    Time: 2019-12-13 07:49:49 GMT
+Collect: BIOS(INT)    Serial Number: 128    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 193    Time: 2019-12-13 07:49:50 GMT
+Collect: BIOS(INT)    Serial Number: 129    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 194    Time: 2019-12-13 07:49:50 GMT
+Collect: BIOS(INT)    Serial Number: 130    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000004
+BER_STATUS1: 0X00076000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 195    Time: 2019-12-13 07:49:51 GMT
+Collect: BIOS(INT)    Serial Number: 131    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 196    Time: 2019-12-13 07:49:52 GMT
+Collect: BIOS(INT)    Serial Number: 132    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Non Fatal Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000006
+BER_STATUS1: 0X08276000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 197    Time: 2019-12-13 07:53:23 GMT
+Collect: BIOS(INT)    Serial Number: 162    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X281756A401C0 [DIMM071](Rank 5, BankGroup 0, Bank 1, Column 448, Row 120233)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000281756A401C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 198    Time: 2019-12-13 07:57:45 GMT
+Collect: BIOS(INT)    Serial Number: 197    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemB    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2866C3B403E0 [DIMM041](Rank 5, BankGroup 1, Bank 2, Column 992, Row 110829)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X0000000094D40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002866C3B403E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 199    Time: 2019-12-13 07:58:46 GMT
+Collect: BIOS(INT)    Serial Number: 207    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemB    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2886C3B403E0 [DIMM041](Rank 5, BankGroup 2, Bank 0, Column 992, Row 110829)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X0000000094D40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002886C3B403E0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 200    Time: 2019-12-13 08:00:33 GMT
+Collect: BIOS(INT)    Serial Number: 222    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X286746A402A0 [DIMM051](Rank 5, BankGroup 1, Bank 2, Column 672, Row 119209)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X0000286746A402A0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 201    Time: 2019-12-13 08:06:30 GMT
+Collect: BIOS(INT)    Serial Number: 12    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU6    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Signaled or Recoverable error (UER)
+SERRCODE: 0X06 (Data error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(28)ErrReport    Bit(22)Poison    
+Arer_Address: 0X8000007E3048F208 [DDR physical address]
+MISC0: CE Counter: 32668; Bit(19) Poison Error ;  Bit(22) L1 Dcache Data RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Bit(29) UE ;  Error Way:3, Error Index:520.
+MISC1: Bit(63) The Address Is Non-Secure;  Bit(60) MISC1 Has Record an Error;  Bit(59) The Error Type is SEA;  Physical Address:0x7e3048f208.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A650000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000F4700006
+ERR_ADDR: 0X8000007E3048F208
+ERR_MISC0: 0X00007F9CA048C208
+ERR_MISC1: 0X9000007E3048F208
+
+[Hardware Error Log Number]: 202    Time: 2019-12-13 08:06:30 GMT
+Collect: BIOS(INT)    Serial Number: 12    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X28B754F40060 [DIMM071](Rank 5, BankGroup 2, Bank 3, Column 96, Row 120125)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X000028B754F40060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 203    Time: 2019-12-13 08:10:32 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 204    Time: 2019-12-13 08:10:32 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 205    Time: 2019-12-13 08:11:50 GMT
+Collect: IMU(INT)    Serial Number: 3    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0XD44C0060 [DIMM010](Rank 0, BankGroup 0, Bank 0, Column 96, Row 13587)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00000000D44C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 206    Time: 2019-12-13 08:11:50 GMT
+Collect: IMU(INT)    Serial Number: 4    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X281600000000 [DIMM011](Rank 5, BankGroup 0, Bank 1, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000281600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 207    Time: 2019-12-25 12:02:05 GMT
+Collect: IMU(INT)    Serial Number: 140    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: CPU0    Sub Module: LSU    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X07 (Address/Control error from associative memory)
+IERRCODE: 0X00 (Undefined)
+Arer_Status: Bit(31)ADDRValid    Bit(26)MISCValid    Bit(27)OverFlow    
+Arer_Address: 0X8000000000001000 [DDR physical address]
+MISC0: CE Counter: 0; CE overflowed; Bit(22) L1 Dcache Tag RAM ;  Bit(23) Pipea ;  Bit(24) Load ;  Bit(28) CE ;  Error Way:1, Error Index:4096.
+MISC1: Bit(60) MISC1 Has Record an Error;  Bit(59) The Error Type is SEA;  Physical Address:0x3fc959e8.
+----------------------- ARM ARER LSU REGISTER DUMP -----------------------
+BaseAddr: 0X000000009A050000
+ERR_FR: 0X00000000000249A2
+ERR_CTL: 0X0000000000000505
+ERR_STATUS: 0X00000000CE000007
+ERR_ADDR: 0X8000000000001000
+ERR_MISC0: 0X0000800090005000
+ERR_MISC1: 0X100000003FC959E8
+
+[Hardware Error Log Number]: 208    Time: 2019-12-25 12:23:57 GMT
+Collect: BIOS(INT)    Serial Number: 44    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2056FD1C02F8 [DIMM031](Rank 4, BankGroup 1, Bank 1, Column 760, Row 114503)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002056FD1C02F8
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 209    Time: 2019-12-25 12:24:12 GMT
+Collect: IMU(INT)    Serial Number: 48    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 210    Time: 2019-12-25 12:24:12 GMT
+Collect: IMU(INT)    Serial Number: 49    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 211    Time: 2019-12-25 12:28:25 GMT
+Collect: IMU(INT)    Serial Number: 1    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08200000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 212    Time: 2019-12-25 12:28:25 GMT
+Collect: IMU(INT)    Serial Number: 2    Collect Integrity: Validate(0X00)
+CPU: 0 (Socket: CPU1)    Module: IIO    Sub Module: SATA    Root Port: (0X74:0X03:0X00)[CPU1]
+----------------------- ARM AER REPORTING ERROR -----------------------
+Error Type: Corrected Error 
+----------------------- ARM IIO INTEGRATED DEVICE REGISTER DUMP -----------------------
+PCIHDR_VID: 0X19E5
+PCIHDR_DID: 0XA235
+PCIE_TYPE: 0X02
+BER_STATUS0: 0X00000002
+BER_STATUS1: 0X08000000
+BER_STATUS2: 0X00000000
+BER_STATUS3: 0X00000000
+BER_STATUS4: 0X00000000
+BER_STATUS5: 0X00000000
+BER_STATUS6: 0X00000000
+BER_STATUS7: 0X00000000
+
+[Hardware Error Log Number]: 213    Time: 2019-12-25 12:32:08 GMT
+Collect: BIOS(INT)    Serial Number: 19    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2056650C0290 [DIMM031](Rank 4, BankGroup 1, Bank 1, Column 656, Row 104771)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002056650C0290
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 214    Time: 2019-12-25 12:40:34 GMT
+Collect: IMU(INT)    Serial Number: 85    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X650C0290 [DIMM030](Rank 0, BankGroup 0, Bank 0, Column 656, Row 6467)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00000000650C0290
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 215    Time: 2019-12-25 12:40:34 GMT
+Collect: IMU(INT)    Serial Number: 86    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X280700000000 [DIMM031](Rank 5, BankGroup 0, Bank 0, Column 0, Row 114688)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000280700000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 217    Time: 2019-12-25 12:40:36 GMT
+Collect: IMU(INT)    Serial Number: 87    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2807664400C0 [DIMM031](Rank 5, BankGroup 0, Bank 0, Column 192, Row 121233)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002807664400C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 217    Time: 2019-12-25 12:40:36 GMT
+Collect: IMU(INT)    Serial Number: 88    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2807664400C0 [DIMM031](Rank 5, BankGroup 0, Bank 0, Column 192, Row 121233)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002807664400C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 220    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 90    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X2866664400C0 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 192, Row 104849)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00002866664400C0
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 220    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 91    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0X82C0060 [DIMM070](Rank 0, BankGroup 0, Bank 0, Column 96, Row 523)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00000000082C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 220    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 91    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0F (HA access correct error.)
+Arer_Status: Bit(31)ADDRValid    Bit(27)OverFlow    
+Arer_Address: 0XD44C0060 [DIMM010](Rank 0, BankGroup 0, Bank 0, Column 96, Row 13587)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000CA000F0C
+ERR_ADDR: 0X00000000D44C0060
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 224    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 94    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC0    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X2866625C0240 [DIMM031](Rank 5, BankGroup 1, Bank 2, Column 576, Row 104599)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD20000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X00002866625C0240
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 224    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 94    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X20B600000000 [DIMM071](Rank 4, BankGroup 2, Bank 3, Column 0, Row 98304)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X000020B600000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 224    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 94    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC2    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X287700000000 [DIMM011](Rank 5, BankGroup 1, Bank 3, Column 0, Row 114688)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD40000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000287700000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 224    Time: 2019-12-25 12:40:39 GMT
+Collect: IMU(INT)    Serial Number: 94    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC3    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:At least one error was corrected.(CE)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X0B (HA access correct error more than threshold)
+Arer_Status: Bit(31)ADDRValid    
+Arer_Address: 0X289700000000 [DIMM051](Rank 5, BankGroup 2, Bank 1, Column 0, Row 114688)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD50000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000C2000B0C
+ERR_ADDR: 0X0000289700000000
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 225    Time: 2019-12-25 12:42:09 GMT
+Collect: BIOS(INT)    Serial Number: 116    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X28467C040100 [DIMM071](Rank 5, BankGroup 1, Bank 0, Column 256, Row 106241)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X000028467C040100
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000
+
+[Hardware Error Log Number]: 226    Time: 2019-12-25 12:43:16 GMT
+Collect: BIOS(INT)    Serial Number: 127    Collect Integrity: Validate(0X00)
+CPU: 0(Socket: CPU1)    DIE: TotemA    Module: DDRC1    
+----------------------- ARM ARER REPORTING ERROR -----------------------
+Error Type:Uncorrected error, Latent or Restartable error (UEO)
+SERRCODE: 0X0C (Refer to IERRCODE)
+IERRCODE: 0X40 (HA access uncorrect error.)
+Arer_Status: Bit(31)ADDRValid    Bit(28)ErrReport    
+Arer_Address: 0X2827C7FC0240 [DIMM071](Rank 5, BankGroup 0, Bank 2, Column 576, Row 127487)
+----------------------- ARM ARER DDRC REGISTER DUMP -----------------------
+BaseAddr: 0X000000009CD30000
+ERR_FR: 0X0000000000000AA2
+ERR_CTL: 0X0000000000000515
+ERR_STATUS: 0X00000000F020400C
+ERR_ADDR: 0X00002827C7FC0240
+ERR_MISC0: 0X0000000000000000
+ERR_MISC1: 0X0000000000000000

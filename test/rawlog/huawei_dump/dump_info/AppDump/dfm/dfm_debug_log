@@ -1,0 +1,1223 @@
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T06:01:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T08:14:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:08+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:21:09+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:21:09+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T11:33:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-02T11:33:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T12:01:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:43+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:43+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:43+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:43+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:43+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T17:42:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:44+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:00:45+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-02T18:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:07:05+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T03:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T05:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:37:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:37:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:42:52+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:42:52+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:48:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:48:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:48:59+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:48:59+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:49:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:49:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:54:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:54:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:54:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:54:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:54:59+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:54:59+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:55:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:55:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:55:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:55:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:55:05+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:55:05+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:55:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:55:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T06:55:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T06:55:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:00:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:00:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:01:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:01:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:01:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:01:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:14:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:14:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:02+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:03+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:15:04+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:14+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:14+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:21:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:21:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:32:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:32:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:28+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:28+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:32+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:32+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:40:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:40:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:30+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:30+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:33+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:33+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:40+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:40+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:46:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:46:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:51:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:51:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:51:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:51:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:51:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:51:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:51:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:51:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:52:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:52:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:52:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:52:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:52:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:52:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T07:52:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T07:52:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:16+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:18+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:18+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:36:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:36:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:40+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:40+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:41:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:41:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:25+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:30+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:30+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:32+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:32+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T08:55:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T08:55:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:14+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:14+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:16+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:16+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:18+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:18+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:03:24+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:03:24+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:11:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:11:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:12:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:12:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:16+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:16+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:20:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:20:21+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:19+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T09:27:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T09:27:23+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T10:56:42+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:21+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:22+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T11:14:23+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:48+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T12:35:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T15:07:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:10+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:11+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T16:07:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T16:07:12+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:00:49+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T18:36:16+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:14+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T21:35:15+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:18+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T22:01:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-03T22:01:19+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:03+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:07+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:07+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:08+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:11+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-03T23:52:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-03T23:52:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:42+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:16:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:16:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:20+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:22+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:26+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:26+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:27+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:29+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:31+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:25:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:25:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:52+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:52+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:32:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:32:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:33:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:33:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:33:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:33:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:07+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:07+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:12+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:13+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:15+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T00:40:17+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T00:40:18+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:07:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:07:55+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:07:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:07:57+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:00+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:04+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:06+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:09+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T01:08:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T01:08:10+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 ipmi: Standard input is not a terminal device
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:40+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_1.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_2.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_3.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_4.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_5.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_6.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_7.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_8.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(381): g_key_file_get_string_list(SeriaManagement_9.ConnectStatus in per_config.ini) failed: val_cnt 0.
+2020-01-04T04:56:41+00:00 2102312QLQ10K7000044 dfm: [1527] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:34+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:44+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:44+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:31:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:31:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:38+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:46+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:48+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:38:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:38:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:37+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:43+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:44:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:44:51+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:35+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:36+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:39+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:41+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:44+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:44+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:45+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:49:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:49:50+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:47+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:49+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:52+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:53+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:54+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:54+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:56+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:54:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:54:58+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:55:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:55:01+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.
+2020-01-04T06:55:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(381): g_key_file_get_string_list(powercapping.LimitValue in per_config.ini) failed: val_cnt 0.
+2020-01-04T06:55:02+00:00 2102312QLQ10K7000044 power_mgnt: [1545] persistance_cfg.c(479): cfg_read_f_v2 failed: -4999988.

@@ -1,0 +1,52 @@
+FRU Device Description : Builtin FRU Device (ID 0)
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : L54.32
+ Chassis Serial        : 0
+ Chassis Extra         : AliType=L54.32.C0V1P0U4
+ Board Mfg Date        : Sat Dec 17 01:06:00 2016
+ Board Mfg             : Inspur
+ Board Product         : YZMB-01900-101
+ Board Serial          : MBK917S20012A01
+ Board Part Number     : SA5456M5
+ Product Manufacturer  : Inspur
+ Product Name          : SA5456M5
+ Product Part Number   : 0
+ Product Version       : 00001
+ Product Serial        : 219493223
+ Product Asset Tag     : TD11101000870058
+
+FRU Device Description : AST2500_Erica   
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : L54.32
+ Chassis Serial        : 0
+ Chassis Extra         : AliType=L54.32.C0V1P0U4
+ Board Mfg Date        : Sat Dec 17 01:06:00 2016
+ Board Mfg             : Inspur
+ Board Product         : YZMB-01900-101
+ Board Serial          : MBK917S20012A01
+ Board Part Number     : SA5456M5
+ Product Manufacturer  : Inspur
+ Product Name          : SA5456M5
+ Product Part Number   : 0
+ Product Version       : 00001
+ Product Serial        : 219493223
+ Product Asset Tag     : TD11101000870058
+
+---
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0xfc 0x02
+ 57 01 00 04 06 07 9f fd 00 00 ff ff ff
+
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0x00 0x03
+ 57 01 00 04 06 07 9f fd 00 00 ff ff ff
+
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0x01 0x03
+ 57 01 00 04 06 07 9f fd 00 00 ff ff ff
+
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0x03 0x03
+ 57 01 00 04 06 07 9f fd 00 00 ff ff ff
+
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0x04 0x03
+ 57 01 00 04 06 07 9f fd 00 00 ff ff ff
+
+ipmitool -b 6 -t 0x2c raw 0x30 0x26 0x57 0x01 0x00 0x04 0x06 0x04 0x9f 0xfc 0x05 0x03
+ 57 01 00 04 06 07 9f fd 00 04 ff ff ff

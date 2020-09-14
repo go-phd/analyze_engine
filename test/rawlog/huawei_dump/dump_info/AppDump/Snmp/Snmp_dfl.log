@@ -1,0 +1,992 @@
+==========================object===========================
+----------------- OwnerSSL                      -----------
+semid          : 98306
+sem member     : 1
+ref count      : 1
+----------------- SnmpPrivacyPwdWorkKey         -----------
+semid          : 32768
+sem member     : 11
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- User8                         -----------
+semid          : 32768
+sem member     : 27
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- IpmiPwdWorkKey                -----------
+semid          : 32768
+sem member     : 14
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- IssuerSSL                     -----------
+semid          : 98306
+sem member     : 2
+ref count      : 1
+----------------- User:C                        -----------
+semid          : 884762
+sem member     : 175
+ref count      : 1
+----------------- MutualAuthentication          -----------
+semid          : 65537
+sem member     : 183
+ref count      : 1
+.MutualAuthenticationState : listened by port : 622610, 163844, 
+.MutualAuthenticationOCSP : listened by port : 622610, 163844, 
+----------------- SSL:C                         -----------
+semid          : 884762
+sem member     : 214
+ref count      : 1
+----------------- PwdWorkKey                    -----------
+semid          : 32768
+sem member     : 10
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- Kvm0                          -----------
+semid          : 98306
+sem member     : 31
+ref count      : 1
+----------------- PrivilegeAgent                -----------
+semid          : 32768
+sem member     : 19
+ref count      : 1
+----------------- Upgrade                       -----------
+semid          : 98306
+sem member     : 29
+ref count      : 1
+.Degrade        : listened by port : 98306, 
+.UpgradedFlag   : listened by port : 688148, 622610, 524303, 131075, 229382, 163844, 
+.PreRollbackFlag : listened by port : 688148, 622610, 524303, 131075, 229382, 163844, 
+----------------- log_0                         -----------
+semid          : 98306
+sem member     : 48
+ref count      : 1
+----------------- Video0                        -----------
+semid          : 98306
+sem member     : 46
+ref count      : 1
+----------------- SSH                           -----------
+semid          : 131075
+sem member     : 11
+ref count      : 1
+.State          : listened by port : 622610, 294920, 229382, 163844, 
+.Port           : listened by port : 622610, 294920, 229382, 163844, 
+----------------- WEBHTTP                       -----------
+semid          : 131075
+sem member     : 13
+ref count      : 1
+.State          : listened by port : 622610, 294920, 229382, 163844, 
+.Port           : listened by port : 622610, 294920, 229382, 163844, 
+----------------- SSL                           -----------
+semid          : 98306
+sem member     : 0
+ref count      : 1
+----------------- EthGroup0                     -----------
+semid          : 458765
+sem member     : 41
+ref count      : 1
+.SubnetMask     : listened by port : 622610, 
+.IpAddr         : recv event count: 8 : listened by port : 360458, 622610, 229382, 163844, 
+.DefaultGateway : listened by port : 622610, 
+.Ipv6Mode       : listened by port : 622610, 229382, 
+.Ipv6DefaultGateway : listened by port : 622610, 
+.ActivePort     : listened by port : 229382, 
+.Ipv6Addr       : listened by port : 622610, 229382, 
+.InnerNetWork   : listened by port : 229382, 
+.Ipv6LocalLink  : listened by port : 229382, 
+.VlanID         : listened by port : 229382, 
+.IpVersion      : listened by port : 622610, 
+.IpMode         : listened by port : 622610, 229382, 
+.VlanState      : listened by port : 229382, 
+.SLAACIpv6Addr  : listened by port : 229382, 
+.Ipv6Prefix     : listened by port : 622610, 
+----------------- EthGroup2                     -----------
+semid          : 458765
+sem member     : 42
+ref count      : 1
+.SubnetMask     : listened by port : 622610, 
+.IpAddr         : listened by port : 360458, 622610, 229382, 163844, 
+.DefaultGateway : listened by port : 622610, 
+.Ipv6Mode       : listened by port : 622610, 229382, 
+.Ipv6DefaultGateway : listened by port : 622610, 
+.ActivePort     : listened by port : 229382, 
+.Ipv6Addr       : listened by port : 622610, 229382, 
+.InnerNetWork   : listened by port : 229382, 
+.Ipv6LocalLink  : listened by port : 229382, 
+.VlanID         : listened by port : 229382, 
+.IpVersion      : listened by port : 622610, 
+.IpMode         : listened by port : 622610, 229382, 
+.VlanState      : listened by port : 229382, 
+.SLAACIpv6Addr  : listened by port : 229382, 
+.Ipv6Prefix     : listened by port : 622610, 
+----------------- ProxyVmm:C                    -----------
+semid          : 884762
+sem member     : 212
+ref count      : 1
+----------------- Snmp:C                        -----------
+semid          : 884762
+sem member     : 48
+ref count      : 1
+----------------- PMEServiceConfig:C            -----------
+semid          : 884762
+sem member     : 12
+ref count      : 1
+----------------- ProxyKvm0                     -----------
+semid          : 98306
+sem member     : 33
+ref count      : 1
+.EncryptState   : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+.State          : listened by port : 688148, 
+.KvmTimeout     : listened by port : 688148, 
+.ScreenSwitch   : listened by port : 688148, 
+.LocalKVMState  : listened by port : 688148, 
+----------------- ProxyVideo0                   -----------
+semid          : 98306
+sem member     : 47
+ref count      : 1
+.State          : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+----------------- PortConfig:C                  -----------
+semid          : 884762
+sem member     : 160
+ref count      : 1
+----------------- PrivilegeAgent:C              -----------
+semid          : 884762
+sem member     : 211
+ref count      : 1
+----------------- PMEServiceConfig              -----------
+semid          : 491534
+sem member     : 242
+ref count      : 1
+----------------- User10                        -----------
+semid          : 32768
+sem member     : 29
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- ProxyKvm:C                    -----------
+semid          : 884762
+sem member     : 99
+ref count      : 1
+----------------- EncryptKey:C                  -----------
+semid          : 884762
+sem member     : 5
+ref count      : 1
+----------------- SnmpCommWorkKey               -----------
+semid          : 32768
+sem member     : 9
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- MutualAuthentication:C        -----------
+semid          : 884762
+sem member     : 23
+ref count      : 1
+----------------- User13                        -----------
+semid          : 32768
+sem member     : 32
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User11                        -----------
+semid          : 32768
+sem member     : 30
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User12                        -----------
+semid          : 32768
+sem member     : 31
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User16                        -----------
+semid          : 32768
+sem member     : 35
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User14                        -----------
+semid          : 32768
+sem member     : 33
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User15                        -----------
+semid          : 32768
+sem member     : 34
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- Vmm0                          -----------
+semid          : 98306
+sem member     : 43
+ref count      : 1
+----------------- TrapCommWorkKey               -----------
+semid          : 32768
+sem member     : 12
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- SSLCert5                      -----------
+semid          : 98306
+sem member     : 5
+ref count      : 1
+----------------- SmtpPwdWorkKey                -----------
+semid          : 32768
+sem member     : 13
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- SSLCert7                      -----------
+semid          : 98306
+sem member     : 9
+ref count      : 1
+----------------- SSLCert8                      -----------
+semid          : 98306
+sem member     : 11
+ref count      : 1
+----------------- SSLCert9                      -----------
+semid          : 98306
+sem member     : 13
+ref count      : 1
+----------------- RootKey                       -----------
+semid          : 32768
+sem member     : 8
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- SSLCert6                      -----------
+semid          : 98306
+sem member     : 7
+ref count      : 1
+----------------- Upgrade:C                     -----------
+semid          : 884762
+sem member     : 163
+ref count      : 1
+----------------- SSLCert4                      -----------
+semid          : 98306
+sem member     : 3
+ref count      : 1
+----------------- User17                        -----------
+semid          : 32768
+sem member     : 36
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- ProxyVideo:C                  -----------
+semid          : 884762
+sem member     : 218
+ref count      : 1
+----------------- Snmp                          -----------
+semid          : 32768
+sem member     : 18
+ref count      : 1
+.AuthProtocol   : listened by port : 622610, 229382, 
+.OldEngineID    : listened by port : 622610, 
+.PortID         : listened by port : 229382, 
+.PrivProtocol   : listened by port : 622610, 229382, 
+----------------- User1                         -----------
+semid          : 32768
+sem member     : 20
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User2                         -----------
+semid          : 32768
+sem member     : 21
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User3                         -----------
+semid          : 32768
+sem member     : 22
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User4                         -----------
+semid          : 32768
+sem member     : 23
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User5                         -----------
+semid          : 32768
+sem member     : 24
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- User6                         -----------
+semid          : 32768
+sem member     : 25
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- RedfishWorkKey                -----------
+semid          : 32768
+sem member     : 15
+ref count      : 1
+.WorkKey        : listened by port : 688148, 622610, 524303, 131075, 163844, 
+----------------- User7                         -----------
+semid          : 32768
+sem member     : 26
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+----------------- SecurityEnhance               -----------
+semid          : 32768
+sem member     : 46
+ref count      : 1
+.TLSVersion     : listened by port : 688148, 163844, 
+.BannerState    : listened by port : 622610, 
+----------------- SSLCert10                     -----------
+semid          : 98306
+sem member     : 15
+ref count      : 1
+----------------- SSLCert11                     -----------
+semid          : 98306
+sem member     : 17
+ref count      : 1
+----------------- SSLCert12                     -----------
+semid          : 98306
+sem member     : 19
+ref count      : 1
+----------------- SecurityEnhance:C             -----------
+semid          : 884762
+sem member     : 114
+ref count      : 1
+----------------- ProxyVmm0                     -----------
+semid          : 98306
+sem member     : 44
+ref count      : 1
+.State          : listened by port : 688148, 
+.EncryptState   : listened by port : 688148, 
+.Port           : listened by port : 688148, 
+----------------- SSLCert13                     -----------
+semid          : 98306
+sem member     : 21
+ref count      : 1
+----------------- WEBHTTPS                      -----------
+semid          : 131075
+sem member     : 14
+ref count      : 1
+.State          : listened by port : 622610, 294920, 229382, 163844, 
+.Port           : listened by port : 622610, 294920, 229382, 163844, 
+----------------- EthGroup:C                    -----------
+semid          : 884762
+sem member     : 113
+ref count      : 1
+----------------- User9                         -----------
+semid          : 32768
+sem member     : 28
+ref count      : 1
+.Privilege      : listened by port : 688148, 
+=====================method info=============================
+key=Snmp.SetRWCommunityState, func=0x19c2c
+input para list:
+y output para list:
+
+key=Snmp.SetSnmpROCommunity, func=0x148cc
+input para list:
+s output para list:
+
+key=Snmp.SetIsUpdateEngineID, func=0x19a74
+input para list:
+y output para list:
+
+key=Snmp.SetHostNameSyncFlag, func=0x19f28
+input para list:
+y output para list:
+
+key=Snmp.SetSnmpV1VersionState, func=0x15a30
+input para list:
+y output para list:
+
+key=Snmp.RebootSnmp, func=0x147dc
+input para list:
+output para list:
+
+key=Snmp.DeleteNoAccessSnmpUser, func=0x169b8
+input para list:
+s output para list:
+
+key=Snmp.DelSnmpUserPassword, func=0x14184
+input para list:
+s output para list:
+
+key=Snmp.SetSnmpV3VersionState, func=0x15f5c
+input para list:
+y output para list:
+
+key=Snmp.AddSnmpUserPassword, func=0x13c4c
+input para list:
+s s s output para list:
+
+key=Snmp.SetsysName, func=0x196ac
+input para list:
+s output para list:
+
+key=Snmp.GetSnmpUserHexInfo, func=0x14564
+input para list:
+output para list:
+ay i 
+key=Snmp.DelSnmpUserName, func=0x12ac4
+input para list:
+s output para list:
+
+key=Snmp.SetSnmpAuthProtocol, func=0x167bc
+input para list:
+y output para list:
+
+key=PrivilegeAgent.CopyFile, func=0x18b14
+input para list:
+s s u u u output para list:
+
+key=PrivilegeAgent.CheckDir, func=0x18db4
+input para list:
+s output para list:
+
+key=ProxyVmm.FormatDevice, func=0x1b6cc
+input para list:
+s s output para list:
+
+key=Snmp.SetsysLocation, func=0x19884
+input para list:
+s output para list:
+
+key=Snmp.AddSnmpUserName, func=0x12724
+input para list:
+s output para list:
+
+key=Snmp.SetSnmpV2CVersionState, func=0x15cc4
+input para list:
+y output para list:
+
+key=ProxyKvm.SetState, func=0x1a678
+input para list:
+y output para list:
+
+key=Snmp.CompareSnmpUserPassword, func=0x132e4
+input para list:
+s s s output para list:
+
+key=Snmp.SetSnmpPortID, func=0x1641c
+input para list:
+i output para list:
+
+key=Snmp.SetSnmpPrivProtocol, func=0x168b8
+input para list:
+y output para list:
+
+key=ProxyVmm.SetPort, func=0x1b93c
+input para list:
+i output para list:
+
+key=ProxyKvm.SetScreenSwitch, func=0x1ab08
+input para list:
+* y output para list:
+
+key=ProxyVmm.SetEncryptState, func=0x1bbd4
+input para list:
+i output para list:
+
+key=ProxyVmm.DriverOperation, func=0x1b39c
+input para list:
+y output para list:
+
+key=Snmp.SetSNMPV1V2CPermitRuleIds, func=0x18e38
+input para list:
+y output para list:
+i 
+key=ProxyKvm.SetKvmTimeout, func=0x1af14
+input para list:
+i output para list:
+
+key=Snmp.GetSnmpUserInfo, func=0x14258
+input para list:
+output para list:
+ay i 
+key=Snmp.PropertySyncMethod, func=0xbaa8
+input para list:
+* output para list:
+* 
+key=Snmp.SetSnmpState, func=0x14f48
+input para list:
+y output para list:
+
+key=Snmp.SetSnmpUserPrivilege, func=0x16d58
+input para list:
+s y output para list:
+
+key=SSL.EncryptDecrypeCert, func=(nil)
+input para list:
+s s i output para list:
+
+key=Snmp.SetLongPasswordEnable, func=0x16c0c
+input para list:
+y output para list:
+
+key=ProxyKvm.SetLocalKVMState, func=0x1afec
+input para list:
+y output para list:
+
+key=Snmp.SetsysContact, func=0x194cc
+input para list:
+s output para list:
+
+key=Snmp.SetSnmpUserPassword, func=0x12c5c
+input para list:
+s s s output para list:
+
+key=ProxyKvm.SetPort, func=0x1a870
+input para list:
+i output para list:
+
+key=ProxyVideo.SetState, func=0x1c06c
+input para list:
+y output para list:
+
+key=Snmp.SetSnmpRWCommunity, func=0x15330
+input para list:
+s output para list:
+
+key=ProxyVmm.SetState, func=0x1b1a0
+input para list:
+y output para list:
+
+key=Snmp.SetSnmpVersionState, func=0x16070
+input para list:
+y y output para list:
+
+key=ProxyKvm.SetEncryptState, func=0x1acc4
+input para list:
+i output para list:
+
+key=ProxyVideo.SetPort, func=0x1be24
+input para list:
+i output para list:
+
+key=Snmp.save_dlog_cfg, func=0xb6bd1124
+input para list:
+output para list:
+
+key=Snmp.connect_to_cli, func=0xb6bd1afc
+input para list:
+s s output para list:
+
+key=Snmp.dlog_outlvl, func=0xb6bd128c
+input para list:
+s output para list:
+
+key=Snmp.deconnect_to_cli, func=0xb6bd1608
+input para list:
+s output para list:
+
+key=Snmp.dlog_outype, func=0xb6bd1da8
+input para list:
+s output para list:
+
+key=Snmp.set_trace_cfg, func=0xb6bd09e0
+input para list:
+s output para list:
+
+=====================listen info=============================
+my ipc id=163844
+key=<PortConfig.State, handler=0x1923c, state=0
+key=<SecurityEnhance.TLSVersion, handler=0x1923c, state=0
+key=<Upgrade.PreRollbackFlag, handler=0x17c54, state=0
+key=<EncryptKey.WorkKey, handler=0x17890, state=0
+key=<MutualAuthentication.MutualAuthenticationState, handler=0x1923c, state=0
+key=<MutualAuthentication.MutualAuthenticationOCSP, handler=0x1923c, state=0
+key=<EthGroup.IpAddr, handler=0x1923c, state=1
+key=<PortConfig.Port, handler=0x1923c, state=0
+key=<Upgrade.UpgradedFlag, handler=0x17c54, state=0
+=====================route info=============================
+.key=Contact, rpc_port=50007, msg_que_id=229382
+.key=Watchdog2, rpc_port=50007, msg_que_id=229382
+.key=CompositionSetting, rpc_port=50022, msg_que_id=720917
+.key=SSDPConfig, rpc_port=50006, msg_que_id=196613
+.key=ComponentInfo, rpc_port=50003, msg_que_id=98306
+.key=LDAPCert, rpc_port=50007, msg_que_id=229382
+.key=SolLink, rpc_port=50011, msg_que_id=360458
+.key=PMBusTempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DiskSlotInfo, rpc_port=50010, msg_que_id=327689
+.key=VRDAction, rpc_port=50018, msg_que_id=589841
+.key=PrivilegeAgent, rpc_port=50005, msg_que_id=163844
+.key=FruDev, rpc_port=50007, msg_que_id=229382
+.key=ThresholdSensorMonitor, rpc_port=50004, msg_que_id=131075
+.key=_StorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=PIPE, rpc_port=50020, msg_que_id=655379
+.key=SMMPCIeInfo, rpc_port=50010, msg_que_id=327689
+.key=LicenseSaleInfo, rpc_port=50012, msg_que_id=393227
+.key=ResidentStorageMgnt, rpc_port=50015, msg_que_id=491534
+.key=_Snmp, rpc_port=50005, msg_que_id=163844
+.key=Memory, rpc_port=50003, msg_que_id=98306
+.key=FdmWebConfig, rpc_port=50020, msg_que_id=655379
+.key=USBPortSwitch, rpc_port=50007, msg_que_id=229382
+.key=Condition, rpc_port=50001, msg_que_id=32768
+.key=Redfish, rpc_port=50016, msg_que_id=524303
+.key=PsSleep, rpc_port=50002, msg_que_id=65537
+.key=OnePower, rpc_port=50002, msg_que_id=65537
+.key=FruPayload, rpc_port=50007, msg_que_id=229382
+.key=IOBoard, rpc_port=50010, msg_que_id=327689
+.key=LicenseKeyInfo, rpc_port=50012, msg_que_id=393227
+.key=MatchRegValue, rpc_port=50022, msg_que_id=720917
+.key=FdmConfig, rpc_port=50020, msg_que_id=655379
+.key=PefFilter, rpc_port=50004, msg_que_id=131075
+.key=SmtpItemCfg, rpc_port=50004, msg_que_id=131075
+.key=LicenseGeneralInfo, rpc_port=50012, msg_que_id=393227
+.key=_UPGRADE, rpc_port=50018, msg_que_id=589841
+.key=MMPortOtmInfo, rpc_port=50007, msg_que_id=229382
+.key=LedTest, rpc_port=50004, msg_que_id=131075
+.key=PcieAddrInfo, rpc_port=50020, msg_que_id=655379
+.key=DataAcquisitionMetric, rpc_port=50020, msg_que_id=655379
+.key=Video, rpc_port=50021, msg_que_id=688148
+.key=LicenseFeatureKey, rpc_port=50012, msg_que_id=393227
+.key=_diagnose, rpc_port=50020, msg_que_id=655379
+.key=RaidChip, rpc_port=50015, msg_que_id=491534
+.key=Entity, rpc_port=50004, msg_que_id=131075
+.key=NandFlash, rpc_port=50007, msg_que_id=229382
+.key=DftAction, rpc_port=50013, msg_que_id=425996
+.key=AccessorUpdateAction, rpc_port=50007, msg_que_id=229382
+.key=ExtendPcieCard, rpc_port=50010, msg_que_id=327689
+.key=DftLSWConfig, rpc_port=50007, msg_que_id=229382
+.key=Bios, rpc_port=50017, msg_que_id=557072
+.key=ReserveChanTest, rpc_port=50013, msg_que_id=425996
+.key=BBU, rpc_port=50015, msg_que_id=491534
+.key=Language, rpc_port=50004, msg_que_id=131075
+.key=BBUModule, rpc_port=50002, msg_que_id=65537
+.key=VirOpticalModule, rpc_port=50007, msg_que_id=229382
+.key=BOARD, rpc_port=50007, msg_que_id=229382
+.key=StorageCfgCustomize, rpc_port=50015, msg_que_id=491534
+.key=SOLManagement, rpc_port=50011, msg_que_id=360458
+.key=ProxyVideo, rpc_port=50005, msg_que_id=163844
+.key=NoDevTest, rpc_port=50004, msg_que_id=131075
+.key=Ipmb, rpc_port=50011, msg_que_id=360458
+.key=Firmware, rpc_port=50018, msg_que_id=589841
+.key=EventMonitor, rpc_port=50004, msg_que_id=131075
+.key=TempMonitor, rpc_port=50004, msg_que_id=131075
+.key=DftCtrl, rpc_port=50013, msg_que_id=425996
+.key=_PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=GPUCard, rpc_port=50010, msg_que_id=327689
+.key=VoltMonitor, rpc_port=50004, msg_que_id=131075
+.key=AccelerateCard, rpc_port=50010, msg_que_id=327689
+.key=PassThroughCard, rpc_port=50010, msg_que_id=327689
+.key=SilkTemplate, rpc_port=50003, msg_que_id=98306
+.key=SMM, rpc_port=50007, msg_que_id=229382
+.key=Hdd, rpc_port=50015, msg_que_id=491534
+.key=SysPower, rpc_port=50002, msg_que_id=65537
+.key=RedfishEventService, rpc_port=50016, msg_que_id=524303
+.key=SMS, rpc_port=50006, msg_que_id=196613
+.key=Pex8796, rpc_port=50022, msg_que_id=720917
+.key=MasterSMM, rpc_port=50007, msg_que_id=229382
+.key=SmBios, rpc_port=50017, msg_que_id=557072
+.key=SelFilter, rpc_port=50004, msg_que_id=131075
+.key=SpecialPcieCard, rpc_port=50007, msg_que_id=229382
+.key=Com, rpc_port=50011, msg_que_id=360458
+.key=InterfaceTest, rpc_port=50013, msg_que_id=425996
+.key=CafeDev, rpc_port=50007, msg_que_id=229382
+.key=SdrDev, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgnt, rpc_port=50018, msg_que_id=589841
+.key=Raid, rpc_port=50010, msg_que_id=327689
+.key=TreeNode, rpc_port=50020, msg_que_id=655379
+.key=CfgMgnt, rpc_port=50014, msg_que_id=458765
+.key=NetCard, rpc_port=50010, msg_que_id=327689
+.key=SystemManagerInfo, rpc_port=50007, msg_que_id=229382
+.key=IpmbAddr, rpc_port=50011, msg_que_id=360458
+.key=MemoryChannel, rpc_port=50003, msg_que_id=98306
+.key=LDAPGroup, rpc_port=50007, msg_que_id=229382
+.key=HDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=EncryptKey, rpc_port=50019, msg_que_id=622610
+.key=_User, rpc_port=50019, msg_que_id=622610
+.key=MassStorage, rpc_port=50015, msg_que_id=491534
+.key=StorageDiagnose, rpc_port=50015, msg_que_id=491534
+.key=PcieCard, rpc_port=50010, msg_que_id=327689
+.key=SmtpConfig, rpc_port=50004, msg_que_id=131075
+.key=LDAPCommon, rpc_port=50007, msg_que_id=229382
+.key=EventPolicy, rpc_port=50004, msg_que_id=131075
+.key=EthGroup, rpc_port=50007, msg_que_id=229382
+.key=BIOSEvent, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionService, rpc_port=50020, msg_que_id=655379
+.key=ConditionTask, rpc_port=50004, msg_que_id=131075
+.key=SeriaManagement, rpc_port=50011, msg_que_id=360458
+.key=MemoryBoard, rpc_port=50010, msg_que_id=327689
+.key=Cpu, rpc_port=50003, msg_que_id=98306
+.key=Composition, rpc_port=50022, msg_que_id=720917
+.key=ConditionGroup, rpc_port=50001, msg_que_id=32768
+.key=VirtualWire, rpc_port=50007, msg_que_id=229382
+.key=_dfm, rpc_port=50000, msg_que_id=0
+.key=MutualAuthenticationRootCert, rpc_port=50007, msg_que_id=229382
+.key=User, rpc_port=50019, msg_que_id=622610
+.key=PsuSlot, rpc_port=50002, msg_que_id=65537
+.key=CLASSFANTYPE, rpc_port=50001, msg_que_id=32768
+.key=Warning, rpc_port=50004, msg_que_id=131075
+.key=Stateless, rpc_port=50007, msg_que_id=229382
+.key=ExpBoard, rpc_port=50010, msg_que_id=327689
+.key=PRODUCT, rpc_port=50007, msg_que_id=229382
+.key=Session, rpc_port=50019, msg_que_id=622610
+.key=DiskArray, rpc_port=50015, msg_que_id=491534
+.key=CompositionZone, rpc_port=50022, msg_que_id=720917
+.key=MngtPortCap, rpc_port=50007, msg_que_id=229382
+.key=SyslogConfig, rpc_port=50004, msg_que_id=131075
+.key=ChipVrdParameterConfig, rpc_port=50007, msg_que_id=229382
+.key=Payload, rpc_port=50007, msg_que_id=229382
+.key=SMMportswitch, rpc_port=50007, msg_que_id=229382
+.key=MeInfo, rpc_port=50003, msg_que_id=98306
+.key=LedDispControl, rpc_port=50004, msg_que_id=131075
+.key=Diagnose, rpc_port=50020, msg_que_id=655379
+.key=PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=DevTest, rpc_port=50004, msg_que_id=131075
+.key=SysFWProgressStatus, rpc_port=50003, msg_que_id=98306
+.key=_cooling_app, rpc_port=50001, msg_que_id=32768
+.key=KvmLink, rpc_port=50021, msg_que_id=688148
+.key=PcieRootPortMap, rpc_port=50007, msg_que_id=229382
+.key=_kvm_vmm, rpc_port=50021, msg_que_id=688148
+.key=PermitRule, rpc_port=50019, msg_que_id=622610
+.key=LSWConfig, rpc_port=50007, msg_que_id=229382
+.key=ExPortConfig, rpc_port=50007, msg_que_id=229382
+.key=PCIeDisk, rpc_port=50015, msg_que_id=491534
+.key=_MaintDebug, rpc_port=50008, msg_que_id=262151
+.key=PowerSignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=VMDCondition, rpc_port=50007, msg_que_id=229382
+.key=ComponentPowerCtrl, rpc_port=50010, msg_que_id=327689
+.key=AdditionalFan, rpc_port=50001, msg_que_id=32768
+.key=Eeprom, rpc_port=50018, msg_que_id=589841
+.key=I2CTest, rpc_port=50013, msg_que_id=425996
+.key=_BIOS, rpc_port=50017, msg_que_id=557072
+.key=PowerCapping, rpc_port=50002, msg_que_id=65537
+.key=SecurityModule, rpc_port=50010, msg_que_id=327689
+.key=MezzCard, rpc_port=50010, msg_que_id=327689
+.key=Log, rpc_port=50008, msg_que_id=262151
+.key=SignalMonitor, rpc_port=50004, msg_que_id=131075
+.key=ChipConfigMgnt, rpc_port=50018, msg_que_id=589841
+.key=EventConfiguration, rpc_port=50004, msg_que_id=131075
+.key=OpticalModule, rpc_port=50007, msg_que_id=229382
+.key=ChipValueReader, rpc_port=50004, msg_que_id=131075
+.key=TransferFileInfo, rpc_port=50007, msg_que_id=229382
+.key=_CpuMem, rpc_port=50003, msg_que_id=98306
+.key=RmcpConfig, rpc_port=50011, msg_que_id=360458
+.key=SASPHYStatus, rpc_port=50015, msg_que_id=491534
+.key=PCIeSSDCard, rpc_port=50010, msg_que_id=327689
+.key=UidButton, rpc_port=50004, msg_que_id=131075
+.key=VncLink, rpc_port=50021, msg_que_id=688148
+.key=Action, rpc_port=50018, msg_que_id=589841
+.key=VmseChannel, rpc_port=50003, msg_que_id=98306
+.key=_PcieSwitch, rpc_port=50022, msg_que_id=720917
+.key=ThresholdSensor, rpc_port=50004, msg_que_id=131075
+.key=_discovery, rpc_port=50006, msg_que_id=196613
+.key=MctpCtrl, rpc_port=50023, msg_que_id=753686
+.key=GPUBoard, rpc_port=50010, msg_que_id=327689
+.key=RegAction, rpc_port=50010, msg_que_id=327689
+.key=LSWChipMgnt, rpc_port=50007, msg_que_id=229382
+.key=PortMapping, rpc_port=50007, msg_que_id=229382
+.key=VariantExpression, rpc_port=50007, msg_que_id=229382
+.key=M2TransformCard, rpc_port=50010, msg_que_id=327689
+.key=LogicalDriveAlertInfo, rpc_port=50015, msg_que_id=491534
+.key=DiscreteSensor, rpc_port=50004, msg_que_id=131075
+.key=UserRole, rpc_port=50019, msg_que_id=622610
+.key=DeaSdr, rpc_port=50004, msg_que_id=131075
+.key=SyslogItemCfg, rpc_port=50004, msg_que_id=131075
+.key=_sensor_alarm, rpc_port=50004, msg_que_id=131075
+.key=_MCTP, rpc_port=50023, msg_que_id=753686
+.key=SSL, rpc_port=50007, msg_que_id=229382
+.key=USBMassStorage, rpc_port=50021, msg_que_id=688148
+.key=CPLDSelftest, rpc_port=50013, msg_que_id=425996
+.key=DNSSetting, rpc_port=50006, msg_que_id=196613
+.key=ChipUpgradeByI2C, rpc_port=50018, msg_que_id=589841
+.key=EndpointIdentifier, rpc_port=50022, msg_que_id=720917
+.key=CpuBoard, rpc_port=50010, msg_que_id=327689
+.key=PowerOnCriteria, rpc_port=50007, msg_que_id=229382
+.key=NandInfo, rpc_port=50007, msg_que_id=229382
+.key=Policy1Class, rpc_port=50001, msg_que_id=32768
+.key=SensorShortTermSpecMonitor, rpc_port=50004, msg_que_id=131075
+.key=PTAS, rpc_port=50001, msg_que_id=32768
+.key=ComputerSystem, rpc_port=50006, msg_que_id=196613
+.key=FANBoard, rpc_port=50010, msg_que_id=327689
+.key=EventDescpCfgToHmm, rpc_port=50004, msg_que_id=131075
+.key=PCIeTransformCard, rpc_port=50010, msg_que_id=327689
+.key=PMEServiceConfig, rpc_port=50007, msg_que_id=229382
+.key=RepeaterMgnt, rpc_port=50010, msg_que_id=327689
+.key=ThresholdAssert, rpc_port=50004, msg_que_id=131075
+.key=RegConfig, rpc_port=50010, msg_que_id=327689
+.key=Pex9765, rpc_port=50022, msg_que_id=720917
+.key=TransferFile, rpc_port=50007, msg_que_id=229382
+.key=ExternalRefInfo, rpc_port=50020, msg_que_id=655379
+.key=_LicenseMgnt, rpc_port=50012, msg_que_id=393227
+.key=SmmFanFirmware, rpc_port=50018, msg_que_id=589841
+.key=AlertFilter, rpc_port=50004, msg_que_id=131075
+.key=TrapItemCfg, rpc_port=50004, msg_que_id=131075
+.key=DataCondition, rpc_port=50003, msg_que_id=98306
+.key=MSPP, rpc_port=50002, msg_que_id=65537
+.key=PCIeFPGACard, rpc_port=50010, msg_que_id=327689
+.key=RiserPcieCard, rpc_port=50010, msg_que_id=327689
+.key=IsMemBoard, rpc_port=50010, msg_que_id=327689
+.key=PcieHddRemoveMonitor, rpc_port=50015, msg_que_id=491534
+.key=SensorOemConfig, rpc_port=50004, msg_que_id=131075
+.key=VNC, rpc_port=50021, msg_que_id=688148
+.key=BladeCoolingPolicy, rpc_port=50001, msg_que_id=32768
+.key=_net_nat, rpc_port=50009, msg_que_id=294920
+.key=InsertStatusLedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PTASPolicy, rpc_port=50001, msg_que_id=32768
+.key=MainBoard, rpc_port=50010, msg_que_id=327689
+.key=PCIeSDICard, rpc_port=50010, msg_que_id=327689
+.key=BoardPower, rpc_port=50002, msg_que_id=65537
+.key=NvGPUAction, rpc_port=50010, msg_que_id=327689
+.key=DftVersion, rpc_port=50013, msg_que_id=425996
+.key=LicenseAlarmInfo, rpc_port=50012, msg_que_id=393227
+.key=CpuStatistic, rpc_port=50003, msg_que_id=98306
+.key=PeripheralDeviceSensor, rpc_port=50010, msg_que_id=327689
+.key=FibreChannel, rpc_port=50007, msg_que_id=229382
+.key=EventSeverityChange, rpc_port=50004, msg_que_id=131075
+.key=LedPanel, rpc_port=50004, msg_que_id=131075
+.key=BladeCpuThermal, rpc_port=50001, msg_que_id=32768
+.key=MaxValueMonitor, rpc_port=50004, msg_que_id=131075
+.key=VRDUpgradeMgntAssist, rpc_port=50018, msg_que_id=589841
+.key=PortConfig, rpc_port=50007, msg_que_id=229382
+.key=SecurityEnhance, rpc_port=50019, msg_que_id=622610
+.key=EnvRecord, rpc_port=50004, msg_que_id=131075
+.key=RawEepromFruDev, rpc_port=50007, msg_que_id=229382
+.key=Chassis, rpc_port=50007, msg_que_id=229382
+.key=_ipmi_app, rpc_port=50011, msg_que_id=360458
+.key=StringFormator, rpc_port=50004, msg_que_id=131075
+.key=LedDispElmt_RP, rpc_port=50004, msg_que_id=131075
+.key=PcieRetimer, rpc_port=50022, msg_que_id=720917
+.key=CardAction, rpc_port=50010, msg_que_id=327689
+.key=Vmm, rpc_port=50021, msg_que_id=688148
+.key=Upgrade, rpc_port=50018, msg_que_id=589841
+.key=Pex8725, rpc_port=50022, msg_que_id=720917
+.key=FanGroup, rpc_port=50001, msg_que_id=32768
+.key=DftStatus, rpc_port=50013, msg_que_id=425996
+.key=SASCable, rpc_port=50015, msg_que_id=491534
+.key=ManualControlLed, rpc_port=50004, msg_que_id=131075
+.key=ButtonTest, rpc_port=50013, msg_que_id=425996
+.key=BusinessPort, rpc_port=50007, msg_que_id=229382
+.key=IpmbEth, rpc_port=50011, msg_que_id=360458
+.key=ResidentNetConfig, rpc_port=50007, msg_que_id=229382
+.key=FPGAMemory, rpc_port=50003, msg_que_id=98306
+.key=Card, rpc_port=50010, msg_que_id=327689
+.key=PowerAlert, rpc_port=50002, msg_que_id=65537
+.key=LicenseSaleItem, rpc_port=50012, msg_que_id=393227
+.key=IPMIChannel, rpc_port=50011, msg_que_id=360458
+.key=RedfishEvtSubscription, rpc_port=50016, msg_que_id=524303
+.key=VPD, rpc_port=50015, msg_que_id=491534
+.key=ProcessorFamily, rpc_port=50020, msg_que_id=655379
+.key=IPMIMessageFilter, rpc_port=50011, msg_que_id=360458
+.key=Kvm, rpc_port=50021, msg_que_id=688148
+.key=FANClass, rpc_port=50001, msg_que_id=32768
+.key=OscaPcieCard, rpc_port=50010, msg_que_id=327689
+.key=BMC, rpc_port=50007, msg_que_id=229382
+.key=ProxyVmm, rpc_port=50005, msg_que_id=163844
+.key=CoolingCondition, rpc_port=50001, msg_que_id=32768
+.key=Sel, rpc_port=50004, msg_que_id=131075
+.key=HDDLocationStatus, rpc_port=50015, msg_que_id=491534
+.key=PswCpld, rpc_port=50022, msg_que_id=720917
+.key=SASExpander, rpc_port=50015, msg_que_id=491534
+.key=Led, rpc_port=50004, msg_que_id=131075
+.key=VirtualHDDBackplane, rpc_port=50010, msg_que_id=327689
+.key=RegMonitor, rpc_port=50004, msg_que_id=131075
+.key=DataAcquisitionTagDefinition, rpc_port=50020, msg_que_id=655379
+.key=Hotswap, rpc_port=50007, msg_que_id=229382
+.key=LedCtrl, rpc_port=50004, msg_que_id=131075
+.key=PowerMgnt, rpc_port=50002, msg_que_id=65537
+.key=Eth, rpc_port=50007, msg_que_id=229382
+.key=BoardRTC, rpc_port=50007, msg_que_id=229382
+.key=_redfish, rpc_port=50016, msg_que_id=524303
+.key=CpuPowTempMap, rpc_port=50001, msg_que_id=32768
+.key=Cooling, rpc_port=50001, msg_que_id=32768
+.key=I2cLed, rpc_port=50004, msg_que_id=131075
+.key=Elabel, rpc_port=50007, msg_que_id=229382
+.key=ProxyKvm, rpc_port=50005, msg_que_id=163844
+.key=TrapConfig, rpc_port=50004, msg_que_id=131075
+.key=Fru, rpc_port=50007, msg_que_id=229382
+.key=ScriptEngine, rpc_port=50008, msg_que_id=262151
+.key=LogicalDrive, rpc_port=50015, msg_que_id=491534
+.key=PcieSwitchAction, rpc_port=50022, msg_que_id=720917
+.key=Dump, rpc_port=50008, msg_que_id=262151
+.key=EventInformation, rpc_port=50004, msg_que_id=131075
+.key=_Dft, rpc_port=50013, msg_que_id=425996
+.key=EventDescp, rpc_port=50004, msg_que_id=131075
+.key=OAM, rpc_port=50007, msg_que_id=229382
+.key=OemSdr, rpc_port=50004, msg_que_id=131075
+.key=McdlSdr, rpc_port=50004, msg_que_id=131075
+.key=SSLEncryptKey, rpc_port=50007, msg_que_id=229382
+.key=AgeTest, rpc_port=50013, msg_que_id=425996
+.key=LedDispElmt_S, rpc_port=50004, msg_que_id=131075
+.key=RaidController, rpc_port=50015, msg_que_id=491534
+.key=PasswdSetting, rpc_port=50019, msg_que_id=622610
+.key=MutualAuthentication, rpc_port=50007, msg_que_id=229382
+.key=OpaMezzInfo, rpc_port=50010, msg_que_id=327689
+.key=_BMC, rpc_port=50007, msg_que_id=229382
+.key=ChipFirmwareMgnt, rpc_port=50018, msg_que_id=589841
+.key=MutualAuthenticationCliCert, rpc_port=50007, msg_que_id=229382
+.key=BusinessPortVLAN, rpc_port=50007, msg_que_id=229382
+.key=LicenseManage, rpc_port=50012, msg_que_id=393227
+.key=ChipValueChecker, rpc_port=50004, msg_que_id=131075
+.key=ConditionAction, rpc_port=50004, msg_que_id=131075
+.key=_FileManage, rpc_port=50014, msg_que_id=458765
+.key=DiscreteEvent, rpc_port=50004, msg_que_id=131075
+.key=VoltTest, rpc_port=50004, msg_que_id=131075
+.key=CompositionEndpoint, rpc_port=50022, msg_que_id=720917
+.key=CertMonitor, rpc_port=50007, msg_que_id=229382
+.key=LedDispElmt, rpc_port=50004, msg_que_id=131075
+.key=AlertString, rpc_port=50004, msg_que_id=131075
+.key=Snmp, rpc_port=50005, msg_que_id=163844
+.key=OscaPort, rpc_port=50017, msg_que_id=557072
+.key=OSDrivePartition, rpc_port=50006, msg_que_id=196613
+.key=PcieRetimerAction, rpc_port=50022, msg_que_id=720917
+.key=Component, rpc_port=50007, msg_que_id=229382
+.key=FruStatics, rpc_port=50007, msg_que_id=229382
+.key=ProductComponent, rpc_port=50007, msg_que_id=229382
+.key=DftItem, rpc_port=50013, msg_que_id=425996
+.key=_card_manage, rpc_port=50010, msg_que_id=327689
+.key=NTP, rpc_port=50007, msg_que_id=229382
+.key=LDAP, rpc_port=50007, msg_que_id=229382
+=====================other info=============================
+ipmi app rpc port=50011
+dft app rpc port=50013
+my rpc port=50005
+my ipc id=163844
+sync sem4 id=917531
+module id=6
+=============================client end==========================
+=====================class info============================
+--------------------- PortConfig          -----------------
+listened       : State: 163844, 229382, 294920, 622610, 
+               : Port: 163844, 229382, 294920, 622610, 
+--------------------- User                -----------------
+listened       : Privilege: 688148, 
+--------------------- SSL                 -----------------
+--------------------- Upgrade             -----------------
+listened       : Degrade: 98306, 
+               : UpgradedFlag: 163844, 229382, 131075, 524303, 622610, 688148, 
+               : PreRollbackFlag: 163844, 229382, 131075, 524303, 622610, 688148, 
+--------------------- Vmm                 -----------------
+--------------------- ProxyVmm            -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+               : EncryptState: 688148, 
+--------------------- Snmp                -----------------
+listened       : AuthProtocol: 229382, 622610, 
+               : PrivProtocol: 229382, 622610, 
+               : PortID: 229382, 
+               : OldEngineID: 622610, 
+--------------------- Kvm                 -----------------
+--------------------- MutualAuthentication-----------------
+listened       : MutualAuthenticationState: 163844, 622610, 
+               : MutualAuthenticationOCSP: 163844, 622610, 
+--------------------- ProxyKvm            -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+               : ScreenSwitch: 688148, 
+               : EncryptState: 688148, 
+               : KvmTimeout: 688148, 
+               : LocalKVMState: 688148, 
+--------------------- EthGroup            -----------------
+listened       : IpAddr: 163844, 229382, 622610, 360458, 
+               : Ipv6Addr: 229382, 622610, 
+               : SLAACIpv6Addr: 229382, 
+               : Ipv6LocalLink: 229382, 
+               : IpMode: 229382, 622610, 
+               : Ipv6Mode: 229382, 622610, 
+               : VlanID: 229382, 
+               : ActivePort: 229382, 
+               : VlanState: 229382, 
+               : InnerNetWork: 229382, 
+               : IpVersion: 622610, 
+               : SubnetMask: 622610, 
+               : DefaultGateway: 622610, 
+               : Ipv6DefaultGateway: 622610, 
+               : Ipv6Prefix: 622610, 
+--------------------- PrivilegeAgent      -----------------
+--------------------- EncryptKey          -----------------
+listened       : WorkKey: 163844, 131075, 524303, 622610, 688148, 
+--------------------- Video               -----------------
+--------------------- PMEServiceConfig    -----------------
+--------------------- ProxyVideo          -----------------
+listened       : Port: 688148, 
+               : State: 688148, 
+--------------------- Log                 -----------------
+--------------------- SecurityEnhance     -----------------
+listened       : TLSVersion: 163844, 688148, 
+               : BannerState: 622610, 
